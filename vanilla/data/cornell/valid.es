@@ -1,5 +1,5 @@
 What's in those files? 
-The names of the members of the Berlin Philharmonic Orchestra since 1934 together with their questionnaires.  Major, what am I to tell Dr. Furtwängler? 
+The names of the members of the Berlin Philharmonic Orchestra since 1934 together with their questionnaires.  Major, what am I to tell Dr. FurtwÃ¤ngler? 
 You tell him nothing, Emmi. If he calls again, you say you know nothing. We're gonna keep him waiting while I get acquainted with his case and with the witnesses. And, God help me, with Beethoven.
 Come in, Emmi, this is your office, too. Emmi, this is Lieutenant David Wills.
 Shut the door, Emmi. Sit down, Emmi. We're going to keep him waiting, too.
@@ -15,10 +15,10 @@ But he had no idea, a lot of people had no idea. I only realised what was really
 If he had no idea, why did the Jews need saving? This is the question, Emmi, to all Germans: Why did the Jews need saving in this country? Why, if people had no idea? 
 I would like to go now, please.
 Colonel. Pleasure. 
-So, Major, tell me, have you questioned Dr. Furtwängler? 
+So, Major, tell me, have you questioned Dr. FurtwÃ¤ngler? 
 Not yet. 
 I've had two meetings with him. He's a great musician. Maybe the greatest conductor in the world. His Brahms, Beethoven, Schubert - unequalled.
-Furtwängler's in a different category. 
+FurtwÃ¤ngler's in a different category. 
 We're dealing with degenerates here.
 That's why he didn't get the hell out of here when he had the chance! I put that to him, he couldn't answer. Why didn't he go and direct in America, like that Italian, Toscanini.
 Anyway, Major, why should he leave his country, his mother tongue, his family, his history, his past, his future, just because now, suddenly, there is a dictatorship? Why? 
@@ -29,9 +29,9 @@ In a dictatorship, art belongs to the Party. If you want to be a conductor, you 
 This is what I'm saying. He must have had Party contacts. 
 There are good Party members who help, and there are dirty non-Party members who inform on you. Of course, they gave him privileges. And suddenly, Steve, suddenly you notice that they like you. They honour you, suddenly you are the director of the best museum in the world, for example. 
 What museum? 
-I'm sorry. Museum? Not... I said orchestra. Sorry. Believe me.  Help me, Steve. You say you answer for someone from high up. I, too, have orders from high up. Very high up. We want Furtwängler. I'll give you in return the whole orchestra, four, five conductors. I need him, Steve. 
+I'm sorry. Museum? Not... I said orchestra. Sorry. Believe me.  Help me, Steve. You say you answer for someone from high up. I, too, have orders from high up. Very high up. We want FurtwÃ¤ngler. I'll give you in return the whole orchestra, four, five conductors. I need him, Steve. 
 No can do. 
-Let Furtwängler go. Please. 
+Let FurtwÃ¤ngler go. Please. 
 I have a duty. 
 Duty? I am sorry, duty? Duty fucking duty. Trouble is, you Americans want everybody to live like you. We liberated Berlin, Major Steve, not you. Our duty also is to bring back the best of German culture. 
 I'm gonna get that fucking bandleader, Colonel. No deal. No fucking deal. 
@@ -62,7 +62,7 @@ That's big of him. Okay, better question the next witness. I bet you a bottle of
 Five minutes. 
 It's a bet. You're the witness, Emmi.
 Yes. What was the orchestra's reaction when they asked you to play for Hitler's birthday?
-Why not show Dr. Furtwängler the evidence. It may refresh his memory?
+Why not show Dr. FurtwÃ¤ngler the evidence. It may refresh his memory?
 Major, I don't see how this line of questioning could... 
 David, what are you Counsel for the Defence now?  Did you hear the question?
 Major, this is deeply offensive and repugnant! 
@@ -95,11 +95,11 @@ When he met Hitler at his birthday and shook hands with him, was he pleased?
 I don't know. But you and I already know that he has saved lives.
 And this, only one of these letters, Major. I have lots of them.
 On all what? 
-On Furtwängler. 
+On FurtwÃ¤ngler. 
 I don't know. 
 You represent the United States now. We have a moral duty to be just and we have to be seen to be just. 
 Major Arnold believes he has a moral duty, too. 
-Our duty is to help Furtwängler with his defence,  That's why I want you to look at this...  These are part of the transcripts of the trial at Nuremberg. We can't get them translated fast enough. But I guess you understand German, right?
+Our duty is to help FurtwÃ¤ngler with his defence,  That's why I want you to look at this...  These are part of the transcripts of the trial at Nuremberg. We can't get them translated fast enough. But I guess you understand German, right?
 Six shots at less than ten feet.  Weapon was a large caliber--
 That can't be right.  That's the name of the one Valley Division mopped up this after- noon. 
 Here's her driver's license. 
@@ -3476,7 +3476,7 @@ Exactly.
 Richard, you know something - That is just the kind of pretentious bullshit that Englishmen and Americans always say to French girls so that they can sleep with them. 
 Sorry. I thought I was doing quite well. 
 It's just the sky, Richard.
-If it's too far, then we'll drown. But if we don’t try then we'll never know.
+If it's too far, then we'll drown. But if we donÂ’t try then we'll never know.
 What idiot would lend him money? It would disappear. 
 He said if we lent him money h would tell us about a secret beach. 
 It's on an island that no one get to. 
@@ -4007,7 +4007,7 @@ They're racist, they're militaristic, they act like bullyboys in the territories
 They don't have extermination camps. 
 They had Sabra and Shattila.
 They sound like you. 
-The Nazis did everything the führer told them. You do everything the Torah tells you. Or the rebbe. Identical slave mentality.
+The Nazis did everything the fÃ¼hrer told them. You do everything the Torah tells you. Or the rebbe. Identical slave mentality.
 We have free will and intelligence -- which God allegedly gave us....
 There's midrash supporting this. My father read a book by Shalom Spiegel that -- Isaac actually died and was reborn. 
 No one follows that midrash. 
@@ -4546,39 +4546,39 @@ Kiki -- he won't hurt you. There's nothing to be afraid of.
 Makes no difference. Get him out! 
 Listen, Kicks, you'll never guess what I've cooked up this tine... 
 That's easy. Me. 
-I thought -- is Kiki just going to walk on that floor tonight ——walk out cold before a bunch of gawks who think a Spanish twirler is the greatest thing in life. No. Not my favorite client. She's going to make an entrance this town will never forget! 
+I thought -- is Kiki just going to walk on that floor tonight Â—Â—walk out cold before a bunch of gawks who think a Spanish twirler is the greatest thing in life. No. Not my favorite client. She's going to make an entrance this town will never forget! 
 On his back, I suppose. 
 No. I thought that might be just a little corny. I want you to lead him in on a leash. 
 You're too good to me. 
 Look, Kicks, have I ever done anything to hurt you? 
-No —- not yet. 
-And I never will- you know what's between us — we're a thing But this is serious competition. 
+No Â—- not yet. 
+And I never will- you know what's between us Â— we're a thing But this is serious competition. 
 Get it out of here! 
 Kiki - he won't hurt you. There's nothing to be afraid of. 
 Makes no difference.  Get him out. 
 Listen, Kicks, you'll never guess what I've cooked up this time. 
 That's easy. Me. 
-I thought -— is Kiki just going to walk on that floor tonight walk out cold before a bunch of gawks who think a Spanish twirler is the greatest thing in life. No. Not my favorite client. She's going to make an entrance  this town will never forget. 
+I thought -Â— is Kiki just going to walk on that floor tonight walk out cold before a bunch of gawks who think a Spanish twirler is the greatest thing in life. No. Not my favorite client. She's going to make an entrance  this town will never forget. 
 On his back, I suppose. 
 No. I thought that might be just a little corny.  I want you to lead him in on a leash. 
 You're too good to me. 
 Look, Kicks, how long have we known each other? 
 This is l939. Can't you subtract? 
 Almost three years, isn't it? And have I ever done anything to hurt you? 
-No —— not yet. 
-And I never will -- you know what's between us -— we're a thing -- But this is serious -- big competition. 
+No Â—Â— not yet. 
+And I never will -- you know what's between us -Â— we're a thing -- But this is serious -- big competition. 
 Clo-Clo? 
 I thought you might strut this kitten in right in the middle of her act.
 The red dress?  No. My black one. Then I'll be just like him.
 Now look what you've done.
 Don't be soft.
 And I suppose you don't feel bad! Who was the other man? 
-I don't know —— a witness. He seemed to know something about animals -- you know -- expert testimony. 
-What did he have to do -— look at the body? 
+I don't know Â—Â— a witness. He seemed to know something about animals -- you know -- expert testimony. 
+What did he have to do -Â— look at the body? 
 We all, had to look at the body. It was awful, Kiki -- awful!
 Yeah. 
-And did you find the leopard? It must be the altitude —— you, bucking around the countryside with a lot of boot—and—saddle boys -- 
-The whole town's in a state, Kiki ——doors locked, people huddling together like scared sheep ——nobody on the streets at night —— 
+And did you find the leopard? It must be the altitude Â—Â— you, bucking around the countryside with a lot of bootÂ—andÂ—saddle boys -- 
+The whole town's in a state, Kiki Â—Â—doors locked, people huddling together like scared sheep Â—Â—nobody on the streets at night Â—Â— 
 Our first real break -- and we throw wild animals at the audience 
 Forget it. I'm buying a drink for a fellow who was on the posse with me, a nice guy. Come along he'll get a great kick out of meeting you. 
 Who is he? 
@@ -4607,15 +4607,15 @@ That's funny -- I never knew you to lose that much before -- As a matter of fact
 What! You can't be -- 
 I -- I bought some silver jewelry and stuff from Eloise -- 
 Eloise doesn't own enough of anything to make a dent in your pay check, Kicks. 
-All right, I'm not ashamed of it! I split it two ways — 
+All right, I'm not ashamed of it! I split it two ways Â— 
 Half to the Delgado family and half to Clo-Clo's family. 
 How do you know?
-We will ——
+We will Â—Â—
 It's all right. I'm not hurt.
-I know -- Teresa -— 
-I hated you that day —- you and your flip talk -— with that little girl lying dead. 
+I know -- Teresa -Â— 
+I hated you that day Â—- you and your flip talk -Â— with that little girl lying dead. 
 I know. What do you think I felt when you said, "don't be soft?" 
-Jerry, I want you to be soft. You are soft -- inside -— where it matters. I wanted it that day too, but didn't dare tell you. 
+Jerry, I want you to be soft. You are soft -- inside -Â— where it matters. I wanted it that day too, but didn't dare tell you. 
 We ought to dare to tell each other everything, Kiki -- you and I.
 Kiki, Galbraith said something to me once, -- something you ought to know. We were talking and he said that people were like that ball on the fountain at the hotel --they got pushed around by things bigger than themselves. That's the way it was with us -- and we were too small to see it that way.
 Thanks, Sheriff.
@@ -4636,21 +4636,21 @@ I am not interested in what somebody else thinks. You being me facts and I'll ac
 That's a fact, isn't it? 
 Yes. And I am taking it to headquarters for examination. 
 You won't go to Galbraith with me? 
-Offend a reputable citizen and involve the department in a slander suit? No. I'm in office to protect the taxpayers money — not throw it way. Come on, Charlie.
-To know where that leopard went - — I'm afraid you'd have to be a leopard and think like a leopard. I was a naturalist. That hardly qualifies me as an expert in hunting down lost leopards. I used to teach zoology in a little fresh—water college back East. I gave that up. 
+Offend a reputable citizen and involve the department in a slander suit? No. I'm in office to protect the taxpayers money Â— not throw it way. Come on, Charlie.
+To know where that leopard went - Â— I'm afraid you'd have to be a leopard and think like a leopard. I was a naturalist. That hardly qualifies me as an expert in hunting down lost leopards. I used to teach zoology in a little freshÂ—water college back East. I gave that up. 
 What do you do now? 
 There's a little museum here in town. They've hired me to run it, We've some interesting exhibits of Indian arts and crafts. It's fun -- and I like living here in New Mexico. 
 Why did you give up teaching? 
-Various reasons.  But I can't see why you'd be interested in the rather dusty career of William Galbraith — teacher, naturalist, curator -- when you lead such a gay and exciting life yourself.
-Well, I'm hardly Mrs. Leslie Carter —whoever she was. In fact, I'm not even much of a success around here particularly after the backfire on Jerry's little publicity stunt with the leopard. 
+Various reasons.  But I can't see why you'd be interested in the rather dusty career of William Galbraith Â— teacher, naturalist, curator -- when you lead such a gay and exciting life yourself.
+Well, I'm hardly Mrs. Leslie Carter Â—whoever she was. In fact, I'm not even much of a success around here particularly after the backfire on Jerry's little publicity stunt with the leopard. 
 That was unfortunate. 
 That was a calamity!
 I'm sure if you are as talented as you are charming, Miss Walker, you have nothing to worry about. 
 Thanks.
-Miss Walker -- I didn't expect anyone ——
-I thought they came right past here —— 
-They do, but -- there are no lights out there —- they'll just be shadows -—
-No —- really, I can see them -- they're coming now -— turn off the lights ——
+Miss Walker -- I didn't expect anyone Â—Â—
+I thought they came right past here Â—Â— 
+They do, but -- there are no lights out there Â—- they'll just be shadows -Â—
+No Â—- really, I can see them -- they're coming now -Â— turn off the lights Â—Â—
 Yes. It's always fascinated me.  You know, once, when I was a youngster, I went to see Mrs. Leslie Carter in "Zaza." After the play I stood in the alley just to watch her come out.
 I want to ask you something. It's about the leopard. 
 You're worrying about its killing someone else? 
@@ -4661,8 +4661,8 @@ No. I'm quite sure. There is no danger at all. It's a wild animal. Do you think 
 That's right, of course. 
 Don't feel so concerned, Jerry.
 Yes? 
-It doesn't jibe with this —— you told me the leopard would go out into the country —- it wouldn't stay in the city —— 
-Sure -- certainly —- but what's that got to do with this? 
+It doesn't jibe with this Â—Â— you told me the leopard would go out into the country Â—- it wouldn't stay in the city Â—Â— 
+Sure -- certainly Â—- but what's that got to do with this? 
 That's what I don't understand -- why should it come here -- and why didn't it stay here? It's got trees and bushes here -- outside nothing but cement and asphalt. 
 Jerry, I talked to you about the habits of an ordinary wild leopard. This leopard is another matter entirely - - a caged animal travelling around with Charlie How Come for years and years.. That's why it kills human beings. 
 Why? 
@@ -4685,7 +4685,7 @@ But he would have to know about leopards - have access to leopard claws and hair
 A hunch -- that's all I've got about this leopard thing. It's just a hunch, yet I feel it deep in the stomach. It was a man! 
 Yes, but what sort of a man? 
 I don't know. 
-You, Charlie -- you know leopards. You might have had an old claw around somewhere, and perhaps a bit of hair from the cage -— eh?
+You, Charlie -- you know leopards. You might have had an old claw around somewhere, and perhaps a bit of hair from the cage -Â— eh?
 Don't you want to see the rest of the exhibit? 
 Some other time.
 Just barely possible - - yes. 
@@ -4699,7 +4699,7 @@ I don't mean that. How would he act? What would he do?
 He'd act normally when he was with other people. It would be a man who suffered remorse and even pity when it was all over. 
 Couldn't you tell a man like that when you saw him? 
 No. He would be a hard man to find, Jerry. Particularly if he were a clever men. He would go about his ordinary business calmly and coolly except when the fit to kill was on him. 
-You've thought of all this before. You know it isn't the leopard ——  Don't you?
+You've thought of all this before. You know it isn't the leopard Â—Â—  Don't you?
 No. 
 It was you. 
 Not! I tell you. No! 
@@ -4709,45 +4709,45 @@ Consuelo screamed too -- and Clo Clo. Why did you do it? Why? Quick. Tell me why
 It's better you don't know. 
 Tell me. 
 Why do yo&amp;i accuse me? You don't know what you're doing -- you don't understand -- nobody understands --
-I couldn't rest —- I couldn't sleep. All I could see was Teresa Delgado's body -- broken --mangled. I saw it day and night.  It was waiting everywhere I turned. 
+I couldn't rest Â—- I couldn't sleep. All I could see was Teresa Delgado's body -- broken --mangled. I saw it day and night.  It was waiting everywhere I turned. 
 Then you found the leopard -- 
 I didn't want to kill, but I had to. I heard her in the cemetery - talking to the man in the auto --
 Good evening. 
-You know all about these things - - and I've lived here all my life —- and I still don't know what the Procession means. 
-It's to remind people of the great tragedy that took place here so that they won't ever forget that a peaceful village of Indians was wiped out by the Conquistadores, back in the 17th Century... A band of monks buried the dead and prayed for them and did penance for their deaths —— that's what this procession is supposed to be. 
+You know all about these things - - and I've lived here all my life Â—- and I still don't know what the Procession means. 
+It's to remind people of the great tragedy that took place here so that they won't ever forget that a peaceful village of Indians was wiped out by the Conquistadores, back in the 17th Century... A band of monks buried the dead and prayed for them and did penance for their deaths Â—Â— that's what this procession is supposed to be. 
 Oh, that's so interesting! 
 Well, now that you've had your history lesson, I think I'll get on to the museum.
 She's a local. When the dudes come out to New Mexico, they went to wallow in Latin glamour. This is a bad town for blondes. 
-Yes. So I've noticed. Jerry's noticed -— He'll come up with something. 
+Yes. So I've noticed. Jerry's noticed -Â— He'll come up with something. 
 You think be's pretty nice, don't you? 
-Why not? He's a good press agent and a good friend. Besides, we've shared a lot of headaches —— 
+Why not? He's a good press agent and a good friend. Besides, we've shared a lot of headaches Â—Â— 
 You're lucky. I wish he'd front page for me. 
 Maybe. For three years I've sung in rats' nests, while Jerry pounded his feet off and his brains out -- trying to get me a real chance. We're due for a little luck!
 I know. I know. You've got the talent. I got the breaks.
 I bet you try on my coffin some day -- I hope it "fits just perfect."
-Hey —— I'm over here. 
+Hey Â—Â— I'm over here. 
 I'll miss you too, honey --
 You must say that you went to take some of the roses to your father's grave... 
 At four. He will be there at four.
-Rosita —— I have wondered -— 
+Rosita Â—Â— I have wondered -Â— 
 What, senorita? 
 When you are going to see Pedro, does your heart beat until you tremble?
-I suppose so. I suppose it will be different for us, too —— when everyone knows. Then we will be just like other people.  But these last weeks will always be our secret —— a lovely secret to remember all our lives.
+I suppose so. I suppose it will be different for us, too Â—Â— when everyone knows. Then we will be just like other people.  But these last weeks will always be our secret Â—Â— a lovely secret to remember all our lives.
 I saw Teresa. Maybe I was the last to see her except perhaps her Mamacita and her little brother. I was going past -- 
 ) They buried Teresa today and they were hunting the leopard again -- out in the country this time. But they didn't get him. 
 They're fools. Why don't they let Charlie How-Come hunt it alone. He's an Indian. 
-All men are fools. They like to make a big show -— shout and hunt --
+All men are fools. They like to make a big show -Â— shout and hunt --
 You'll meet a rich man and he will give, you money. 
 You and your cards. Meet a rich man! I look for them with money. What rich man hasn't money. And for what was I born if it wasn't for money? You're not telling me anything. 
 Watch and see, A day or a week - but certainly this month -- you will have money from a man and then-
 Who? 
 The elderly man I told you about.
 What are you doing that for?
-Go on -— 
+Go on -Â— 
 Don't look at it! 
-Let me see it —— The death card - - 
+Let me see it Â—Â— The death card - - 
 Maybe not - cards mean different things different times --
-Tomorrow -—
+Tomorrow -Â—
 Look, Charlie, just be patient. I'll fix everything. You don't want that cat, anyway. It killed two people. 
 No, sir. That girl in the cemetery? My cat didn't kill that girl. I told you cats don't go around looking for trouble. If that cat's alive, it's out in the country hiding under a bush, starving to death. 
 You really think so, Charlie? 
@@ -4771,10 +4771,10 @@ I don't know. I want him to lock me up.
 You found the leopard! 
 What's left of him. 
 Where? Where did you find it? 
-North -- in an arroyo, Shot through the head —- maybe week ago. No good, skin, everything gone —— 
-What arroyo -— how did you get to it —— 
+North -- in an arroyo, Shot through the head Â—- maybe week ago. No good, skin, everything gone Â—Â— 
+What arroyo -Â— how did you get to it Â—Â— 
 And here is Three Tree Mesa -- and here I go out of the big arroyo -- 
-That's the place: I remember -— My feet were so darn sore, I couldn't make it -- and Galbraith went on up to the head of the canyon by himself --
+That's the place: I remember -Â— My feet were so darn sore, I couldn't make it -- and Galbraith went on up to the head of the canyon by himself --
 It don't look like a leopard to me.
 You know -- not scared enough. Nothing to scare it. 
 If a leopard didn't do it, who did?
@@ -4790,297 +4790,297 @@ Why not?
 That depends. How much money has he? 
 When you marry champagne, Clo-Clo, you can't trade it in for beer. You're stuck with it. 
 I can't understand that fancy talk.  You mean I'm a gold-digger? Sure, I'm a gold-digger -- why not? 
-Why not -- if you like it —- if that's what you really want. 
-Maybe I should just forget all about money - - forget about mamma and the kids and the rent, huh - marry some poor dope like -- oh, like Carlos Dominguez - - and get fat and —- 
+Why not -- if you like it Â—- if that's what you really want. 
+Maybe I should just forget all about money - - forget about mamma and the kids and the rent, huh - marry some poor dope like -- oh, like Carlos Dominguez - - and get fat and Â—- 
 Who's Carlos Dom-what's-his-name? 
 Nobody. A boy who works in a grocery. 
 Good looking? 
-Mmm———yes. 
+MmmÂ—Â—Â—yes. 
 Nice fellow? Is he in love with you? 
-I don't know —- Why do you ask so many questions? What difference does it make how Carlos and I feel? Feeling does not buy clothes and houses! 
+I don't know Â—- Why do you ask so many questions? What difference does it make how Carlos and I feel? Feeling does not buy clothes and houses! 
 Drink your beer and don't get so excited.
 What about me? 
 You get your money from your husband.
 Cost what? 
 Costliest! 
-What’s that? A word? 
+WhatÂ’s that? A word? 
 What do you think? 
-I don’t know. Could be the sound of jewellery hitting a parquet floor, huh? 
+I donÂ’t know. Could be the sound of jewellery hitting a parquet floor, huh? 
 Very funny. Can I go on now? 
 Sure. But speak English, will ya, ha ha...
-Salut, Laurent. Ouais. It wasn’t easy but I got what you wanted through Interpol. Say, what’s your business with these Spitzes? 
+Salut, Laurent. Ouais. It wasnÂ’t easy but I got what you wanted through Interpol. Say, whatÂ’s your business with these Spitzes? 
 They lost their son. Why? 
-It appears that in their younger days they were actively involved with a shady German group of Nazi hunters known as “Never Forget”. Over the years we’re talking about a dozen or so execution-type killings. 
+It appears that in their younger days they were actively involved with a shady German group of Nazi hunters known as Â“Never ForgetÂ”. Over the years weÂ’re talking about a dozen or so execution-type killings. 
 Are they still operative? 
-Their last suspected kill occurred two years back, though your Spitzes now probably do no more than bankroll the group. Still, I’d watch my step. These people are well-connected, Laurent; former Israeli prime minister, etc. The lady’s also president of an international Zionist organisation... Anyway, you get the picture. 
+Their last suspected kill occurred two years back, though your Spitzes now probably do no more than bankroll the group. Still, IÂ’d watch my step. These people are well-connected, Laurent; former Israeli prime minister, etc. The ladyÂ’s also president of an international Zionist organisation... Anyway, you get the picture. 
 Mossad? 
-It’s a good guess...
-Who?  I don’t know who the fuck you’re talking about, sunshine. 
+ItÂ’s a good guess...
+Who?  I donÂ’t know who the fuck youÂ’re talking about, sunshine. 
 Gluck. 
-Figlio di puttana. You’re the French asshole who bumped off the London guys... 
+Figlio di puttana. YouÂ’re the French asshole who bumped off the London guys... 
 Five seconds. Then you die. 
 Fuck... 
 Three... 
-Gluck’s dead, you sonofabitch! You’re the lantern man, huh?  If you wanna see what’s left of him... 
+GluckÂ’s dead, you sonofabitch! YouÂ’re the lantern man, huh?  If you wanna see whatÂ’s left of him... 
 The acid bath? 
-Huh! You’ve been around, eh?
-Let me give you a tip, asshole - no one pulls stunts like what you pulled in London and here tonight and hopes to get away with it. It upsets people. It’s wrong. Fucking wrong. 
+Huh! YouÂ’ve been around, eh?
+Let me give you a tip, asshole - no one pulls stunts like what you pulled in London and here tonight and hopes to get away with it. It upsets people. ItÂ’s wrong. Fucking wrong. 
 Why did you kill him? 
-Huh! You turned him into a liability, didn’t you know? 
+Huh! You turned him into a liability, didnÂ’t you know? 
 Nice way to help a colleague in trouble. 
-That’s just it. The sonofabitch didn’t ask for help from his colleagues...  Testa di cazzo! Hiring some amateur outsiders to fix you... He hasn’t gone to hell too soon... And neither will you, Mr Lamont! 
-Are you telling me Friedman didn’t tell you I was here looking for him? 
-If he had, you’d be dead. 
-So why didn’t he? 
+ThatÂ’s just it. The sonofabitch didnÂ’t ask for help from his colleagues...  Testa di cazzo! Hiring some amateur outsiders to fix you... He hasnÂ’t gone to hell too soon... And neither will you, Mr Lamont! 
+Are you telling me Friedman didnÂ’t tell you I was here looking for him? 
+If he had, youÂ’d be dead. 
+So why didnÂ’t he? 
 What do you think, huh? 
-I think you’d rather not know what I think. 
-Huh. Maybe he figured the news our London bureau got a visit from a hitman on behalf of a pissed off client wouldn’t go down too well. He only shared his guilty secret last night. And then only ‘cause he was so fucking edgy after calling his hotel we persuaded him to talk. 
+I think youÂ’d rather not know what I think. 
+Huh. Maybe he figured the news our London bureau got a visit from a hitman on behalf of a pissed off client wouldnÂ’t go down too well. He only shared his guilty secret last night. And then only Â‘cause he was so fucking edgy after calling his hotel we persuaded him to talk. 
 So you killed him and went to clean out his hotel room... How did Friedman say he got to know where to find me? 
-That’s the beauty. An anonymous call. Makes you wonder how many people know what you’re up to, eh, French-fuck? 
+ThatÂ’s the beauty. An anonymous call. Makes you wonder how many people know what youÂ’re up to, eh, French-fuck? 
 Try again, and this time be polite. 
 I can only tell you what he told us... 
 Not even scum like Friedman would go to the trouble of killing a stranger on the strength of one anonymous call. 
-Some guy called to let him know the Frenchman who’d called the night before he left London was in L.A. looking to kill him. He did his sums and decided to take the call seriously. 
+Some guy called to let him know the Frenchman whoÂ’d called the night before he left London was in L.A. looking to kill him. He did his sums and decided to take the call seriously. 
 What sums? 
-Two stiffs and a missing kid followed your visit to one of the London hotels. He didn’t need your confession... 
-You’re sure he said his caller was a man? 
-That’s what he said... When they realise I’m missing... 
+Two stiffs and a missing kid followed your visit to one of the London hotels. He didnÂ’t need your confession... 
+YouÂ’re sure he said his caller was a man? 
+ThatÂ’s what he said... When they realise IÂ’m missing... 
 Shut up and walk... 
 What you gonna do? Kill me? 
-Don’t tempt me. The last scumbag who thought I might kill him died soon afterwards. 
-Huh. I’m a businessman. What are you, eh?
-Un Autrichien. Negociant en pré- pubescents.
+DonÂ’t tempt me. The last scumbag who thought I might kill him died soon afterwards. 
+Huh. IÂ’m a businessman. What are you, eh?
+Un Autrichien. Negociant en prÃ©- pubescents.
 Cinq cents. 
 Viens. 
-J’ai bien peur qu’il te faudra attendre.  Pas avant la matinée. 
-Tu sais où me trouver.
-Mon bureau coûtait trop cher. 
-Eh bien... T’es sûr que t’as besoin de moi?  La petite m’a l’air assez bien foutue, non?
+JÂ’ai bien peur quÂ’il te faudra attendre.  Pas avant la matinÃ©e. 
+Tu sais oÃ¹ me trouver.
+Mon bureau coÃ»tait trop cher. 
+Eh bien... TÂ’es sÃ»r que tÂ’as besoin de moi?  La petite mÂ’a lÂ’air assez bien foutue, non?
 Alors quoi? 
-Le montage, l’emballage. Not your regular street muck, is it? This is collectors’ stuff. How much would it cost me? 
-A l’achat, trois ou quatre mille. En location, cinq cent. Mais ça pourrait faire plus. Je ne sais pas. C’est pas vraiment mon truc.  I don’t know any Austrian, Xavier. 
+Le montage, lÂ’emballage. Not your regular street muck, is it? This is collectorsÂ’ stuff. How much would it cost me? 
+A lÂ’achat, trois ou quatre mille. En location, cinq cent. Mais Ã§a pourrait faire plus. Je ne sais pas. CÂ’est pas vraiment mon truc.  I donÂ’t know any Austrian, Xavier. 
 But maybe you know someone who does. An Austrian, in London, dealing in kids and snuff videos. How many can there be? These people supply to order. He has to be known, reachable. 
-Then why don’t you reach him? 
-I don’t have your credentials, Nathalie.
+Then why donÂ’t you reach him? 
+I donÂ’t have your credentials, Nathalie.
 If you can, send me a receipt.
 Excuse me? 
-I hear you’re looking for Leon.  That makes me, his old-lady, and now you, looking for the little bastard. Leon’s gone, man. Vanished. You interested in his photographs? 
+I hear youÂ’re looking for Leon.  That makes me, his old-lady, and now you, looking for the little bastard. LeonÂ’s gone, man. Vanished. You interested in his photographs? 
 Uh-huh. 
-No shit... Well, I’m afraid I can’t help you. 
-I take it you don’t know where he is, then? 
-Huh! You could always try Suicide Bridge.  You don’t know Leon, do you? 
+No shit... Well, IÂ’m afraid I canÂ’t help you. 
+I take it you donÂ’t know where he is, then? 
+Huh! You could always try Suicide Bridge.  You donÂ’t know Leon, do you? 
 I know his work better than I know him. 
-Let me put it this way then; the photographs and the man? One and the same, man, one and the same. At best fucking weird, at worst fucked-up fucking weird. Maybe you should think yourself lucky. Some folks just ain’t worth getting involved with. And Leon sure is one of ‘em. 
+Let me put it this way then; the photographs and the man? One and the same, man, one and the same. At best fucking weird, at worst fucked-up fucking weird. Maybe you should think yourself lucky. Some folks just ainÂ’t worth getting involved with. And Leon sure is one of Â‘em. 
 What about his girlfriend? 
 What about which girlfriend? 
 Small, blond, good-looking. She was with him when we met. She had a funny English accent. 
-Oh. That’d be Rhian, a Welsh chick he used to lay at weekends. She got wise and dumped him months ago... 
+Oh. ThatÂ’d be Rhian, a Welsh chick he used to lay at weekends. She got wise and dumped him months ago... 
 Would you know where I might reach her? 
-Yeah! Somewhere in Wales. I don’t really know her. Used to turn up in a Transit van on weekends, sell old furniture at Camden. That’s how come he only laid her at weekends, ha ha... 
+Yeah! Somewhere in Wales. I donÂ’t really know her. Used to turn up in a Transit van on weekends, sell old furniture at Camden. ThatÂ’s how come he only laid her at weekends, ha ha... 
 Could that be Camden Market? 
-Yeah. Why? You’re going to look for her... Shit! You really think his pictures are that good? 
+Yeah. Why? YouÂ’re going to look for her... Shit! You really think his pictures are that good? 
 Fucked-up fucking weird.
 No... 
-I didn’t think so. The rags on their sorry backs are the only wordly possessions those wretched creatures are ever found with...  I don’t wanna know who you are or how come you ended up roasting in Owl Canyon. But you might as well know I’d have let you fry to a buzzard meal if not for this... Now, can you stand up?  Can you use your legs and stand up? 
+I didnÂ’t think so. The rags on their sorry backs are the only wordly possessions those wretched creatures are ever found with...  I donÂ’t wanna know who you are or how come you ended up roasting in Owl Canyon. But you might as well know IÂ’d have let you fry to a buzzard meal if not for this... Now, can you stand up?  Can you use your legs and stand up? 
 I... How long have I been here? 
-Three days and that’s three days too many.Come on. Get your ass up. Huh... I guess you ain’t quite ready for civilisation yet... I’ll give you one more day, a meal, and then you’re on your way. 
+Three days and thatÂ’s three days too many.Come on. Get your ass up. Huh... I guess you ainÂ’t quite ready for civilisation yet... IÂ’ll give you one more day, a meal, and then youÂ’re on your way. 
 Los Angeles? 
 Los Angeles is 100 miles away. 
-I’d appreciate it if I could use your phone. 
-I’m sure you would. But if I had one, I wouldn’t let you near it. Now you tuck back in and rest until you’re told otherwise.  And for what it’s worth, I wouldn’t try anything that might be construed as unappreciative of my hospitality. I’d sooner shoot you than have you upset me... Barstow’s 30 miles to the left. Los Angeles a hundred to the right. Wherever you’re heading, I reckon somebody’ll pick you up. 
-Huh... I suppose the idea of a one day trip to Los Angeles doesn’t appeal to you... 
-Is that where lawyers toil for an industry that turns serial killers into heroes who give thrills to young women who write erotic novels about psychopaths and rapists?  You go to your world, I’ll stay in mine. So long, Mister.
+IÂ’d appreciate it if I could use your phone. 
+IÂ’m sure you would. But if I had one, I wouldnÂ’t let you near it. Now you tuck back in and rest until youÂ’re told otherwise.  And for what itÂ’s worth, I wouldnÂ’t try anything that might be construed as unappreciative of my hospitality. IÂ’d sooner shoot you than have you upset me... BarstowÂ’s 30 miles to the left. Los Angeles a hundred to the right. Wherever youÂ’re heading, I reckon somebodyÂ’ll pick you up. 
+Huh... I suppose the idea of a one day trip to Los Angeles doesnÂ’t appeal to you... 
+Is that where lawyers toil for an industry that turns serial killers into heroes who give thrills to young women who write erotic novels about psychopaths and rapists?  You go to your world, IÂ’ll stay in mine. So long, Mister.
 How are you, Rhian?
-Where’s your wallet? Have you got a wallet? 
+WhereÂ’s your wallet? Have you got a wallet? 
 Is this some kind of mugging? Because... 
-Shut up! Where’s your wallet? 
+Shut up! WhereÂ’s your wallet? 
 In my jacket. Left inside pocket. 
-Reach for it and throw it to me. And... My finger’s on the trigger, you hear! A private investigator... You’re not Austrian? 
+Reach for it and throw it to me. And... My fingerÂ’s on the trigger, you hear! A private investigator... YouÂ’re not Austrian? 
 Should I be? 
-What’s a French private investigator doing here? 
+WhatÂ’s a French private investigator doing here? 
 Can I get up now? 
 No! What do you want here? How do you know me? 
 As you know from speaking to Phil, your friend Leon has disappeared, Rhian. His family have hired me to find him. 
-...Leon’s not here. How did you get here? Phil doesn’t know where I live. 
-Well, I obviously do. And I also know that Leon’s not here, Rhian. But I thought that you might know where I should look for him. 
-You thought wrong. I haven’t seen Leon for months. 
-Haven’t you? Then why the worried messages on his answering machine, Rhian? I’d have sworn you expect him to be in trouble. 
-You-you’re wrong. I just called to ask if I could stay with him next time I’m in London. That’s all.
+...LeonÂ’s not here. How did you get here? Phil doesnÂ’t know where I live. 
+Well, I obviously do. And I also know that LeonÂ’s not here, Rhian. But I thought that you might know where I should look for him. 
+You thought wrong. I havenÂ’t seen Leon for months. 
+HavenÂ’t you? Then why the worried messages on his answering machine, Rhian? IÂ’d have sworn you expect him to be in trouble. 
+You-youÂ’re wrong. I just called to ask if I could stay with him next time IÂ’m in London. ThatÂ’s all.
 Shut up!
-Did Leon tell you why he didn’t want the police involved, Rhian? 
+Did Leon tell you why he didnÂ’t want the police involved, Rhian? 
 He just said he had good reasons. 
 Good reasons? 
-That’s what he said. I tried to dissuade him... Told him I couldn’t take on another child, that he’d get into trouble... I mean, people who sell children... But he wasn’t listening... I guess he finally found himself a crusade... His family think he’s back on drugs, eh?  Huh... Leon did drugs. A lot of drugs. Went through his self-destruct phase, you know?  Things to come to terms with. Demons to fight... Some people’s minds are gloriously uncomplicated. Not Leon’s. He did beat the drug, though. He did. 
+ThatÂ’s what he said. I tried to dissuade him... Told him I couldnÂ’t take on another child, that heÂ’d get into trouble... I mean, people who sell children... But he wasnÂ’t listening... I guess he finally found himself a crusade... His family think heÂ’s back on drugs, eh?  Huh... Leon did drugs. A lot of drugs. Went through his self-destruct phase, you know?  Things to come to terms with. Demons to fight... Some peopleÂ’s minds are gloriously uncomplicated. Not LeonÂ’s. He did beat the drug, though. He did. 
 His mother would be pleased to hear that. 
-Yeah... But he didn’t beat the demons...  A quarter of all the shoes sold in Europe are made by or retailed through his parent’s leather empire. All started from a small shop in the East End of London and war reparation money for holocaust victims. 
-I’m afraid I don’t understand. 
-They’re German Jews. Came here before the war. They both lost all their families in extermination camps, but they themselves never went near one. The idea that his family wealth was started with money he believes should have gone to camp survivors has been haunting Leon. It’s not guilt, more of a curse...  And then there’s something about his parents being involved with Nazi hunters... But I think that’s just one of Leon’s dark delusions... 
-Do you know Leon’s parents names? 
+Yeah... But he didnÂ’t beat the demons...  A quarter of all the shoes sold in Europe are made by or retailed through his parentÂ’s leather empire. All started from a small shop in the East End of London and war reparation money for holocaust victims. 
+IÂ’m afraid I donÂ’t understand. 
+TheyÂ’re German Jews. Came here before the war. They both lost all their families in extermination camps, but they themselves never went near one. The idea that his family wealth was started with money he believes should have gone to camp survivors has been haunting Leon. ItÂ’s not guilt, more of a curse...  And then thereÂ’s something about his parents being involved with Nazi hunters... But I think thatÂ’s just one of LeonÂ’s dark delusions... 
+Do you know LeonÂ’s parents names? 
 Albert... Albert and Ethel. Why?
 My sister... She lives in the next valley. 
 Is she on the phone? 
-Yes...You-you’re not going to take Shiva away? 
-I can’t think of a good reason for it - for now anyway. My number if anything happens. What’s your sister’s number? 
-Oh, I... She just moved. I’ve got her new... It’s in my book in the kitchen. Wait... Thank you. 
-And you better stop greeting strangers with a shotgun. If Leon’s Austrian was looking for you I reckon he’d have found you before I did. 
-I’m sorry. It’s just you don’t look local... 
-No sick people in the country, huh?... Just tell me one thing, Rhian. Leon’s story about the boy? You just took his word for it? 
-He’d come prepared. He had something besides Shiva... ‘Sleeping Beauty’. The Disney film...  Well, it looked like the Disney film. It was something else. I couldn’t watch...
-The nineteenth... How come you didn’t know? 
-I’ve been away.  Did Leon speak to you about his sister? 
+Yes...You-youÂ’re not going to take Shiva away? 
+I canÂ’t think of a good reason for it - for now anyway. My number if anything happens. WhatÂ’s your sisterÂ’s number? 
+Oh, I... She just moved. IÂ’ve got her new... ItÂ’s in my book in the kitchen. Wait... Thank you. 
+And you better stop greeting strangers with a shotgun. If LeonÂ’s Austrian was looking for you I reckon heÂ’d have found you before I did. 
+IÂ’m sorry. ItÂ’s just you donÂ’t look local... 
+No sick people in the country, huh?... Just tell me one thing, Rhian. LeonÂ’s story about the boy? You just took his word for it? 
+HeÂ’d come prepared. He had something besides Shiva... Â‘Sleeping BeautyÂ’. The Disney film...  Well, it looked like the Disney film. It was something else. I couldnÂ’t watch...
+The nineteenth... How come you didnÂ’t know? 
+IÂ’ve been away.  Did Leon speak to you about his sister? 
 Er... Yes... 
 Did he ever refer to the hostility between them? 
-He... Apparently the hostility was all hers. Leon didn’t... It hurt him. They used to be close...  Their parents were in their forties when they were born, you see. And mostly away. They grew up in a Scottish mansion with old nannies and servants. He... “Our world was so old and cold, we shone for one another,” Leon used to say. His sister cut him off after she got married. He never understood why but thought it was because she had no children. Was bitter... 
+He... Apparently the hostility was all hers. Leon didnÂ’t... It hurt him. They used to be close...  Their parents were in their forties when they were born, you see. And mostly away. They grew up in a Scottish mansion with old nannies and servants. He... Â“Our world was so old and cold, we shone for one another,Â” Leon used to say. His sister cut him off after she got married. He never understood why but thought it was because she had no children. Was bitter... 
 The money Leon left for the boy, was it cash? 
 Yes. Three thousand pounds. I still... 
 Did he mention anything about having an exhibition of his work? 
 ... No. 
 You sure? What about before he turned up with the boy? 
-... No. In fact, I’d seen him a couple of months earlier. He was quite depressed. His work wasn’t getting anywhere. He said he was going to try something new, realism, London in the nineties - documentary stuff, you know... He showed me a book with a picture of a couple caught kissing in a street... 
-How’s the boy doing? 
+... No. In fact, IÂ’d seen him a couple of months earlier. He was quite depressed. His work wasnÂ’t getting anywhere. He said he was going to try something new, realism, London in the nineties - documentary stuff, you know... He showed me a book with a picture of a couple caught kissing in a street... 
+HowÂ’s the boy doing? 
 Fine... 
-Good. You needn’t worry about the Austrian anymore. He’s dead. I’ll be in touch.
+Good. You neednÂ’t worry about the Austrian anymore. HeÂ’s dead. IÂ’ll be in touch.
 No. Thank you. Could you tell me if Leon Spitz is here, please? 
-Leon? No. I’m afraid he left. 
+Leon? No. IÂ’m afraid he left. 
 Left? When? I just come from his place and there was no one there. A neighbour of his... 
 No. I meant he left as in no longer works here. 
-Oh. This is... We’d arranged to meet tonight and I’m due to return to Paris tomorrow... 
-I’m sorry... 
-Yes. You wouldn’t know where I could reach him? We had to discuss an exhibition of his photographs at my Paris gallery, you see? I really need to see him before I leave.
+Oh. This is... WeÂ’d arranged to meet tonight and IÂ’m due to return to Paris tomorrow... 
+IÂ’m sorry... 
+Yes. You wouldnÂ’t know where I could reach him? We had to discuss an exhibition of his photographs at my Paris gallery, you see? I really need to see him before I leave.
 Should I come back in five minutes?
 Have you? 
 The person who put us in touch seems to think so. 
-I don’t recollect mentioning a friend. 
+I donÂ’t recollect mentioning a friend. 
 Your lady friend did. 
-The lady’s not a friend. She’s a whore.  Someone at a special screening I attended mentioned certain goods could be got from an Austrian here in London. And not just movies. 
+The ladyÂ’s not a friend. SheÂ’s a whore.  Someone at a special screening I attended mentioned certain goods could be got from an Austrian here in London. And not just movies. 
 And while visiting our fair city you...  An Austrian? 
 An Austrian. 
 An Austrian... Not much to go on, is it? 
-Questions can amount to revelations. Now, I’d hate to think I was made to come here carrying a substantial amount of money in order to be subjected to a cross- examination. Mr Friedman led me to believe we had a deal. Do we? 
+Questions can amount to revelations. Now, IÂ’d hate to think I was made to come here carrying a substantial amount of money in order to be subjected to a cross- examination. Mr Friedman led me to believe we had a deal. Do we? 
 Will you be alone?  The merchandise. Is it just you or... 
-I’ll be alone. 
-You must agree to be blindfolded...  Just for the journey. It might appear unseemly - you’re the paying customer - but ordinarily clients come with some kind of endorsement.
+IÂ’ll be alone. 
+You must agree to be blindfolded...  Just for the journey. It might appear unseemly - youÂ’re the paying customer - but ordinarily clients come with some kind of endorsement.
 Yeah. 
 At what time will you be available? 
-Three o’clock. 
-‘Le Mercury’. Newman street. Ask for Peter.
-This is the hotel supervisor, Mr Lamont. I’m terribly sorry to disturb you but there’s been a mix-up with our bookings which you might be able to help us resolve. 
+Three oÂ’clock. 
+Â‘Le MercuryÂ’. Newman street. Ask for Peter.
+This is the hotel supervisor, Mr Lamont. IÂ’m terribly sorry to disturb you but thereÂ’s been a mix-up with our bookings which you might be able to help us resolve. 
 What are you talking about? 
-We need a double-room and as I understand you’re here alone we’d be much obliged if you’d agree to move to a single room...
-We conclude our transaction. The room’s yours for 24 hours. It’s sound- proofed, stocked up with food, drink and other things you might find useful. You can do anything you like. 
+We need a double-room and as I understand youÂ’re here alone weÂ’d be much obliged if youÂ’d agree to move to a single room...
+We conclude our transaction. The roomÂ’s yours for 24 hours. ItÂ’s sound- proofed, stocked up with food, drink and other things you might find useful. You can do anything you like. 
 Anything at all? 
-Anything at all. I presume you won’t want to take the boy with you when you’re finished?  There’s a £500 fee for disposal. The boy is yours, you understand? Vous êtes Français? 
+Anything at all. I presume you wonÂ’t want to take the boy with you when youÂ’re finished?  ThereÂ’s a Â£500 fee for disposal. The boy is yours, you understand? Vous Ãªtes FranÃ§ais? 
 Does it matter?
 Is my money in there? 
-Uh-huh. You could’ve waited for me inside. 
-Let’s go. 
-I don’t know what your problem is, but... 
+Uh-huh. You couldÂ’ve waited for me inside. 
+LetÂ’s go. 
+I donÂ’t know what your problem is, but... 
 Right now your big friend at the Diplomat is bleeding fast, Martin. He might still possibly survive if attended to soon. And he did cooperate.
 Six weeks ago. He bought a boy of yours. 
 Clients come and go. 
 This one came back and was never seen again. I understand Friedman looked after him. 
 Huh, I doubt it...  Friedman only deals directly with select customers. I handle the rabble... 
 Where is Friedman? 
-Look, I don’t think you’re fully aware of what you’re playing with here, Mister. Whoever put you up to this either pays too well or misinformed you. Why don’t you just tell me what it is you want so we can do business in a civilized manner, eh?
+Look, I donÂ’t think youÂ’re fully aware of what youÂ’re playing with here, Mister. Whoever put you up to this either pays too well or misinformed you. Why donÂ’t you just tell me what it is you want so we can do business in a civilized manner, eh?
 No. In Hampstead... Why? 
-Don’t jump any red lights. 
+DonÂ’t jump any red lights. 
 This car needs petrol. 
 Shut up and drive!
-Maybe the thought of people like you going on holiday bothers me. Come on, let’s go... Is it real?  You people are sick. 
-Huh. I’d have thought a tough guy like you would know better. The sick ones are out there, friend. They make up the clientèle. Get rid of them and we’re out of business. 
+Maybe the thought of people like you going on holiday bothers me. Come on, letÂ’s go... Is it real?  You people are sick. 
+Huh. IÂ’d have thought a tough guy like you would know better. The sick ones are out there, friend. They make up the clientÃ¨le. Get rid of them and weÂ’re out of business. 
 Only feeding the disease, eh, Martin? 
 Money talks, bullshit walks, whether you like it or not. 
-Maybe I don’t. 
-Maybe you should. Think about it. Those who can afford our goods do their thing without upsetting anyone. Those who can’t do it to kids from the streets or their own family and it makes upsetting headlines. 
-I’m overcome by your public-spiritedness. 
-Boys like the one you met today are surplus. Commodities worth a handful of notes in whatever arsehole of the world they happen to be born into. We improve some lives buying them where they’re not wanted, improve still more selling them where they are. Is that too hard for you? 
+Maybe I donÂ’t. 
+Maybe you should. Think about it. Those who can afford our goods do their thing without upsetting anyone. Those who canÂ’t do it to kids from the streets or their own family and it makes upsetting headlines. 
+IÂ’m overcome by your public-spiritedness. 
+Boys like the one you met today are surplus. Commodities worth a handful of notes in whatever arsehole of the world they happen to be born into. We improve some lives buying them where theyÂ’re not wanted, improve still more selling them where they are. Is that too hard for you? 
 You know what, Martin? I ought to tie you down with your old arse up in the air and advertise the hole in the middle of it to the world. Free. And hope you never die. 
-Huh... I’m sure there’d be lots of takers. 
+Huh... IÂ’m sure thereÂ’d be lots of takers. 
 Could someone have hurt you that bad?
 Who are you? Who are you working for, huh? 
-Is this Friedman, Martin?  Come on, scumbag. You’ve reached your sell- by date. Tell me if this is Friedman, where he is in Los Angeles and what name he’s using? 
-You’re making a mistake, tough guy. Whoever he is, your guy’s not one of Friedman’s... 
+Is this Friedman, Martin?  Come on, scumbag. YouÂ’ve reached your sell- by date. Tell me if this is Friedman, where he is in Los Angeles and what name heÂ’s using? 
+YouÂ’re making a mistake, tough guy. Whoever he is, your guyÂ’s not one of FriedmanÂ’s... 
 You seem very sure about that. 
-I told you... The rabble, it’s me...  Huh... It’s sad. 
+I told you... The rabble, itÂ’s me...  Huh... ItÂ’s sad. 
 What is? 
 Dying without ever reaching the top...
-Hyatt... Friedman’s... at the Hyatt... 
-The Hyatt...? What’s that? 
+Hyatt... FriedmanÂ’s... at the Hyatt... 
+The Hyatt...? WhatÂ’s that? 
 Ho-hotel... Los Angeles... He...
 Spitz. We spoke on the telephone.  My husband...  My daughter, Deborah, whose house this is.  My son-in-law, Carlos...  The gentleman is a business partner of his.
 May I ask if you are Jewish, Mr Lombard? Lombard, this is not a Jewish name, is it? 
-I hope it’s not too significant. 
+I hope itÂ’s not too significant. 
 What if it is? 
-Well, I would have to point out that we could have dealt with that question when you called this morning, Mrs Spitz. I wouldn’t like to think I’d kept you waiting for nothing. 
+Well, I would have to point out that we could have dealt with that question when you called this morning, Mrs Spitz. I wouldnÂ’t like to think IÂ’d kept you waiting for nothing. 
 Whatever, you come recommended. We... 
 Recommended? 
 Must I speak to you in French? 
-Didn’t you say I came recommended?  That’s what I thought. May I know by whom? 
+DidnÂ’t you say I came recommended?  ThatÂ’s what I thought. May I know by whom? 
 You may not. And besides, it is irrelevant. 
 Okay. Recommended... 
 Good. Now, as I trust you may have guessed, we are looking for someone to work for us. Someone whose discretion can be relied upon. Someone who while in our employ would give us full commitment. Do you think you could be that person, Mr Lombard? 
-Look Mrs Spitz... I don’t know to whom I’m indebted for the recommendation but... I’m not in the business of making oaths of allegiance or giving myself character references. What I do is listen to what the people who care to call me have to say and judge whether or not I can be of help. I hope you can appreciate that, Mrs Spitz. 
+Look Mrs Spitz... I donÂ’t know to whom IÂ’m indebted for the recommendation but... IÂ’m not in the business of making oaths of allegiance or giving myself character references. What I do is listen to what the people who care to call me have to say and judge whether or not I can be of help. I hope you can appreciate that, Mrs Spitz. 
 What I can appreciate is insolence, Mr Lombard!
 Leonard. What my daughter is on about, Mr Lombard, is that Leonard is somewhat of a Bohemian. You might as well know that...
-You wouldn’t be here if I knew, Mr Lombard. What I do know is that he has not been at work for three weeks. That enquiries to the police and London hospitals have borne no results. And that a check with his bank revealed he has not used his account for four weeks now. 
+You wouldnÂ’t be here if I knew, Mr Lombard. What I do know is that he has not been at work for three weeks. That enquiries to the police and London hospitals have borne no results. And that a check with his bank revealed he has not used his account for four weeks now. 
 How did you do that, Mrs Spitz? 
 Do what, Mr Lombard? 
-Check with your son’s bank. Banks don’t usually give out information about their customers. 
+Check with your sonÂ’s bank. Banks donÂ’t usually give out information about their customers. 
 I said earlier that my husband and I are supporting Leonard in his photography, Mr Lombard. By this I mean that since his return from America I have been depositing for him a monthly allowance in an account we jointly hold. So as you see, I did not have to break the law to find out if he used the account. 
-I didn’t mean to imply you did, Mrs Spitz. 
+I didnÂ’t mean to imply you did, Mrs Spitz. 
 Then you should not have sought an explanation. 
-I presume you checked your son’s apartment... 
+I presume you checked your sonÂ’s apartment... 
 Yesterday. It all looked normal. 
 Did you look for his passport, driving licence? 
 Leonard does not hold a driving licence. As for his passport, I do not know where he keeps it. 
 So he could have decided to go on a trip... 
 He could indeed, Mr Lombard. But had he done so I think he would have let us know about it. 
-Then why aren’t you asking the police to look for your son, Mrs Spitz?
-No. And before you ask, no, he’s not gay! He has had girlfriends, but nothing serious... 
+Then why arenÂ’t you asking the police to look for your son, Mrs Spitz?
+No. And before you ask, no, heÂ’s not gay! He has had girlfriends, but nothing serious... 
 Any friends? 
-The proprietor of his workplace is the only friend of his we know about.  His address is in this envelope with Leonard’s address, keys and other things you might need. 
-I’m sure... As far as you know, when and where was your son last seen? 
-When... I’m told he came here...
+The proprietor of his workplace is the only friend of his we know about.  His address is in this envelope with LeonardÂ’s address, keys and other things you might need. 
+IÂ’m sure... As far as you know, when and where was your son last seen? 
+When... IÂ’m told he came here...
 My rates... 
 We are aware of your rates, Mr Lombard. We will pay you double your rates plus expenses. In return, need I say it again, we expect discretion and undivided attention. 
 Why do you think your son chose not to come to you for funds for his photography, Mrs Spitz? 
 Ha... No, Mr Lombard. His monthly allowance is all he is to expect from us. He knows it and we feel the amount is more than adequate. My husband and I will be leaving tomorrow for a short stay in Israel. Deborah will be here if you need anything before our return. 
 Fine. One more thing, Mrs and Mr Spitz; may I ask what is or was your occupation?
-Plus a trust fund to provide for the boy’s education.
+Plus a trust fund to provide for the boyÂ’s education.
 Jah...
 How are you, Jane? 
 Fine. How was the match? Did you loose? 
 No. 
-Must be your lucky day then. I’ve got your accounts - you don’t owe much tax for last year. 
+Must be your lucky day then. IÂ’ve got your accounts - you donÂ’t owe much tax for last year. 
 Good. 
-Yes. But my boss reckons you’d still be better off as a limited company. For expenses and all that, you know? It’d cost you about £100 but he said it’d be worth it.  Of course, you’d need a partner to register. But that’s a formality. I mean, I could be your partner. I mean, just as a name, right? Have you heard of a French film called “La Collectionoose”? 
+Yes. But my boss reckons youÂ’d still be better off as a limited company. For expenses and all that, you know? ItÂ’d cost you about Â£100 but he said itÂ’d be worth it.  Of course, youÂ’d need a partner to register. But thatÂ’s a formality. I mean, I could be your partner. I mean, just as a name, right? Have you heard of a French film called Â“La CollectionooseÂ”? 
 La what? 
-“La collectionoose”. It’s about a young girl in the south of France who seduces a different man every night and then meets one who resists her. It’s on TV tonight and as I’m in I thought we could perhaps look at your accounts and... The review says it’s about the conflict between intellect and instinct. And witty. The director’s supposed to be famous. Rommel or something. French. You must know him? 
+Â“La collectionooseÂ”. ItÂ’s about a young girl in the south of France who seduces a different man every night and then meets one who resists her. ItÂ’s on TV tonight and as IÂ’m in I thought we could perhaps look at your accounts and... The review says itÂ’s about the conflict between intellect and instinct. And witty. The directorÂ’s supposed to be famous. Rommel or something. French. You must know him? 
 Should I? 
-I don’t know. How many famous French film directors can there be? 
+I donÂ’t know. How many famous French film directors can there be? 
 That are called Rommel or something, I guess not that many. 
-So you haven’t seen the film, then? 
-It’s Friday night, Jane. What happened to your latest boyfriend? 
+So you havenÂ’t seen the film, then? 
+ItÂ’s Friday night, Jane. What happened to your latest boyfriend? 
 Oh... We split up. 
-Well, I hope you’re not too heartbroken and... 
-Oh no. I’m all right. He was a jerk, really. Another boy, you know? All I meet is boys. When I think of all the fuss about older men fancying young girls. I mean, is it true?
-Oh yeah! Better be good and hurry away then! Who knows? We might be being watched! Maybe one of your stupid French companies has got a detective prying into your life - after all, that’s what they do to their employees, isn’t it? Huh! Hope you enjoy ruining people’s lives. Thanks for the lift!
-Bye bye, Jane. And don’t be naughty.
-Oui, bonjour, Jean... Oui, très bien, merci. Dites-moi, pourriez-vous me dire si vous avez recommandémes services àquelqu’un récemment... Vous êtes certain... Non, non...  Je vous remercie... 
-Hello there. How’s the flat. I cleaned... 
-Jane, there was an envelope in my desk. The one I’d given you and then got back, remember? I can’t find it. Do you know where it is? 
-No... I told you on the phone. Whoever broke in messed-up all your papers. I put everything back where I thought it ought to be.  Maybe it’s there with... 
-It’s not. 
-Well, I’m sorry. I...  This is my nephew... And my brother, Tim. I’ve got the week off and he’s come to stay.
-Thanks for cleaning my flat and sending my money, all right?... Come on, I need you. It’s important. Just ask if they can recall recommending my services to anyone in the recent past. Say you’re my secretary, all right? 
+Well, I hope youÂ’re not too heartbroken and... 
+Oh no. IÂ’m all right. He was a jerk, really. Another boy, you know? All I meet is boys. When I think of all the fuss about older men fancying young girls. I mean, is it true?
+Oh yeah! Better be good and hurry away then! Who knows? We might be being watched! Maybe one of your stupid French companies has got a detective prying into your life - after all, thatÂ’s what they do to their employees, isnÂ’t it? Huh! Hope you enjoy ruining peopleÂ’s lives. Thanks for the lift!
+Bye bye, Jane. And donÂ’t be naughty.
+Oui, bonjour, Jean... Oui, trÃ¨s bien, merci. Dites-moi, pourriez-vous me dire si vous avez recommandÃ©mes services Ã quelquÂ’un rÃ©cemment... Vous Ãªtes certain... Non, non...  Je vous remercie... 
+Hello there. HowÂ’s the flat. I cleaned... 
+Jane, there was an envelope in my desk. The one IÂ’d given you and then got back, remember? I canÂ’t find it. Do you know where it is? 
+No... I told you on the phone. Whoever broke in messed-up all your papers. I put everything back where I thought it ought to be.  Maybe itÂ’s there with... 
+ItÂ’s not. 
+Well, IÂ’m sorry. I...  This is my nephew... And my brother, Tim. IÂ’ve got the week off and heÂ’s come to stay.
+Thanks for cleaning my flat and sending my money, all right?... Come on, I need you. ItÂ’s important. Just ask if they can recall recommending my services to anyone in the recent past. Say youÂ’re my secretary, all right? 
 Your secretary, huh! 
-I’d appreciate it if you could do this for me. If you can’t, don’t worry about it. I’ll call in about an hour anyway. Sorry but I’m in a hurry. 
+IÂ’d appreciate it if you could do this for me. If you canÂ’t, donÂ’t worry about it. IÂ’ll call in about an hour anyway. Sorry but IÂ’m in a hurry. 
 What are you up to, eh, Savieer? I mean, not this but... Money, passports, a gun in a microwave? Who are you, eh? Who are you?
 Really? And how are you, eh?  Someone called Pierre Dreyer said that a month ago he had dinner with a Brazilian friend of... 
 Carlos De Moraes? 
 Yes. How did... 
 Thank you, Jane.
-I’ll call again. 
+IÂ’ll call again. 
 The Hyatt. Good afternoon. May I help you? 
 Can I have the reception desk, please.
 Absolutely, sir. As a matter of fact he called this morning, sir. 
@@ -5089,44 +5089,44 @@ Got it. Puppies.
 I certainly did, sir...
 What...?
 You... Fuck you! 
-You’re not playing with little boys now, scumbag. Where is the Austrian? 
-Jee... Fuck... You’re fucking mad! Who are you? 
+YouÂ’re not playing with little boys now, scumbag. Where is the Austrian? 
+Jee... Fuck... YouÂ’re fucking mad! Who are you? 
 Where is the Austrian? Is Friedman the Austrian? 
-Yes. Friedman’s the fuckin’ Austrian! 
+Yes. FriedmanÂ’s the fuckinÂ’ Austrian! 
 Where is he? 
-I don’t know. He’s gone!  He’s gone. I don’t fucking know where, I swear... He’s gone. On holiday... 
+I donÂ’t know. HeÂ’s gone!  HeÂ’s gone. I donÂ’t fucking know where, I swear... HeÂ’s gone. On holiday... 
 ...On holiday? 
 Yeah... This morning. He left this fucking bloody morning... Jesus, man, my knees... 
-Who’s the money man? 
-Who?  Martin... He’s Martin... 
+WhoÂ’s the money man? 
+Who?  Martin... HeÂ’s Martin... 
 Ever seen him before? 
 No... No...  I swear... 
-What’s this place? A hotel of some kind? 
+WhatÂ’s this place? A hotel of some kind? 
 Yeah... The Diplomat. 
 Where? 
 What? 
 Where are we? 
-Finsbury Park. We’re in Finsbury Park. 
+Finsbury Park. WeÂ’re in Finsbury Park. 
 Where are the kids? 
 What kids? 
 There were six on offer, you scumbag. Where are the other five? 
-I don’t know...  This is just a delivery place, man! I swear I don’t know where the kids are... I work for Martin, that’s all. Martin knows. He works for Friedman. He knows... 
+I donÂ’t know...  This is just a delivery place, man! I swear I donÂ’t know where the kids are... I work for Martin, thatÂ’s all. Martin knows. He works for Friedman. He knows... 
 And who does Friedman work for? 
 The company. We all work for the company. 
 What company? 
-I don’t know. I don’t know, man. I don’t even know Friedman that well... I...  Man, you’ve got to get me out of here... 
+I donÂ’t know. I donÂ’t know, man. I donÂ’t even know Friedman that well... I...  Man, youÂ’ve got to get me out of here... 
 How many of you scumbags are here? 
-Just me...  Martin’s gone back to the Ambassador. Look... 
-What’s the Ambassador? 
-Another hotel. Down the road. Martin lives there. He took your money. He’s got a safe...  I need a doctor... 
-What about the staff?  They’re in on what’s going on, aren’t they?  How many of them? 
-F-five. The Wilsons and their three kids. They run the place. Look, man, I’ve got to get to... 
+Just me...  MartinÂ’s gone back to the Ambassador. Look... 
+WhatÂ’s the Ambassador? 
+Another hotel. Down the road. Martin lives there. He took your money. HeÂ’s got a safe...  I need a doctor... 
+What about the staff?  TheyÂ’re in on whatÂ’s going on, arenÂ’t they?  How many of them? 
+F-five. The Wilsons and their three kids. They run the place. Look, man, IÂ’ve got to get to... 
 What colour is your car?  What colour is your car? 
 B-Black... 
 Where is it? 
 Downstairs... At the front... Jesus...
 Have we done business before? 
-I saw the ad at George’s.  I’m passing through town and I’m in a hurry. 
+I saw the ad at GeorgeÂ’s.  IÂ’m passing through town and IÂ’m in a hurry. 
 May I have your phone number? 
 Why? 
 This is a bad line. What sort of puppy are you looking for? 
@@ -5139,216 +5139,216 @@ So, what are you looking for?
 What about an untrained pup, white... 
 How much of a hurry are you in? 
 Tomorrow? 
-I’m afraid the only pups currently available at such notice are brown and trained. But they are all very cheerful and have been thoroughly checked for diseases... 
+IÂ’m afraid the only pups currently available at such notice are brown and trained. But they are all very cheerful and have been thoroughly checked for diseases... 
 I see. How much? 
 Fifteen for a straight delivery. Twenty with the provision of a safe place. Visitors tend to find the second option more convenient. 
-... Fine. I’ll go for the safe place. 
-Have the money ready by 11am. We’ll call you.
-And losing you, we’d lose him. And that would be a shame, don’t you agree? Hi... 
+... Fine. IÂ’ll go for the safe place. 
+Have the money ready by 11am. WeÂ’ll call you.
+And losing you, weÂ’d lose him. And that would be a shame, donÂ’t you agree? Hi... 
 If you have hard evidence about a child trafficker, we want it, Mr Lombard. And we want it before you get yourself killed... 
-Most of our information comes out of the mouths of babes, Mr Lombard - confused and frightened victims. It’s all too easily discredited, you understand. Now, you might be just what we’ve been waiting for. Your information could be enough to make ‘em sit up and listen.
-That’s right. Where’s the fucking Italian, eh, Mr French hero?
+Most of our information comes out of the mouths of babes, Mr Lombard - confused and frightened victims. ItÂ’s all too easily discredited, you understand. Now, you might be just what weÂ’ve been waiting for. Your information could be enough to make Â‘em sit up and listen.
+ThatÂ’s right. WhereÂ’s the fucking Italian, eh, Mr French hero?
 Emily... 
-No. You’re looking at a real Musketeer here, Whitney. Brave and rash. Had to dash in there.  Take a prisoner... Might as well have sent them a notice to quit...  Come on, Musketeer! Got anything to say?
-She’ll be alright. She’s tough...
-Europe...  France. I’m French but I live in London...  ... England. 
-You’re a long way from home... 
-You wouldn’t have a cigarette, would you? 
-I don’t smoke. If you could get to the point... 
-You’re sure you won’t sit down, Miss Stewart? 
-I’m fine standing, thank you.
+No. YouÂ’re looking at a real Musketeer here, Whitney. Brave and rash. Had to dash in there.  Take a prisoner... Might as well have sent them a notice to quit...  Come on, Musketeer! Got anything to say?
+SheÂ’ll be alright. SheÂ’s tough...
+Europe...  France. IÂ’m French but I live in London...  ... England. 
+YouÂ’re a long way from home... 
+You wouldnÂ’t have a cigarette, would you? 
+I donÂ’t smoke. If you could get to the point... 
+YouÂ’re sure you wonÂ’t sit down, Miss Stewart? 
+IÂ’m fine standing, thank you.
 A small loan would be welcome. More urgently, I need access to a telephone and an address where things can be sent to me. 
-I can’t believe this...  What’s coming now, eh? If I don’t pay all Hell’s gonna break loose, is that it? 
-Well, I’d sooner mug an old lady... 
+I canÂ’t believe this...  WhatÂ’s coming now, eh? If I donÂ’t pay all HellÂ’s gonna break loose, is that it? 
+Well, IÂ’d sooner mug an old lady... 
 You...  Jesus Christ!
-French people need a visa to enter this country. That takes time and I didn’t have any. I used a British passport. My name’s not Lamont but Lombard. Xavier Lombard. 
-Where were you staying before the attempt on your life and why can’t you go back there? 
+French people need a visa to enter this country. That takes time and I didnÂ’t have any. I used a British passport. My nameÂ’s not Lamont but Lombard. Xavier Lombard. 
+Where were you staying before the attempt on your life and why canÂ’t you go back there? 
 The Mondrian, room 504. I was checked out in my absence. 
 By your Austrian? 
 Yeah. 
-You don’t know why he’s come to Los Angeles?  The man you say he killed? Who was he? A colleague of his? 
-No. A poor little rich boy who thought he’d save a few kids from their retailer. He disappeared on his second shopping expedition.
-Lombard...  It will take a few days for the things I need to get here. Meanwhile I’d sooner not draw police attention walking the streets like a hungry dog... 
+You donÂ’t know why heÂ’s come to Los Angeles?  The man you say he killed? Who was he? A colleague of his? 
+No. A poor little rich boy who thought heÂ’d save a few kids from their retailer. He disappeared on his second shopping expedition.
+Lombard...  It will take a few days for the things I need to get here. Meanwhile IÂ’d sooner not draw police attention walking the streets like a hungry dog... 
 There are over 4 million people in this city - why me? 
-I thought you’d never ask... As I was having my coffee and crescents at the Mondrian the other morning I spotted your photograph in the Los Angeles Times... There’s a tough lady, I thought. Just the kind who might help me...
+I thought youÂ’d never ask... As I was having my coffee and crescents at the Mondrian the other morning I spotted your photograph in the Los Angeles Times... ThereÂ’s a tough lady, I thought. Just the kind who might help me...
 I know where to look. 
-I might come back, I might not. But if I do, it won’t be for a couple of hours.
-I wouldn’t mind. Thank you. 
-A recent acquisition. We’ve had four break- ins this year alone; files stolen, computers wrecked, faeces smeared on walls. The good guys dismiss us as alarmist do-gooders; the bad guys will risk prison to intimidate and rob us. An easy living indeed, Mr Lombard.  I got through to Moreau and Jane. I left your landlord out of it. Your flat’s been broken into. Jane wants you to call her back. 
+I might come back, I might not. But if I do, it wonÂ’t be for a couple of hours.
+I wouldnÂ’t mind. Thank you. 
+A recent acquisition. WeÂ’ve had four break- ins this year alone; files stolen, computers wrecked, faeces smeared on walls. The good guys dismiss us as alarmist do-gooders; the bad guys will risk prison to intimidate and rob us. An easy living indeed, Mr Lombard.  I got through to Moreau and Jane. I left your landlord out of it. Your flatÂ’s been broken into. Jane wants you to call her back. 
 Hah... What about Nathalie? 
-No answer. You have no passport and your Embassy’s out. How do you plan to leave the U.S., Mr Lombard? 
-I’m sure I’ll find a way. 
-Like you’ll find a way to stop your Austrian killing you a second time round? 
-Thank you for the guided tour, but would you mind telling me what we’re doing here? 
-How come you’re alive? Child traffickers usually achieve what they set out to do.  What am I really looking at here, huh?  Are you really not just a lousy private eye? Am I really looking at some kind of cunning dispenser of justice in disguise? 
+No answer. You have no passport and your EmbassyÂ’s out. How do you plan to leave the U.S., Mr Lombard? 
+IÂ’m sure IÂ’ll find a way. 
+Like youÂ’ll find a way to stop your Austrian killing you a second time round? 
+Thank you for the guided tour, but would you mind telling me what weÂ’re doing here? 
+How come youÂ’re alive? Child traffickers usually achieve what they set out to do.  What am I really looking at here, huh?  Are you really not just a lousy private eye? Am I really looking at some kind of cunning dispenser of justice in disguise? 
 Did you call me up here to enjoy yourself, Emily, or to let me use your phone? Because we seem to have a slight problem...
 A criminal? 
 Did you not enter this country illegally? 
 Huh... I have no... ... hard evidence... 
-Come on, Mr Lombard. You tailed your man all the way here from Europe. You told me you knew where to find him, remember? Or didn’t I hear you right?
-Thank you. But I think I’ll go to bed. It’s been a long day. 
-Right... Well, I’ll get your money first thing in the morning, okay?  Okay. Goodnight then. 
+Come on, Mr Lombard. You tailed your man all the way here from Europe. You told me you knew where to find him, remember? Or didnÂ’t I hear you right?
+Thank you. But I think IÂ’ll go to bed. ItÂ’s been a long day. 
+Right... Well, IÂ’ll get your money first thing in the morning, okay?  Okay. Goodnight then. 
 Yeah. Goodnight, Emily. 
-Don’t fall asleep with your hair wet.
+DonÂ’t fall asleep with your hair wet.
 Burn the passport and keep the money. Think of it as a donation to the cause...
 Oh. What... Yeah. Okay. 
-Route 395. Past Edwards Air Force base and about half a mile before a place called the Red Mountain Motel. There’s a dirt track with a ‘Closed to the public’ sign. It leads to some kind of ranch in the middle of nowhere. If you haven’t heard from me by morning send the cavalry, okay? But not before, you hear? 
+Route 395. Past Edwards Air Force base and about half a mile before a place called the Red Mountain Motel. ThereÂ’s a dirt track with a Â‘Closed to the publicÂ’ sign. It leads to some kind of ranch in the middle of nowhere. If you havenÂ’t heard from me by morning send the cavalry, okay? But not before, you hear? 
 Have you found your man? Is that where he is? 
-I think so. And if it comes to it, tell the cops anything you think will make them move. Whatever you came up with couldn’t come close to how bad it is. Bye now.
-Who’s the guy? Who’s the guy! Nom de Dieu!  Had the guy got a closer look at you or your number plate I’d have had to kill him.
-What...  Some kind of organ factory... Pregnant girls doped up. Babies. There’s a lot of people back there. They’re holding a seminar. Trafficking’s the past, breeding the future... Friedman’s dead... They killed him... 
-So who... Who’s the man? Where is he? 
-Some Italian I picked up back there. He’s in the boot of the Mustang. 
+I think so. And if it comes to it, tell the cops anything you think will make them move. Whatever you came up with couldnÂ’t come close to how bad it is. Bye now.
+WhoÂ’s the guy? WhoÂ’s the guy! Nom de Dieu!  Had the guy got a closer look at you or your number plate IÂ’d have had to kill him.
+What...  Some kind of organ factory... Pregnant girls doped up. Babies. ThereÂ’s a lot of people back there. TheyÂ’re holding a seminar. TraffickingÂ’s the past, breeding the future... FriedmanÂ’s dead... They killed him... 
+So who... WhoÂ’s the man? Where is he? 
+Some Italian I picked up back there. HeÂ’s in the boot of the Mustang. 
 Italian? The Mafia...? 
 Who knows. Who cares...  You wanted slime. You got slime. No one saw me but the Italian and a dog. I blew up their generator. They thought it was an accident but by now they must have realised one of their party is missing. It might make them feel insecure enough to decide to pack up... 
-We’re both thinking the same thing, right? 
+WeÂ’re both thinking the same thing, right? 
 Do you know a friendly cop? Call from the motel and tell him if he moves fast enough there might be something left of a body dissolving in acid.  Can I have the keys to your house? 
-That-that won’t do. That’s not the way it goes. You saw it, you tell it, that’s the way... 
-I’m finished here and I’m tired, Emily. You shouldn’t be here. Now don’t make it worse. 
-A seminar in a baby breeding farm! Bodies in acid! You think I’ll get anywhere with that? Jesus! With luck I might raise a laugh. They might even send a patrol car to check the place out. Whatever, it’ll be too late. 
+That-that wonÂ’t do. ThatÂ’s not the way it goes. You saw it, you tell it, thatÂ’s the way... 
+IÂ’m finished here and IÂ’m tired, Emily. You shouldnÂ’t be here. Now donÂ’t make it worse. 
+A seminar in a baby breeding farm! Bodies in acid! You think IÂ’ll get anywhere with that? Jesus! With luck I might raise a laugh. They might even send a patrol car to check the place out. Whatever, itÂ’ll be too late. 
 Then find another way. 
-Look! Either you talk or the creeps are gonna walk. For god’s sake. What am I supposed to say? I got this from a French guy from England who broke in there to have a chat with an Austrian child trafficker? Is that it?
-It’s up to you whether they walk or not.
+Look! Either you talk or the creeps are gonna walk. For godÂ’s sake. What am I supposed to say? I got this from a French guy from England who broke in there to have a chat with an Austrian child trafficker? Is that it?
+ItÂ’s up to you whether they walk or not.
 What about your friendly cop? 
-My ex-husband. My work drove him away. Made his life a misery. He thinks I’m obsessed, punishing myself for what happened to our son.  But he’s a good guy. He’ll listen to you. He won’t turn you in if I ask him not to. I can pretty much guarantee that. Okay?
+My ex-husband. My work drove him away. Made his life a misery. He thinks IÂ’m obsessed, punishing myself for what happened to our son.  But heÂ’s a good guy. HeÂ’ll listen to you. He wonÂ’t turn you in if I ask him not to. I can pretty much guarantee that. Okay?
 You cannot walk away from this. You cannot. 
 I can... The question is, can you lie to your ex- husband?
-Huh! And they say charity’s only rewarded in Heaven... Hallelujah...  Christ...
+Huh! And they say charityÂ’s only rewarded in Heaven... Hallelujah...  Christ...
 A coffee and a couple of croissants. 
 Crow what? 
 Croissants. 
-I’m sorry, sir. Could you try that again? 
+IÂ’m sorry, sir. Could you try that again? 
 Croissants. Like that...
 Not in America, sir. You must be from Europe.  So, black coffee and a couple of crescents.
-Yes. I’m trying to reach a friend but I can’t get through. The number is 01766 770 471. 
-01766 770 471. Let me check it for you, sir. There’s nothing wrong with the line, sir. Are you sure you have the right number? 770 471 is the number of a call box. 
-A call box? That’s odd. Where exactly? 
+Yes. IÂ’m trying to reach a friend but I canÂ’t get through. The number is 01766 770 471. 
+01766 770 471. Let me check it for you, sir. ThereÂ’s nothing wrong with the line, sir. Are you sure you have the right number? 770 471 is the number of a call box. 
+A call box? ThatÂ’s odd. Where exactly? 
 Penrhyndeudraeth, North Wales. 
 Can you tell me how you spell...
 Appearances can be deceptive, Mrs De Moraes. 
-That depends what you’re looking at.
+That depends what youÂ’re looking at.
 And that is the last time any... 
-Well, Leon does not need money for prints, Mr Lombard. Does his own printing. Wouldn’t want anyone to interfere with his ‘Art’!  Which, as he subsequently vanished, raises the question: what was the money for? Perish the thought.
+Well, Leon does not need money for prints, Mr Lombard. Does his own printing. WouldnÂ’t want anyone to interfere with his Â‘ArtÂ’!  Which, as he subsequently vanished, raises the question: what was the money for? Perish the thought.
 I have too much money to work, Mr Lombard. 
 Is that why your brother braved coming here to ask you for a loan? 
-Perhaps it wasn’t so brave of him. Had I been here I just might have given him his money, Mr Lombard. One can reap rewards from the strangest of conduct, as someone in your line of work ought to know. 
-Was it cash, Mr De Moraes?  The £1,000. You gave it to him in cash?
-I’m afraid I have bad news, Mr De Moraes. I have reason to believe your brother’s in trouble. 
+Perhaps it wasnÂ’t so brave of him. Had I been here I just might have given him his money, Mr Lombard. One can reap rewards from the strangest of conduct, as someone in your line of work ought to know. 
+Was it cash, Mr De Moraes?  The Â£1,000. You gave it to him in cash?
+IÂ’m afraid I have bad news, Mr De Moraes. I have reason to believe your brotherÂ’s in trouble. 
 For your information, Mr Lombard, trouble is possibly the one thing Leon is capable of getting into all by himself. Though I doubt he will not ultimately fail even at that. 
-I don’t know. He seems to delight in so much sisterly love, he might become determined. 
-Oh-oh! Touché, Mr Lombard! But tell me, what would you know about sisterly love, eh?  No. Don’t. You might get confused speaking of things you don’t understand and we need you clear- headed, at least until you’ve done what we are paying you for. 
+I donÂ’t know. He seems to delight in so much sisterly love, he might become determined. 
+Oh-oh! TouchÃ©, Mr Lombard! But tell me, what would you know about sisterly love, eh?  No. DonÂ’t. You might get confused speaking of things you donÂ’t understand and we need you clear- headed, at least until youÂ’ve done what we are paying you for. 
 Now you are confusing me, Mrs De Moraes. 
 Can it be that easy? 
 Can it be that you want your brother found? 
 Anything is possible. 
-I found this at your brother’s. 
+I found this at your brotherÂ’s. 
 Disney! How inter... 
-It’s a snuff movie. Prime paedophile material. I’m told it retails at around £4,000.  I see you don’t require a definition. 
-You... You found that at Leon’s? 
-There’s more. Your brother also purchased a young boy for £15,000. You seem surprised. Could it be you don’t think that badly of him after all?  You needn’t worry. It seems his motives were pure. From what I can make out he bought the boy to rescue him from further abuse. 
+ItÂ’s a snuff movie. Prime paedophile material. IÂ’m told it retails at around Â£4,000.  I see you donÂ’t require a definition. 
+You... You found that at LeonÂ’s? 
+ThereÂ’s more. Your brother also purchased a young boy for Â£15,000. You seem surprised. Could it be you donÂ’t think that badly of him after all?  You neednÂ’t worry. It seems his motives were pure. From what I can make out he bought the boy to rescue him from further abuse. 
 What... What are you talking about? 
-Your brother got mixed up with child procurers  and tried to make this world a better place, Mrs De Moraes. And having rescued one little life he unwisely set out to repeat the exercise.  You don’t mess around with child procurers. Right now my guess is he’s either on the run, held captive, or dead.  I understand your misgivings, Mrs De Moraes. But I’ve seen the boy and made telephone contact with the man Leon bought him from. If anyone knows what happened to your brother it will be that man. Which leads me to why I’m here at such a late hour. I need £20,000, in cash, by 11 this morning. 
+Your brother got mixed up with child procurers  and tried to make this world a better place, Mrs De Moraes. And having rescued one little life he unwisely set out to repeat the exercise.  You donÂ’t mess around with child procurers. Right now my guess is heÂ’s either on the run, held captive, or dead.  I understand your misgivings, Mrs De Moraes. But IÂ’ve seen the boy and made telephone contact with the man Leon bought him from. If anyone knows what happened to your brother it will be that man. Which leads me to why IÂ’m here at such a late hour. I need Â£20,000, in cash, by 11 this morning. 
 Excuse me? 
 I need the money to smooth my way, you understand? Now, have you got that sort of cash here or do we need to meet in the morning? I will of course do my best to hang onto it. 
 Where is it?  He. The boy you said my brother bought! Where is he? 
-I can’t tell you that yet. But he’s being well looked after. 
-Oh no. You’ll have to do better than that, Mr Lombard. 
-Look, Mrs De Moraes, however much of a let down it might be, your brother’s not back to his old weekend tricks! Impressionable as he is, he probably grew tired of healthy girls in grisly poses, tried moving on to bigger things, came upon more than he’d bargained for and somehow fancied he could take on the real world. Which he no doubt chanced upon on his way to that thing now sitting on your table... Have a look at it, Mrs De Moraes. I told you I had bad news...
+I canÂ’t tell you that yet. But heÂ’s being well looked after. 
+Oh no. YouÂ’ll have to do better than that, Mr Lombard. 
+Look, Mrs De Moraes, however much of a let down it might be, your brotherÂ’s not back to his old weekend tricks! Impressionable as he is, he probably grew tired of healthy girls in grisly poses, tried moving on to bigger things, came upon more than heÂ’d bargained for and somehow fancied he could take on the real world. Which he no doubt chanced upon on his way to that thing now sitting on your table... Have a look at it, Mrs De Moraes. I told you I had bad news...
 The question now is whether or not your brother still owns anything, Mrs De Moraes. 
-No. The question now is how long it’s going to take you to get out of here, Mr Lombard. 
+No. The question now is how long itÂ’s going to take you to get out of here, Mr Lombard. 
 Excuse me? 
-Get out of my house. You’re fired, Mr Lombard. 
-Perhaps I should come back when you’re... 
-No. You’re fired! Get out of my house. And take your sick tape with you... Laurence! 
+Get out of my house. YouÂ’re fired, Mr Lombard. 
+Perhaps I should come back when youÂ’re... 
+No. YouÂ’re fired! Get out of my house. And take your sick tape with you... Laurence! 
 I was hired by your parents, Mrs De Moraes. 
 The family hired you and I have just fired you, Mr Lombard. 
 Why me, Mrs De Moraes? Why should such well-connected people as you hire a small- time French detective to look for their missing son, Mrs De Moraes? 
 Huh! Who do you think we are, Mr Lombard? 
-Couldn’t Nazi hunters do the job?
+CouldnÂ’t Nazi hunters do the job?
 You drive a hard bargain.
 Last night you upset my sleep. Tonight my social life. We have two minutes. My dinner guests are waiting.
 You could say that. And Friedman left this morning for Los Angeles. 
 Who is Friedman? 
 The man who sold the boy to your brother. 
-I’m impressed. That information could have cost me £20,000. 
-Well, I found a little more than that. Let me put it this way:...  Last night I thought your brother might be dead, tonight I’m convinced he is. That said, I have no evidence and I advise you to let the police deal with it.
-You watched the tape?  Friedman and his people don’t just provide little kids and videotapes, Mrs De Moraes. They’re in the import-export business. They run hotels here in London which they probably use as ware- houses and ports of call for their merchandise. 
+IÂ’m impressed. That information could have cost me Â£20,000. 
+Well, I found a little more than that. Let me put it this way:...  Last night I thought your brother might be dead, tonight IÂ’m convinced he is. That said, I have no evidence and I advise you to let the police deal with it.
+You watched the tape?  Friedman and his people donÂ’t just provide little kids and videotapes, Mrs De Moraes. TheyÂ’re in the import-export business. They run hotels here in London which they probably use as ware- houses and ports of call for their merchandise. 
 Huh! Really? Hotels? 
 The hotels are useful capital investments. The kids liquid assets. My guess is they own hotels across the globe, and travel agencies specialising in flights from the third world to boot. Minimizes the risks. Children can be moved across borders using reliable businesses. These can also be used to move women and drugs... Anything that makes money really. 
 W-why are you telling me all this, Mr Lombard?
-You do want me to keep the job, don’t you, Mrs De Moraes?
+You do want me to keep the job, donÂ’t you, Mrs De Moraes?
 Have you got a pen? 
 Just a moment...  Go ahead. 
 The Mondrian, room 504. The number is 266 7548, plus the L.A. code... 
 ...7548. Have you... Have you found him yet? 
 Are you all right? 
-Yes... You woke me up... It’s the middle of the night here. Have you found Mr Friedman? 
-Not yet. The place I hoped to find him turns out to be little more than a contact address. I’ll give it 24 hours. He just might show up.  If you need to reach me ask for Mr Lamont. Paul Lamont, all right? 
+Yes... You woke me up... ItÂ’s the middle of the night here. Have you found Mr Friedman? 
+Not yet. The place I hoped to find him turns out to be little more than a contact address. IÂ’ll give it 24 hours. He just might show up.  If you need to reach me ask for Mr Lamont. Paul Lamont, all right? 
 Paul Lamont...? 
 Yeah. Goodnight, Mrs De Moraes.
 Uh... Wait a moment, Mrs De Moraes...
 How are you, Mrs De Moraes? 
 When did you get back? 
-Why don’t you ask when I left the Mondrian?
-You’re repeating yourself, Mrs De Moraes. 
-I... Well, we’re burying Leon tomorrow and... Look, I wish I had more time, but it’s late and with the funeral... 
-Aren’t you curious to know about Friedman? 
-I... If you don’t mind, I do not think he matters now. It... Things turned out to be as we thought; Leon was weak. There’s no point in delving into his sad life anymore. Now, will you please tell me how much we owe you? 
+Why donÂ’t you ask when I left the Mondrian?
+YouÂ’re repeating yourself, Mrs De Moraes. 
+I... Well, weÂ’re burying Leon tomorrow and... Look, I wish I had more time, but itÂ’s late and with the funeral... 
+ArenÂ’t you curious to know about Friedman? 
+I... If you donÂ’t mind, I do not think he matters now. It... Things turned out to be as we thought; Leon was weak. ThereÂ’s no point in delving into his sad life anymore. Now, will you please tell me how much we owe you? 
 Black suits you. 
 Sorry? 
-What’s in the bag? Underwear? To seduce your husband? Or is it for your own recreation?  Tell me, how come such a handsome couple sleep in seperate bedrooms? Is it because he does it with little children? Or is it the other way round? The children are needed because you can’t satisfy him? 
+WhatÂ’s in the bag? Underwear? To seduce your husband? Or is it for your own recreation?  Tell me, how come such a handsome couple sleep in seperate bedrooms? Is it because he does it with little children? Or is it the other way round? The children are needed because you canÂ’t satisfy him? 
 You... You are out of order, Mr Lombard. I... 
-You what, Mrs De Moraes? YOU WHAT? How did you break into my office, Deborah? Ladies of your standing don’t learn to pick locks between shopping trips.  Come on, Deborah! Acting dumb doesn’t suit you! Who knew I’d found dirt on your brother, huh? Who knew it was in an envelope? Taking me for dead, who’d want to make sure it didn’t fall into the wrong hands? 
-You’re mad... 
-I’ve had a long and unpleasant day. I’m tired and I’m angry. But mad? Not yet.  I paid Leon’s boy a visit this morning. Found him alive and well. Why haven’t you told your husband where he is since reading my note, eh? 
-Why... I don’t know what you’re talking about. 
-You know he’d have had him killed, don’t you? Does a conscience still burn somewhere inside your sore mind, Deborah? Or is it just cold expediency? Could the boy perhaps come in useful when and if the day ever comes for you to face up to the man you married? 
+You what, Mrs De Moraes? YOU WHAT? How did you break into my office, Deborah? Ladies of your standing donÂ’t learn to pick locks between shopping trips.  Come on, Deborah! Acting dumb doesnÂ’t suit you! Who knew IÂ’d found dirt on your brother, huh? Who knew it was in an envelope? Taking me for dead, whoÂ’d want to make sure it didnÂ’t fall into the wrong hands? 
+YouÂ’re mad... 
+IÂ’ve had a long and unpleasant day. IÂ’m tired and IÂ’m angry. But mad? Not yet.  I paid LeonÂ’s boy a visit this morning. Found him alive and well. Why havenÂ’t you told your husband where he is since reading my note, eh? 
+Why... I donÂ’t know what youÂ’re talking about. 
+You know heÂ’d have had him killed, donÂ’t you? Does a conscience still burn somewhere inside your sore mind, Deborah? Or is it just cold expediency? Could the boy perhaps come in useful when and if the day ever comes for you to face up to the man you married? 
 Have you finished? 
-When did you learn about his taste for kids, huh? On your honeymoon? Or was it later, when bitterness set in and you turned against your beloved but weak little brother? How did you find out? Did he confess? Try to convert you perhaps? Or was it woman’s intuition? Or just the way he fucked you? 
-You do have a vivid imagination, Mr Lombard. I only wish you’d use it fruitfully instead of in being obnoxious. I fail to understand your purpose in this. Still, say what you’re owed if you still wish to be paid or get out, all right? 
-I guess the news you’d sent me after Friedman didn’t go down too well, eh?
-You knew he had nothing to do with your brother’s disappearance, didn’t you? 
-Huh! Don’t you recall convincing me he had?  You should learn to live with your mistakes, Mr Lombard. There is some merit in it. 
+When did you learn about his taste for kids, huh? On your honeymoon? Or was it later, when bitterness set in and you turned against your beloved but weak little brother? How did you find out? Did he confess? Try to convert you perhaps? Or was it womanÂ’s intuition? Or just the way he fucked you? 
+You do have a vivid imagination, Mr Lombard. I only wish youÂ’d use it fruitfully instead of in being obnoxious. I fail to understand your purpose in this. Still, say what youÂ’re owed if you still wish to be paid or get out, all right? 
+I guess the news youÂ’d sent me after Friedman didnÂ’t go down too well, eh?
+You knew he had nothing to do with your brotherÂ’s disappearance, didnÂ’t you? 
+Huh! DonÂ’t you recall convincing me he had?  You should learn to live with your mistakes, Mr Lombard. There is some merit in it. 
 I take it you learnt to live with yours then. Take it all the mind-dulling pills in your medicine cabinet are surplus to your well-being... 
 How... When did you... 
-It must be tough being married to Adonis to end up sleeping alone every night. Sleep must be hard coming. What’s harder? The thought of the fine litter you two could have bred if? Or imagining what he does with his children?
+It must be tough being married to Adonis to end up sleeping alone every night. Sleep must be hard coming. WhatÂ’s harder? The thought of the fine litter you two could have bred if? Or imagining what he does with his children?
 No! 
-What do you mean, ‘No’, Mrs De Moraes? 
+What do you mean, Â‘NoÂ’, Mrs De Moraes? 
 My brother hung himself. 
-Does the name Pierre Dreyer mean anything to you? He’s a client of mine and a friend of your husband. 
+Does the name Pierre Dreyer mean anything to you? HeÂ’s a client of mine and a friend of your husband. 
 Leon hung himself. 
-Adonis thought your brother’s body’d be found reasonably quickly when he hung it in Epping Forest, didn’t he? Seemed like a good idea. An ex-junkie, obsessed with death; the perfect candidate for suicide. He just forgot one thing: forest ramblers are rare during your average blustery English November. An Englishman might have thought of that, but a Brazilian... 
+Adonis thought your brotherÂ’s bodyÂ’d be found reasonably quickly when he hung it in Epping Forest, didnÂ’t he? Seemed like a good idea. An ex-junkie, obsessed with death; the perfect candidate for suicide. He just forgot one thing: forest ramblers are rare during your average blustery English November. An Englishman might have thought of that, but a Brazilian... 
 Leon hung himself... 
-Leon’s not found, your parents worry, talk of hiring help to find him, even mention their manhunter friends perhaps... and Adonis panics, takes control, brings me in reckoning a small- time detective is unlikely to dig up anything awkward, not before Leon’s found anyhow. He must have kicked himself when he learned I’d exceeded his expectations. 
+LeonÂ’s not found, your parents worry, talk of hiring help to find him, even mention their manhunter friends perhaps... and Adonis panics, takes control, brings me in reckoning a small- time detective is unlikely to dig up anything awkward, not before LeonÂ’s found anyhow. He must have kicked himself when he learned IÂ’d exceeded his expectations. 
 Leon hung himself... 
-Leon didn’t hang himself, Deborah. Your husband killed him and made his death look like suicide. How did he do it, eh? Strangulation? Drugs? No doubt an autopsy will tell.
+Leon didnÂ’t hang himself, Deborah. Your husband killed him and made his death look like suicide. How did he do it, eh? Strangulation? Drugs? No doubt an autopsy will tell.
 ...You-you spoke to him? 
 Not in the strict sense of the word, no. He was in too much of a hurry to kill me when we first met and too wasted in acid when I caught up with him later.
-If-if my car is there, I could be the one who... Why don’t you accuse me of killing my brother? 
-Kids are not your thing, Deborah. You’d have been ready for me when I turned up with ‘Sleeping Beauty’. Damn it! Then too I should have paid more attention. “Not Leon,” you said. It struck me at the time, but obviously not hard enough. You didn’t say ‘My God!’, or whatever else well-bred ladies squeak on hearing Uncle Henry misbehaved. “Not Leon.” Who then?  You sure were right about one thing, Deborah, the job was too formidable for me. I should have thought a little more before I left for Los Angeles. But there I was focused so hard on Friedman I’d stopped thinking. Nothing added up - Leon soliciting money for prints while buying kids at £15,000 a go; infiltrating the world of child traffickers; duping Friedman into selling him a little boy... You sure were right. The job was too formidable for me. But you knew that, didn’t you? 
+If-if my car is there, I could be the one who... Why donÂ’t you accuse me of killing my brother? 
+Kids are not your thing, Deborah. YouÂ’d have been ready for me when I turned up with Â‘Sleeping BeautyÂ’. Damn it! Then too I should have paid more attention. Â“Not Leon,Â” you said. It struck me at the time, but obviously not hard enough. You didnÂ’t say Â‘My God!Â’, or whatever else well-bred ladies squeak on hearing Uncle Henry misbehaved. Â“Not Leon.Â” Who then?  You sure were right about one thing, Deborah, the job was too formidable for me. I should have thought a little more before I left for Los Angeles. But there I was focused so hard on Friedman IÂ’d stopped thinking. Nothing added up - Leon soliciting money for prints while buying kids at Â£15,000 a go; infiltrating the world of child traffickers; duping Friedman into selling him a little boy... You sure were right. The job was too formidable for me. But you knew that, didnÂ’t you? 
 Leon could still have hung himself. 
-Oh no. At long last Leon had found a mission. He’d never have killed himself when glory beckoned. Your husband killed your brother. And thanks to you, almost got me killed too.
-You don’t say. 
+Oh no. At long last Leon had found a mission. HeÂ’d never have killed himself when glory beckoned. Your husband killed your brother. And thanks to you, almost got me killed too.
+You donÂ’t say. 
 That my brother, my husband and your Mr Friedman were linked, that much I had guessed. But that my husband had killed Leon? No. 
 Why did you send me after Friedman? To atone for your sins? 
-I didn’t know my husband and Friedman knew each other. I just...  Do you think we spoke about it? I’ve known for five years. He’s known I’ve known for five years... But not once have we spoken about it. There are things one just doesn’t speak about... 
-One just doesn’t... Tell me, what does one speak about, huh? 
-Think what you like. But don’t presume to understand. 
-I don’t. 
+I didnÂ’t know my husband and Friedman knew each other. I just...  Do you think we spoke about it? IÂ’ve known for five years. HeÂ’s known IÂ’ve known for five years... But not once have we spoken about it. There are things one just doesnÂ’t speak about... 
+One just doesnÂ’t... Tell me, what does one speak about, huh? 
+Think what you like. But donÂ’t presume to understand. 
+I donÂ’t. 
 Good. 
 Is there anything to understand? 
-Why do I feel I needn’t answer that? 
+Why do I feel I neednÂ’t answer that? 
 Rich. Young. Beautiful. You must at least get a kick out of what he does to his kids. 
 You bastard... 
-Five years of it. Surely, you’d have divorced him if he disgusted you? 
+Five years of it. Surely, youÂ’d have divorced him if he disgusted you? 
 You splendid bastard... 
 Are there truly no extenuating circumstances? 
-...We’re turning in circles. 
-And you still haven’t told me why you sent me after Friedman. 
+...WeÂ’re turning in circles. 
+And you still havenÂ’t told me why you sent me after Friedman. 
 Maybe I wanted to give my husband a fright. 
 A fright?... Five years of cowardice led to your brother being murdered and you wanted to give his murderer a fright? 
-I didn’t know who or what had happened to my brother yet, Mr Lombard! 
-What was the idea? Husband is filled with fear when he learns his child supplier’s being tailed? 
+I didnÂ’t know who or what had happened to my brother yet, Mr Lombard! 
+What was the idea? Husband is filled with fear when he learns his child supplierÂ’s being tailed? 
 Something like that. 
 Something like that? 
 Something like that. 
@@ -5356,51 +5356,51 @@ What happened? Adonis slapped you about a little and you reverted to cowardice?
 Here we go again. 
 Where is that? 
 Simplify and damn. 
-Don’t you believe in simplicity? 
+DonÂ’t you believe in simplicity? 
 Should I? 
-We all have to like what we become. Cowards included. We achieve this by complicating things a little. But it’s never that complicated really. 
-You seem to know what you’re talking about. 
+We all have to like what we become. Cowards included. We achieve this by complicating things a little. But itÂ’s never that complicated really. 
+You seem to know what youÂ’re talking about. 
 Perhaps it came to me while dying in a Californian desert because a woman set upon giving her husband a fright got slapped about a little. 
-My husband didn’t need to slap me about, Mr Lombard. I volunteered... 
+My husband didnÂ’t need to slap me about, Mr Lombard. I volunteered... 
 To get me killed...? 
-I didn’t intend it that way... It just happened.  He heard from Laurence that you’d been back.  That we’d argued. He asked why and it just happened; I told him everything... I couldn’t help it. Wanted to see him scared. I had never seen him scared before, you see... 
+I didnÂ’t intend it that way... It just happened.  He heard from Laurence that youÂ’d been back.  That weÂ’d argued. He asked why and it just happened; I told him everything... I couldnÂ’t help it. Wanted to see him scared. I had never seen him scared before, you see... 
 Well, I hope you enjoyed yourself. 
-Perhaps I did... Until fear turned into panic. That’s when he hit me, and told me he’d killed my brother... “You don’t know what you’ve done,” he said.  “We’re in deep trouble,” he said. “We,” he said. “We.”  We’d both be killed if Friedman ever found out you were working for us, he said. We had to stop you and Friedman meeting...
-What are you doing? You can’t. I... 
-Do you think the boy you saved might identify your husband as his purchaser, Deborah? And then, your brother’s not buried yet. As I said earlier, an autopsy will... 
-He... He is dead!  MY HUSBAND IS DEAD!  Call my parents. They’ll tell you. Call them! Do you think we’d let him get away with the murder of my brother? 
+Perhaps I did... Until fear turned into panic. ThatÂ’s when he hit me, and told me heÂ’d killed my brother... Â“You donÂ’t know what youÂ’ve done,Â” he said.  Â“WeÂ’re in deep trouble,Â” he said. Â“We,Â” he said. Â“We.Â”  WeÂ’d both be killed if Friedman ever found out you were working for us, he said. We had to stop you and Friedman meeting...
+What are you doing? You canÂ’t. I... 
+Do you think the boy you saved might identify your husband as his purchaser, Deborah? And then, your brotherÂ’s not buried yet. As I said earlier, an autopsy will... 
+He... He is dead!  MY HUSBAND IS DEAD!  Call my parents. TheyÂ’ll tell you. Call them! Do you think weÂ’d let him get away with the murder of my brother? 
 We? You and your parents killed your husband? 
 No. Not us... They found his body yesterday. In the pool at our house in Sao Paulo. He drowned. Drank too much, went for a swim and drowned. 
 Your flunkey said he was expected back tonight. 
-The staff don’t know yet...  I called my parents, told them everything...  I just couldn’t take any more... 
+The staff donÂ’t know yet...  I called my parents, told them everything...  I just couldnÂ’t take any more... 
 Get to the point, will you... 
 My parents flew back from Israel... Told him they would get him killed unless he flew back to Brazil immediately and agreed to a divorce. He flew back to Brazil...  And his drowning was arranged...
 On... Once...  Once... What are we... you going to do? 
 What do you suggest? 
-I don’t know. Everyone’s dead... 
+I donÂ’t know. EveryoneÂ’s dead... 
 Your parents arranged the visit to my office?
-You wouldn’t understand.
+You wouldnÂ’t understand.
 The dead can wait.
 Will you please come with me? 
-That might depend on where you’re going. 
-I am Lawrence, sir. Mr and Mrs De Moraes’ majordomo. They are expecting you. 
+That might depend on where youÂ’re going. 
+I am Lawrence, sir. Mr and Mrs De MoraesÂ’ majordomo. They are expecting you. 
 De Moraes? I was asked here by a Mrs Spitz. 
 That would be Mrs De Moraes mother, Sir. Mr and Mrs Spitz are here with their daughter.
 Could I speak to Carlos or Deborah? 
-I’m afraid they are out at the moment, sir. 
+IÂ’m afraid they are out at the moment, sir. 
 When will they be back? 
 Mr De Moraes is due back from Brazil late this evening. Mrs De Moraes is out and not expected before eight. Do you wish...
-I work here, sir. I’m here most of the time. 
-You wouldn’t recall if the brothers-in-law left together, would you? 
+I work here, sir. IÂ’m here most of the time. 
+You wouldnÂ’t recall if the brothers-in-law left together, would you? 
 You will have to ask Mr De Moraes that, sir.  Would you like a drink while you wait? 
-No. Thank you. I’ll be fine... Mrs De Moraes must have taken it hard, eh?  Her brother’s death. 
+No. Thank you. IÂ’ll be fine... Mrs De Moraes must have taken it hard, eh?  Her brotherÂ’s death. 
 Dial O-O-O on the telephone if you change your mind about the drink, sir.
 Must it? 
 All those soldiers out there... getting bored, thirsty. Come out here for refreshment or female company perhaps? 
-Ain’t nobody out there, Mister. 
+AinÂ’t nobody out there, Mister. 
 Nobody? Huh!... How come? 
 Maybe for the same reason that made someone somewhere not consider this a spot to build the Getty Museum... 
-Ha-ha... Yeah...  What about that road back there, though? It says ‘closed to the public’, doesn’t it? 
+Ha-ha... Yeah...  What about that road back there, though? It says Â‘closed to the publicÂ’, doesnÂ’t it? 
 You a tourist?
 I need to confess. 
 But you already confessed this morning... 
@@ -8597,7 +8597,7 @@ Spanish passports?
 Correct. Now the train leaves-- 
 At twelve twenty. I know.  Lyons two, four, seven, one.  Two more days and we'd have seven hundred and fifty thousand francs more! 
 Well, we'll have to take what's here. A bird in hand is worth two in jail. 
-Hello ... Is this the Spanish consulate? This is Doña Ignacio Fernandez.  My husband and I are leaving tonight for Berlin ... Is it too late to get a visa this afternoon ... ? Thank you, thank you.  How long will it take you? 
+Hello ... Is this the Spanish consulate? This is DoÃ±a Ignacio Fernandez.  My husband and I are leaving tonight for Berlin ... Is it too late to get a visa this afternoon ... ? Thank you, thank you.  How long will it take you? 
 I don't know. Fortunately, she has a dinner engagement tonight. I'll meet you at the station--midnight.  Hello ... Yes? What? ... You found a handbag? Well, you're three weeks too late! 
 Well, see you at the Berlin Express. 
 By the way, how is your German? 
@@ -12480,7 +12480,7 @@ You must be high. Uh-huh. No way.
 Just put it in your purse. 
 I'm not gonna put that shit in my purse. 
 They won't search you. I promise. You haven't done anything. 
-No way, JosÈ. 
+No way, JosÃˆ. 
 Please, they'll be here any minute. Just put it in your bra. 
 I'm not wearing a bra. 
 Put it in your pants. 
@@ -17712,7 +17712,7 @@ Do they have to look so...robotic?
 At this stage, you either get form or function. You said she wanted function. I gave you function. What are you complaining about?
 Performing solo.  Enjoying the concert so far?
 The only thing I want to hear is your silence. 
-I must make them very nervous if they let you out of prison.  You know, we have so much in common —— we have such history together ——I've been thinking we should become friends. 
+I must make them very nervous if they let you out of prison.  You know, we have so much in common Â—Â— we have such history together Â—Â—I've been thinking we should become friends. 
 You and me have nothing in common. 
 Who else do you know who touches the world with synthetic hands?
 Now, is that any way to talk to an old buddy? I mean, just because I'm carrying around the joy of killing your family inside me doesn't mean we can't be friends. 
@@ -17728,9 +17728,9 @@ Where did you plant the C-4?! You can't die until you tell me where the C-4 is. 
 My...secret.
 I thought you liked me being in the audience. Don't you want me to see it?
 You are going after Mayor Bennett. 
-Let's just say I'm sending a very clear message to his Re—Election Rally... 
+Let's just say I'm sending a very clear message to his ReÂ—Election Rally... 
 Aren't you going to watch with me? 
-I've got some final preparations to take care of—— Checking his watch, he stops suddenly. Thank-you, Daryl.  You had me going for quite a while there, sport. 
+I've got some final preparations to take care ofÂ—Â— Checking his watch, he stops suddenly. Thank-you, Daryl.  You had me going for quite a while there, sport. 
 What are you talking about? 
 I really did think I was still in reality. At least, until now.  Beam me up, Scotty!
 BARNES, YOU'RE DEAD!
@@ -17739,7 +17739,7 @@ A little less than yesterday.
 In other words, par for the course.  How do you feel about the simulation you participated in yesterday? 
 John died. 
 I know. I was there. I saw the whole thing.  If I was your therapist, I would have advised you against putting yourself back into that kind of situation. 
-You're not my therapist. You're hear to study me. Face it —— I'm nothing more than a lab rat to you. 
+You're not my therapist. You're hear to study me. Face it Â—Â— I'm nothing more than a lab rat to you. 
 That's not true, Parker. 
 If I had died yesterday, you'd have already dissected my brain and analyzed it to see if I carry any genetic predisposition toward violence. 
 What was going through your mind when you killed the busboy? 
@@ -17756,14 +17756,14 @@ You all right?
 Fine. Never felt better in my life.  See, I'm a good liar.
 Don't worry. If I can't handle it, I'll just kill everybody.
 Manson didn't kill the first cops to arrive on the scene. 
-Whoever did this wanted to do Charlie one better —— to improve upon what was already done. 
+Whoever did this wanted to do Charlie one better Â—Â— to improve upon what was already done. 
 Charlie? You say that like you're close, personal friends. 
 I've spent over 50 hours interviewing him.  Charlie killed Leno and Rosemary LaBianca because of the ugly way the members of his family had butchered Sharon Tate. After seeing the blood bath on television, he wanted to show them how it should be done.  The question is, what does Charlie have to do with Sid 6.7? 
 I know who would know.
 He had a twin brother who was a musical child prodigy who died in an electrical accident at age eight. Lindenmeyer went into an emotional shell until was 17. All he did day and night was play the violin. 
 What happened when he was 17? 
 Every music school in the country rejected him and he turned to computers.  Stay here.
-Do me one favor —— if you shoot at anything, make sure I'm nowhere near it.
+Do me one favor Â—Â— if you shoot at anything, make sure I'm nowhere near it.
 Checking my pulse. It's elevated.  You enjoy frightening me, don't you? 
 You've studied me, now I'm studying you. Seems only fair, don't you think? 
 This Lindenmeyer's a real piece of work. 
@@ -17784,7 +17784,7 @@ But rather than selecting pieces from each individual, he simply let the stronge
 As a matter of fact, it is. 
 Remember the bowling ball bag Sid carried with him in virtual reality? 
 Dahmer carried the head of one of his victims in a bowling bag for over a week. Kept it in his locker while he was at work in a candy factory.  We need to get a look at Sid 6.7's final profile. 
-What we need to do is stop playing with computers and go catch the son—of-a-bitch before he kills anybody else. 
+What we need to do is stop playing with computers and go catch the sonÂ—of-a-bitch before he kills anybody else. 
 In order to find him, we have to understand what makes him tick...
 Give me a goddam break. I'm not going to go anywhere alone. 
 And I'm going to make sure of it.  Give me your wrist.
@@ -17798,10 +17798,10 @@ You should practice lying more often. You're awful at it.  Where to?
 Sid 6.7 is no longer bound by his programming. 
 What does that mean? 
 Now that he's in the real world, there are no longer limitations on his behavior like there were in virtual reality. Sid is going to evolve. 
-Sounds to me like a well—educated way of saying you have no idea what to do next. 
+Sounds to me like a wellÂ—educated way of saying you have no idea what to do next. 
 What I do know is that whatever he's becoming, Sid 6.7 is going to be even worse than he was before. 
 Then all we can do is stay mobile and alert. He's got to make a move sometime, and we've got to be ready when he does.  Welcome to police work. You better like coffee.
-You know, considering you've only been out of prison for seven hours, you're re—adapting quite well.  Wait, I didn't mean that the way it sounded. I meant... 
+You know, considering you've only been out of prison for seven hours, you're reÂ—adapting quite well.  Wait, I didn't mean that the way it sounded. I meant... 
 Don't worry about it, all right? 
 Dammit, I hate sounding so clinical all the time. All I meant to say was I thought you were doing well, but then I... 
 Relax. I know what you meant. 
@@ -17843,10 +17843,10 @@ Nice work.
 Thanks.
 A bomb's going off tomorrow night, but I have no idea where.
 You mean there's something you haven't asked me? 
-You've already fulfilled the terms of your pardon. You stopped Sid 6.7 and you've got his module. You're free to go —— right now.  Why are you going to do this? 
+You've already fulfilled the terms of your pardon. You stopped Sid 6.7 and you've got his module. You're free to go Â—Â— right now.  Why are you going to do this? 
 You don't know? 
 That's why I'm asking. 
-Because this pain—in—the—ass criminal psychology expert has helped me understand what I'm capable of. And what I'm not.  And better than anyone else, I am capable of stopping Sid 6.7.
+Because this painÂ—inÂ—theÂ—ass criminal psychology expert has helped me understand what I'm capable of. And what I'm not.  And better than anyone else, I am capable of stopping Sid 6.7.
 ...I think so...You? 
 More or less. 
 Lindenmeyer? 
@@ -17874,7 +17874,7 @@ All my work is my finest.
 I think I understand what you have in mind...
 What do you expect me to do, thank him?
 Of course you are. 
-How can I ever thank—you for bringing me back to life a second time, Daryl? 
+How can I ever thankÂ—you for bringing me back to life a second time, Daryl? 
 Help me get out of here. 
 Glad to...
 I'm begging you...please don't kill me! Please! 
@@ -17892,21 +17892,21 @@ I haven't been working on anything.
 Do I get to see it or not? 
 Bastard...  Sheila, don't go anywhere. I'll be right back.
 You're...such a wimp. Watching your VR people Auto Reset gave me the idea. 
-It's nano—technology, isn't it? Machines the size of molecules... 
+It's nanoÂ—technology, isn't it? Machines the size of molecules... 
 Coordinated by polymer neural net. 
 It feels so.. .real. 
 It's better than real. It's synthetic flesh. Synthetic blood. Synthetic organs...  It's a physiological machine. 
 This is supposed to be years away. 
 As far as the public is concerned, it is. The reason you got fired, and I got my second demo into production, is I'm a lot smarter than you. I never give my best stuff away. 
 How do you kill it? 
-Separate the character module from the neural net... ... and you get nano—death.  Don't worry, I've got a bunch of other ones. 
+Separate the character module from the neural net... ... and you get nanoÂ—death.  Don't worry, I've got a bunch of other ones. 
 Amazing. I hate to say it, but it is. 
 I know.  I'm ready to incubate something a little more advanced than a coldblooded reptile. If you want to experience the future, meet me in my office in 15 minutes. And bring the Sheila 3.2 character module with you...
 What I need is a nymphomaniac.
 The reason you insisted on testing my system with prisoners is because of the increased risks involved with increased realism. 
-Of the six prison inmates you've tested —— all of whom have had at least some military or survival training -— only Mr. Barnes is still breathing. 
+Of the six prison inmates you've tested Â—Â— all of whom have had at least some military or survival training -Â— only Mr. Barnes is still breathing. 
 I'm still making adjustments... 
-You've had a year—and—a—half to make all the adjustments you want, Lindenmeyer.  ) Elizabeth Deane does not give second chances. Neither do I. You're fired. 
+You've had a yearÂ—andÂ—aÂ—half to make all the adjustments you want, Lindenmeyer.  ) Elizabeth Deane does not give second chances. Neither do I. You're fired. 
 I'M WHAT?! 
 You are to turn over the Sid 6.7 program, and all its documentation, for immediate destruction. Is that understood? 
 I understand... I understand perfectly.
@@ -17938,7 +17938,7 @@ You're the highest law enforcement official in the country. Use the fucking army
 This better not be a wild goose chase. 
 Or what, you'll authorize my death a second time today? 
 Don't forget, convict, if this psycho isn't stopped, you go right back to rotting in a prison cell.
-We have an emergency situation which requires somebody with expertise in criminal psychology. Under the authority vested in me by the President, I'm giving you temporary re—assignment. 
+We have an emergency situation which requires somebody with expertise in criminal psychology. Under the authority vested in me by the President, I'm giving you temporary reÂ—assignment. 
 What's the assignment? 
 You're going to put your theories to practice. I'm sending you into the field.
 Letting a lunatic like Parker Barnes loose in the free world is like lighting a fuse. At some point, he will go off -- you saw what happened in the simulator. The risk to the public is unacceptably dangerous. 
@@ -17963,12 +17963,12 @@ Donley started experiencing the attack for real. If I hadn't gotten you out, the
 He was a computer program for crissake. 
 You were supposed to act as if everything was real. 
 Real, my ass. It's an overblown game.  Anybody ever catch that fucking psycho? 
-Before you, nobody else had gotten close enough to Sid 6.7 to take a shot at him. Hell, nobody else had even been able to start tracking him before he got to them first.  New scar —— you making it okay in there? 
+Before you, nobody else had gotten close enough to Sid 6.7 to take a shot at him. Hell, nobody else had even been able to start tracking him before he got to them first.  New scar Â—Â— you making it okay in there? 
 I'm getting by.
 Don't give up, Parker. Not ever. 
 You know those cheesy Christmas cards of your family under that tree in your back yard you keep sending me every year? 
 What about them? 
-Do me a favor —— keep sending them.
+Do me a favor Â—Â— keep sending them.
 Parker Barnes, I'd like you to meet Crime Czar Elizabeth Deane. 
 It's too early in the morning for me to be cordial. You got any coffee?
 I've seen worse. 
@@ -17977,16 +17977,16 @@ If you can catch him.
 What she's going to do is get in my way. 
 This is the personnel file on the programmer, Lindenmeyer. There might be something in it you can use. 
 She wasn't part of the deal, Cox. 
-Fine —— you want to stay here? Officers in Toluca Lake just found an affluent couple...completely gutted.  So were the first two cops to arrive on scene. 
+Fine Â—Â— you want to stay here? Officers in Toluca Lake just found an affluent couple...completely gutted.  So were the first two cops to arrive on scene. 
 Their weapons missing? 
 Sid 6.7 is now armed. 
 Where's my gun?
-You son—of—a—bitch. How could you let them put the implant in my head? How?
+You sonÂ—ofÂ—aÂ—bitch. How could you let them put the implant in my head? How?
 Then I guess we're even.
 On my life, I promise you I will. 
 If you're lying, I'll hunt you down and kill you myself.
 Why wasn't I told?
-You mean a nano—tech synthetic organism. 
+You mean a nanoÂ—tech synthetic organism. 
 Whatever.
 Catch him and your record's clean.
 If you try to run, I'll hunt you down and kill you myself. 
@@ -17999,15 +17999,15 @@ I don't know.
 I wish we could hear them.
 He would slaughter eight people sitting in a room, but not two prison guards? 
 Do I need to remind you what happened to his wife? To his daughter?  I will stake my reputation that Barnes didn't kill those guards. 
-You already have staked your reputation.  Mayor Bennett and I have been friends a long time. Since Grimes tried to kill him, it doesn't take a rocket scientist to come to the conclusion that Sid 6.7 might go after him, too.  Bennett's Re-Election Rally is tomorrow night and we already have enough trouble on our hands with one psychotic on the loose.  The fail-safe on—line, yet?
+You already have staked your reputation.  Mayor Bennett and I have been friends a long time. Since Grimes tried to kill him, it doesn't take a rocket scientist to come to the conclusion that Sid 6.7 might go after him, too.  Bennett's Re-Election Rally is tomorrow night and we already have enough trouble on our hands with one psychotic on the loose.  The fail-safe onÂ—line, yet?
 Can you tell us what's on the disc? 
 ) There is one program with approximately 1.3 million lines of programming. It is thoroughly secured, which is not surprising considering Lindenmeyer created it.
-I accidently triggered a protection mechanism which erased the entire program. It was very well—hidden. There was no way to see it until it was too late. 
+I accidently triggered a protection mechanism which erased the entire program. It was very wellÂ—hidden. There was no way to see it until it was too late. 
 It's not your fault. We appreciate you trying. 
 Look, I feel bad about this, so I'm going to try to look into the programming of his Maestro teaching tool for you.  ) I've had one sitting around for years. Maybe I can learn something that you'll find useful.
 Me? What did I do? 
 I'm sorry, I thought you were somebody else. 
-I've discovered something about Lindenmeyer'5 Maestro teaching tool I thought you should know...  The harm done to the music students who used the device —— it was not by accident. The machine was designed explicitly for that purpose. Lindenmeyer intended to hurt the kids using it. 
+I've discovered something about Lindenmeyer'5 Maestro teaching tool I thought you should know...  The harm done to the music students who used the device Â—Â— it was not by accident. The machine was designed explicitly for that purpose. Lindenmeyer intended to hurt the kids using it. 
 Jesus Christ.  I know who the dominant personality is.  Lindenmeyer.
 Of course, we're gonna need some <u>water</u>, uh... 
 Is it a <u>stream</u>, or is it a... 
@@ -18199,7 +18199,7 @@ Hey, lcokit:  <u>any</u> business...
 Ain't <u>that</u> the truth. 
 Whattaya gonna do when this is all over? 
 What am <u>I</u> gonna do?  I'm gonna "Fade Away."  What are you gonna do? 
-Well, I'll be damned if I <u>know</u> ... you know... doing this <u>thing</u> ...  You know what the worst word is, in the English Language?  It's ïretirement."  What the <u>hell</u> was I thinking of?  Hell, I used to...
+Well, I'll be damned if I <u>know</u> ... you know... doing this <u>thing</u> ...  You know what the worst word is, in the English Language?  It's Ã¯retirement."  What the <u>hell</u> was I thinking of?  Hell, I used to...
 I got it in the inaugural.  "Thank you for voting for me, but, <u>as</u> importantly:  Thank you for <u>voting</u>... 
 Getting off on the inaugural?  Gonna go... 
 Might, if I was asked...
@@ -20227,7 +20227,7 @@ Oh, Teddy. We missed you so much.
 Don't say "shit," honey. Use the strong vocabulary God gave you.
 That's just one example. My reporting has made a difference. 
 Let me guess: retail sales of little chocolate sprinkles have gone through the roof! 
-The school dumpsters used to overflow to the point where the stench was unbearable. My award winning exposé changed all that. The city added an extra weekday trash pick-up. 
+The school dumpsters used to overflow to the point where the stench was unbearable. My award winning exposÃ© changed all that. The city added an extra weekday trash pick-up. 
 Is it true? Is ignorance bliss? 
 Look, I loved "Exposed!" and I hate it that you got busted. I know the school paper sucks in comparison, but it's really not THAT BAD. 
 Don't even tell me you're hot for Miss Titty Pom Poms over there. 
@@ -20262,7 +20262,7 @@ I see. So more like a tight rope walker who secretly wants to be a trapeze artis
 I guess. 
 Interesting.
 You never know around here. Don't write that part. 
-Is this an gritty exposé or a candy ass press release? 
+Is this an gritty exposÃ© or a candy ass press release? 
 Write what you want. Just try not to make it so obvious that you're crazy about me. 
 Life must be peachy on Planet Ted. 
 Funny you should say "peachy." 
@@ -21478,10 +21478,10 @@ No? Why not?
 You just wouldn't. It's not the Amish way.  But I think it would have done me good if I could have screamed at your brother last night. 
 Listen, I don't know what's going on or how you got mixed up with him, but don't you let that self-righteous son of a bitch push you around, okay?
 Not yet.
-He accused John of taking kickbacks. And you know – anybody who knows John – knows that's a goddamn lie! 
+He accused John of taking kickbacks. And you know Â– anybody who knows John Â– knows that's a goddamn lie! 
 Of course, Elaine. But as long as there's any question, better Johnny should come back and clear his name. 
 Better you should get off my front porch before I get my mace! 
-Elaine, I don't want to have to take you in for questioning. You've got his car, you were the last to see him – 
+Elaine, I don't want to have to take you in for questioning. You've got his car, you were the last to see him Â– 
 I don't know where he is. 
 But... if you had to guess?
 Wrong. 
@@ -21494,19 +21494,19 @@ He's got my number.
 What I know, Paul, is...  He's going to take you out...
 I didn't even know about it. 
 Okay, Sam. Can you tell me what he looked like?
-Let's just find Coalmine.  Listen, Zenovich made a mistake. You didn't let anybody down. It happens – 
+Let's just find Coalmine.  Listen, Zenovich made a mistake. You didn't let anybody down. It happens Â– 
 It won't happen again.
 What the hell are you talking about? What's happening. 
 Nothing. I'm not going to be around for a while. I'll call you when I can. 
 Johnny, what the fuck? 
-Listen to me – Schaeffer's part of it. Maybe at the top of it. Yeah... I can put it all together when I get back, 'Til then, you know nothing, understand? Business as usual... 
+Listen to me Â– Schaeffer's part of it. Maybe at the top of it. Yeah... I can put it all together when I get back, 'Til then, you know nothing, understand? Business as usual... 
 I hear you. 
 Good. Take care of that woman's name for me. And watch your ass.
 Johnny! Where the hell have you been? 
 Never mind. I'm coming in to take care of business. How hot am I? 
 Too hot. Don't do it. Don't come in. 
 I'm coming. 
-Listen, Johnny, don't do anything stupid. You couldn't get within a mile of Schaeffer right now. So stay put... Stay in touch – I'll let you know when maybe it makes sense. You hear me? 
+Listen, Johnny, don't do anything stupid. You couldn't get within a mile of Schaeffer right now. So stay put... Stay in touch Â– I'll let you know when maybe it makes sense. You hear me? 
 I hear you. I'll stay in touch. 
 That's more like it.  Where are you at, anyway? 
 Where I'm at is maybe 1890. 
@@ -21527,7 +21527,7 @@ Yes. And I also want to leave this city.
 Believe me, I'm trying to get this over with as fast as I can. But Samuel will probably have to come back and testify. 
 We do not go into your courts. 
 People who don't go into our courts when they're told to sometimes go directly into our jail. Look, I'm genuinely sorry... 
-No you're not –  You're glad, because now you've got a witness.  I heard the other police talking last night.  They don't seem to like you very much. 
+No you're not Â–  You're glad, because now you've got a witness.  I heard the other police talking last night.  They don't seem to like you very much. 
 They kid a lot. 
 I would not be too sure.
 What's a 'good' tired. Tired is tired.
@@ -21537,7 +21537,7 @@ Oh? Anything else?
 Oh yes. She thinks you like policing because you think you're right about everything. And you're the only one who can do anything. And that when you drink a lot of beer you say things like none of the other police would know a crook from a... um... bag of elbows.
 Listen, I'm the cop that polices the police. I'm not in the business of protecting crooked cops.  I'll make an arrest when I know everybody involved. 
 But why would they murder... 
-Because – somehow – they knew I was getting close.  Look, it's narcotics... They make dope out of chemicals... they sell it on the street for millions of dollars. They'll do anything.  And they can get away with it because they're cops. 
+Because Â– somehow Â– they knew I was getting close.  Look, it's narcotics... They make dope out of chemicals... they sell it on the street for millions of dollars. They'll do anything.  And they can get away with it because they're cops. 
 I'm afraid. I'm afraid for Samuel. I want to go home. 
 You'll be safe. You don't have to worry.
 Home. 
@@ -21548,7 +21548,7 @@ What about Samuel? Will you come back to take him to trial?
 No, no doctor... 
 But why? 
 Gunshot... they'll file reports... they'll find me. 
-But –
+But Â–
 The leadership of our district... the diener. Bishop Tschantz is the one with no hair on top. They decided to come and see you for themselves. Except Stoltzfus, of course. He came the first day. I think he saved your life. 
 Can I have something to drink? Does anybody know I'm here? 
 Only the elders. 
@@ -21617,7 +21617,7 @@ Oh, he's good.
 Amish. 
 Yeah. 
 What have you got? 
-Zenovitch was about to deliver a list of names tonight – street chemists... the guys processing this P2P into speed. 
+Zenovitch was about to deliver a list of names tonight Â– street chemists... the guys processing this P2P into speed. 
 So one of them got to him. 
 Maybe. 
 You know who? 
@@ -21626,7 +21626,7 @@ You're still convinced there's a link to the department?
 If there isn't I've just wasted the last six months. 
 That's the problem. We need results. The press is driving us crazy over this P2P thing. Calling us the 'speed capitol of the country'. You know the sort of thing. It's getting political. The Commissioner's getting very uneasy. 
 The Amish boy saw him, Paul. I'll make it, but Set Donahue and the Homicide Department off my back or they'll blow the whole thing. 
-When word gets out that Zenovitch was a cop, all hell will break lose. You've got 24 hours. That's all I can give you. 24 hours on your own. After that the case and the witness go back to the Homicide Department. Tell you what... why don't you and that blonde – what's-her-name – come over for dinner Sunday. How 'bout that. 
+When word gets out that Zenovitch was a cop, all hell will break lose. You've got 24 hours. That's all I can give you. 24 hours on your own. After that the case and the witness go back to the Homicide Department. Tell you what... why don't you and that blonde Â– what's-her-name Â– come over for dinner Sunday. How 'bout that. 
 What's-her-name moved to Buffalo. 
 Well, anyway, don't get crazy.  I'll do something for Zenovich's wife.
 I hope you don't have any doubts about that. 
@@ -21641,9 +21641,9 @@ Who else knows?
 Just us.
 How bad did Mac get you? We figured pretty bad. 
 I'm fine. I'm going to live a long time. That's what I called to tell you. 
-Johnny – 
+Johnny Â– 
 You might want to pass it along to Mac. 
-Listen to me, Johnny. Come in! You're out there all alone... We're getting close... real close... Maybe if you listen to me for a minute we can work something out so you can come in – 
+Listen to me, Johnny. Come in! You're out there all alone... We're getting close... real close... Maybe if you listen to me for a minute we can work something out so you can come in Â– 
 I've already got something worked out.  Be seeing you.
 Don't try me, Johnny!
 Move! Or you die right here!
@@ -21651,7 +21651,7 @@ Who'd you see? Who'd you see, Sam? The man on the floor?
 No... I saw the man who killed him.
 Black... I understand. What else,Sam?
 No pistol. Ever. 
-Tell you what – I'm going to let you handle this one. But only if you promise not to say anything to your momma. I've got a feeling she wouldn't understand. 
+Tell you what Â– I'm going to let you handle this one. But only if you promise not to say anything to your momma. I've got a feeling she wouldn't understand. 
 Okay, Mr. Book.
 You don't say.
 ...I want to say a thing. 
@@ -22104,12 +22104,12 @@ No, Aunt Em -- this was a real, truly live place.  And I remember that some of i
 And expensive.  Cost three million plus.
 Anywhere in this circle.  Iran, Iraq, Pakistan, Syria, Afghanistan... 
 Marvellous.
-It’s heading for the oil terminal. 
+ItÂ’s heading for the oil terminal. 
 Where it can do the most damage.
 Still no contact yet.
 Is it?
 How would you know? 
-Why are you like this?  Because Bond is dead?  It’s what you wanted. 
+Why are you like this?  Because Bond is dead?  ItÂ’s what you wanted. 
 Of course... 
 He was a...good lover? 
 What do you think?
@@ -22128,9 +22128,9 @@ What class sub does your nephew run?
 C-class.
 BondJamesBond. What brings you here? 
 You, of course. I need some information. 
-Bond, I’m a civilian. This is my place. Used to be the royal family’s, now it’s mine. I run my little business, I stay out of trouble... 
-Mafia warlords, Diplomats and spies, consortiums from every country in the world.  A nice little rat’s nest. 
-Have some of the rat’s nest caviar.  From my own fishery.  They buy my caviar, drink my champagne, lose to my House.
+Bond, IÂ’m a civilian. This is my place. Used to be the royal familyÂ’s, now itÂ’s mine. I run my little business, I stay out of trouble... 
+Mafia warlords, Diplomats and spies, consortiums from every country in the world.  A nice little ratÂ’s nest. 
+Have some of the ratÂ’s nest caviar.  From my own fishery.  They buy my caviar, drink my champagne, lose to my House.
 How does a terrorist like Renard supply his men with state-of-the-art Russian Army weapons? 
 What?  This is not possible. 
 If I remember my Cyrillic that says 101st airborne division. 
@@ -22139,13 +22139,13 @@ Off a high-powered Paraski that was trying to kill me.
 How high up does this...arms dealing go? 
 Bond. If someone wants you dead, it is Renard. Our government has nothing to gain by killing you. 
 But you would have something to gain by killing Robert King. And stopping his pipeline.
-She’s no innocent.  This is my nuclear consultant. 
-Ah, I see.  A purely...plutonic relationship. Really Bond, couldn’t you find a nice Russian scientist with hair growing out of his ears? 
-What’s your business with Elektra King? 
+SheÂ’s no innocent.  This is my nuclear consultant. 
+Ah, I see.  A purely...plutonic relationship. Really Bond, couldnÂ’t you find a nice Russian scientist with hair growing out of his ears? 
+WhatÂ’s your business with Elektra King? 
 I thought you were the one in her business. 
-She dropped a million and half dollars to the House -- your House. And you didn’t even bat an eyelid.  She was paying you off.  What for? 
+She dropped a million and half dollars to the House -- your House. And you didnÂ’t even bat an eyelid.  She was paying you off.  What for? 
 As ever you are the spy who has to see a plot wherever he looks. That is 5,000 dollars of Beluga ruined! 
-You are out of your league.  She’s working with Renard.
+You are out of your league.  SheÂ’s working with Renard.
 A rope! 
 No.  The truth!  She thought I was dead -- those blades were meant for you.  What do you know that she would kill you for?
 And the payoff on the tables? 
@@ -22157,93 +22157,93 @@ Where?
 Istanbul.
 The right kind of explosion in the right spot -- it would block the Bosphorus, cut off the Black Sea.
 How appropriate. 
-I’d heard there were some renovations there...no one would look for a sub in that place in a million years.
+IÂ’d heard there were some renovations there...no one would look for a sub in that place in a million years.
 Yes. 
-I haven’t been able to recall a single moment of that day...until now. 
-Funerals aren’t exactly memorable. 
-God no. All those horrible loved ones and relatives. I don’t want to talk to those people. I just want to...talk to my father.  I loved him.  I’m not sure he knew that. 
+I havenÂ’t been able to recall a single moment of that day...until now. 
+Funerals arenÂ’t exactly memorable. 
+God no. All those horrible loved ones and relatives. I donÂ’t want to talk to those people. I just want to...talk to my father.  I loved him.  IÂ’m not sure he knew that. 
 Is that why you want to finish the pipeline? 
 Partially, yes.
-My bodyguard. He follows me everywhere. He’s decisive, vigilant.  And he makes an excellent omelette. 
+My bodyguard. He follows me everywhere. HeÂ’s decisive, vigilant.  And he makes an excellent omelette. 
 How long has he been with you? 
 Since the kidnapping. Why do you ask? 
 Does this look familiar to you? 
-It’s my father’s pin. He wore it everyday of his life. Are you trying to break my heart? Or is it just your way with women? 
-It’s not the pin your father wore. It’s an exact duplicate. Inside is a tiny electrical detonator. We have reason to believe the assassin had an inside accomplice, someone who worked at this company. 
-If you’ve come here to look after me, Mr. Bond, thank you, but no thank you.  I have two bodyguards, I don’t need a third... 
-The killer doesn’t want to see this pipeline continue, doesn’t want to see you take over... 
-That’s every man within a five mile radius.  Including you.  That’s why you’re here, isn’t it? You think I can’t do it. You think I’m going to screw up. Or get myself killed. 
-I think running this pipeline would be a difficult job for anyone. Especially King’s daughter. 
+ItÂ’s my fatherÂ’s pin. He wore it everyday of his life. Are you trying to break my heart? Or is it just your way with women? 
+ItÂ’s not the pin your father wore. ItÂ’s an exact duplicate. Inside is a tiny electrical detonator. We have reason to believe the assassin had an inside accomplice, someone who worked at this company. 
+If youÂ’ve come here to look after me, Mr. Bond, thank you, but no thank you.  I have two bodyguards, I donÂ’t need a third... 
+The killer doesnÂ’t want to see this pipeline continue, doesnÂ’t want to see you take over... 
+ThatÂ’s every man within a five mile radius.  Including you.  ThatÂ’s why youÂ’re here, isnÂ’t it? You think I canÂ’t do it. You think IÂ’m going to screw up. Or get myself killed. 
+I think running this pipeline would be a difficult job for anyone. Especially KingÂ’s daughter. 
 You are wrong, Mr. Bond. In fact, I am the only person who can do it.
 Always wanted to see the upper lines. 
-You don’t take no for an answer, do you? 
+You donÂ’t take no for an answer, do you? 
 No.
-We’re alright. 
-I can’t stay here. 
-You’re not going to. 
+WeÂ’re alright. 
+I canÂ’t stay here. 
+YouÂ’re not going to. 
 No!  It will cave in! 
-It’s the only way out...
+ItÂ’s the only way out...
 I know.
-I think you’re one of the bravest people I’ve ever met. 
+I think youÂ’re one of the bravest people IÂ’ve ever met. 
 What is it? 
 ...you should rest. 
 James... 
 I have to go. 
 Then take me with you. 
-No. You’ll be safe here. 
-I don’t want to be safe! 
+No. YouÂ’ll be safe here. 
+I donÂ’t want to be safe! 
 I have to go to work.
 Two. Shaken not stirred. What the hell are you doing here? 
-Someone wants to kill me, I’d rather die looking him straight in the eye.  What are you doing here?  Looking for a woman a little more your type? How about that one? 
-If this little show is for my benefit, I’ll take you home right now. 
-You had your chance, James. Now I’m looking for a bigger thrill.
+Someone wants to kill me, IÂ’d rather die looking him straight in the eye.  What are you doing here?  Looking for a woman a little more your type? How about that one? 
+If this little show is for my benefit, IÂ’ll take you home right now. 
+You had your chance, James. Now IÂ’m looking for a bigger thrill.
 Really?
 Not at that price. Time to surrender.
 Shush.
-I used my body on the guards.  It gave me control. I got to a gun and I took my chance.  I’ve never told anyone that.
-A little. Does it matter? After all, what’s the point of living if you can’t feel alive?  Isn’t that right, Elektra? Isn’t that your motto? 
+I used my body on the guards.  It gave me control. I got to a gun and I took my chance.  IÂ’ve never told anyone that.
+A little. Does it matter? After all, whatÂ’s the point of living if you canÂ’t feel alive?  IsnÂ’t that right, Elektra? IsnÂ’t that your motto? 
 What are you talking about? 
 Or did you steal it from your old friend Renard? 
 ...what? 
 We had a run-in, he and I. He knew about us, he knew about my shoulder, he knew exactly where to hurt me... 
-Are you saying...Renard is the man who’s trying to kill me? 
-You can drop the act, it’s over. 
-I don’t know what you’re talking about! 
+Are you saying...Renard is the man whoÂ’s trying to kill me? 
+You can drop the act, itÂ’s over. 
+I donÂ’t know what youÂ’re talking about! 
 I think you do.
 He used your exact words. 
 You knew.  You knew all the time, that he was out there, that he was coming for me, and you lied. You used me, you used me as bait. You made love to me -- what, to pass the time as you waited for him to strike?
-You do what you have to do, but I’ve called in M.  She’s en route from London even now.
+You do what you have to do, but IÂ’ve called in M.  SheÂ’s en route from London even now.
 Not interested.
-Soon she’ll be everywhere. 
+Soon sheÂ’ll be everywhere. 
 All this, because you fell for Renard? 
-Five more turns and your neck will break. Since I was a child, I’ve always had a power over men. When I realized my father wouldn’t rescue me from the kidnappers, I knew I had to form a new alliance. 
+Five more turns and your neck will break. Since I was a child, IÂ’ve always had a power over men. When I realized my father wouldnÂ’t rescue me from the kidnappers, I knew I had to form a new alliance. 
 You turned Renard. 
 Just like you...only you were even easier.
 He killed me! He killed me the day he refused to pay my ransom. 
 Was this all about the oil? 
-It is my oil!  Mine and my family’s! It runs in my veins, thicker than blood. I’m going to redraw the map. And when I am through the whole world will know my name, my grandfather’s name, the glory of my people. 
+It is my oil!  Mine and my familyÂ’s! It runs in my veins, thicker than blood. IÂ’m going to redraw the map. And when I am through the whole world will know my name, my grandfatherÂ’s name, the glory of my people. 
 No-one will believe this melt-down was an accident.
-Elektra, it’s not too late.  Eight million people needn’t die.
+Elektra, itÂ’s not too late.  Eight million people neednÂ’t die.
 Oh James.
 Yes. 
 Today, of all days, the sun decides to shine. 
 Perhaps Sir Robert had a word with the Man Upstairs. 
-A word? I’m sure by now he’s engineered a hostile takeover. 
+A word? IÂ’m sure by now heÂ’s engineered a hostile takeover. 
 You knew him well? 
 He was my father. 
-I’m sorry. 
+IÂ’m sorry. 
 He died before he could complete his lifelong dream.  I intend to finish it for him.
 Indeed.
 Not many people in this world have that kind of fortune. 
 Who is it? 
-You think I fear death? I welcome it. I get on my knees and pray for it. You, on the other hand, you have something to live for, no?  She’s beautiful isn’t she? You should have seen her before. Flawless, and still so innocent, not such a whore in bed... 
+You think I fear death? I welcome it. I get on my knees and pray for it. You, on the other hand, you have something to live for, no?  SheÂ’s beautiful isnÂ’t she? You should have seen her before. Flawless, and still so innocent, not such a whore in bed... 
 You will never touch her. You will never get near her. 
 Have you forgotten who saved your life in Geneva? 
 Consider me ungrateful. 
-It’s I who should thank you -- for taking that money back to MI-6.  So distressing for M.  An explosion inside her lair. 
-She’ll get over it. 
-You even brought the plane for us.  We really couldn’t have done it without you.
-Haven’t you heard the news?  So is she.
+ItÂ’s I who should thank you -- for taking that money back to MI-6.  So distressing for M.  An explosion inside her lair. 
+SheÂ’ll get over it. 
+You even brought the plane for us.  We really couldnÂ’t have done it without you.
+HavenÂ’t you heard the news?  So is she.
 Which is neutral, no doubt.
 Who did you get it from? 
 I am just a middle man. I am doing the honourable thing and returning the money to its rightful owner... 
@@ -22251,81 +22251,81 @@ And we know how difficult that can be for the Swiss.
 Your last chance. Take the money. 
 Your last chance. Give me the name. 
 Stripped of all your weaponry, you still threaten me?
-I can’t tell you...  Alright, alright! But you must protect me!
+I canÂ’t tell you...  Alright, alright! But you must protect me!
 Quite the opposite, in fact. 
 Old friend? 
-Since Oxford. I knew him when he had nothing but a brilliant mind and enough guts to conquer the world. He’s a man of great integrity. 
+Since Oxford. I knew him when he had nothing but a brilliant mind and enough guts to conquer the world. HeÂ’s a man of great integrity. 
 Who buys classified reports for three million pounds.
-She’s not a girl anymore. 
-I’ve scheduled a medical for you. 
-It’s barely a scratch. The Dome broke my fall. 
+SheÂ’s not a girl anymore. 
+IÂ’ve scheduled a medical for you. 
+ItÂ’s barely a scratch. The Dome broke my fall. 
 Well, at least it turned out to have some purpose.
 Caviar capital of the world. Matchless beluga. Firm, yet subtle.  Largest landlocked body of water on Earth.  Oil-rich.  Hitler wanted it. Stalin beat him to it. 
-And now it’s up for grabs, a goldrush. Far more oil than anyone thought.
+And now itÂ’s up for grabs, a goldrush. Far more oil than anyone thought.
 I took the initiative. 
-You haven’t been given an assignment in this case. 
+You havenÂ’t been given an assignment in this case. 
 I was the one who brought that money in... 
-I’m well aware of your stake in this, 007. If you have a point, get to it. 
+IÂ’m well aware of your stake in this, 007. If you have a point, get to it. 
 The amount of money that killed Robert King is the same amount as the ransom demand for Elektra.
 Who? 
 Claude Serrault.  A.K.A... 
 Renard. 
-Sir Robert tried to deal with the kidnapping with his own...resources, at first. When Elektra’s ear was delivered to him in the post, he came to me.  I advised against paying the ransom. I knew it was Renard. I played it out as long as possible to get a fix on him. 
+Sir Robert tried to deal with the kidnapping with his own...resources, at first. When ElektraÂ’s ear was delivered to him in the post, he came to me.  I advised against paying the ransom. I knew it was Renard. I played it out as long as possible to get a fix on him. 
 Sacrifice the girl to take out the terrorist? 
-How many deaths is he responsible for? How many innocent people? You may only get one shot at a man like Renard. Same circumstances, I’d do the same again.
-The doctor who saved him couldn’t get it out, so Renard killed him. When Interpol found the x-rays, there was mild jubilation. Effectively, he’s a dead man. The bullet is moving through the medulla oblongata, killing off his sense of touch. He feels no pain. He can push himself harder, longer than any normal man. 
-‘That which does not kill me makes me stronger.’ 
+How many deaths is he responsible for? How many innocent people? You may only get one shot at a man like Renard. Same circumstances, IÂ’d do the same again.
+The doctor who saved him couldnÂ’t get it out, so Renard killed him. When Interpol found the x-rays, there was mild jubilation. Effectively, heÂ’s a dead man. The bullet is moving through the medulla oblongata, killing off his sense of touch. He feels no pain. He can push himself harder, longer than any normal man. 
+Â‘That which does not kill me makes me stronger.Â’ 
 Now Robert is dead. He got his revenge. 
-He’s not through yet. Renard doesn’t blow up five million dollars unless he knows there’s more coming in. He’s working for someone. Someone who wants to stop the pipeline.  And they hired the perfect killer. One with a vendetta against King...and you.
+HeÂ’s not through yet. Renard doesnÂ’t blow up five million dollars unless he knows thereÂ’s more coming in. HeÂ’s working for someone. Someone who wants to stop the pipeline.  And they hired the perfect killer. One with a vendetta against King...and you.
 The worm on the hook again.
 Then Robert was right about a Russian connection. 
-They’re getting their weapons from the Russians, but where are they getting the money to buy the weapons?  I can’t help thinking...the person close to King, the one who switched that pin... 
+TheyÂ’re getting their weapons from the Russians, but where are they getting the money to buy the weapons?  I canÂ’t help thinking...the person close to King, the one who switched that pin... 
 The inside man? 
 Is maybe...the inside woman.
-I need you to pass me fit now, Molly. It’s just a scratch. 
-James.  It wouldn’t really be...
+I need you to pass me fit now, Molly. ItÂ’s just a scratch. 
+James.  It wouldnÂ’t really be...
 Perhaps after this ... test? 
 ...yes?... 
 I could come for a second opinion?
 Yes. Viktor Davidov, Miss...? 
-Doctor. Jones. Christmas Jones. No jokes, I’ve heard them all. 
-Don’t know any doctor jokes. 
+Doctor. Jones. Christmas Jones. No jokes, IÂ’ve heard them all. 
+DonÂ’t know any doctor jokes. 
 What happened to Len Tashka? 
-Couldn’t make it. Splitting headache. 
-The soldiers may give you a hard time. Whatever. If we weren’t around, they’d have their whole nuclear arsenal lying by the roadsides, rotting in the sun.
-Here’s your imposter. He’s paid off the men on the plane outside.  They’re not taking the bomb to any Russian facility, they’re flying it wherever he tells them.
+CouldnÂ’t make it. Splitting headache. 
+The soldiers may give you a hard time. Whatever. If we werenÂ’t around, theyÂ’d have their whole nuclear arsenal lying by the roadsides, rotting in the sun.
+HereÂ’s your imposter. HeÂ’s paid off the men on the plane outside.  TheyÂ’re not taking the bomb to any Russian facility, theyÂ’re flying it wherever he tells them.
 So who are you? 
 Bond --
 With this?
 When this is over our bodies may be blown to smithereens. 
 Alright then, brunch.
-Then it’s no longer a bomb? 
-It’s a bomb alright. We’re still dead if the trigger charge goes off...
-I did kill us. She thinks we’re dead. And she thinks she got away with it. 
+Then itÂ’s no longer a bomb? 
+ItÂ’s a bomb alright. WeÂ’re still dead if the trigger charge goes off...
+I did kill us. She thinks weÂ’re dead. And she thinks she got away with it. 
 What the hell are you talking about? 
-It’s part of some plan. She dresses it up like a terrorist attack.  The explosion covers up the theft of the plutonium. 
-Who’s she? 
+ItÂ’s part of some plan. She dresses it up like a terrorist attack.  The explosion covers up the theft of the plutonium. 
+WhoÂ’s she? 
 Elektra King. 
 Elektra King?  Are you insane?  This is her pipeline. 
 Makes her look even more innocent. 
 What would she want with weapons grade plutonium? 
 I was hoping you could tell me.
-She just upped the stakes. All her chips are on the table now.  And M’s life is part of the bet.
-Not just nuclear. Powered by a nuclear reactor.  He’s not loading any cargo. They want the sub. The sub itself. Put weapons grade plutonium inside the sub’s reactor: Instant, catastrophic meltdown. 
+She just upped the stakes. All her chips are on the table now.  And MÂ’s life is part of the bet.
+Not just nuclear. Powered by a nuclear reactor.  HeÂ’s not loading any cargo. They want the sub. The sub itself. Put weapons grade plutonium inside the subÂ’s reactor: Instant, catastrophic meltdown. 
 Made to look just like an accident.
 Because an explosion like that would kill all the other pipelines. There would be only one way to get the oil out of the Caspian and pump it to the world... 
 The King pipeline. 
 Elektra would control it all.
-If I don’t get to the Boa before he gets to Maiden’s Tower, M is dead.
+If I donÂ’t get to the Boa before he gets to MaidenÂ’s Tower, M is dead.
 We go down to the torpedo bay.
-He’s going to insert the plutonium. Do you know what you’re doing? 
+HeÂ’s going to insert the plutonium. Do you know what youÂ’re doing? 
 Like riding a bike. 
 What kind of bikes did you ride? 
 Just wanted to put him on edge...
 But what if... 
-Count to twenty.  I’ll be there.
-We can’t.
-So isn’t it time you unwrapped your present?
+Count to twenty.  IÂ’ll be there.
+We canÂ’t.
+So isnÂ’t it time you unwrapped your present?
 Ever see one of these before? 
 Too important for telephone.  Comedian -- Dr. Manhattan.  All linked up. 
 What is that ungodly smell? 
@@ -22418,7 +22418,7 @@ What caused it?
 Don't know.  Nothing I can think of --  -- outside of a nuclear blast.
 He's the one.  He's been the one all along.  Stalking us. 
 Adrian -- you?  You killed Blake, and --
-Adrian.  It¹s too late.  The world is blowing up as we stand here.
+Adrian.  ItÂ¹s too late.  The world is blowing up as we stand here.
 Dan, are you really that paranoid?  Let's face it, Eddie Blake was no Mother Teresa. 
 Psychotic pig.  He had it coming.  Mr. CTU . . . 
 Now wait.  We all had the same option as Blake.  It was work for the government or do time. 
@@ -22517,10 +22517,10 @@ What is it?  How does it work?
 It's a tachyon chamber.  It generates subatomic particles which flow backward in time.  There are other worlds, Daniel, other timelines -- existing parallel to our own -- 
 Adrian -- you've lost it. 
 I've seen them!  I've seen them in there.
-And what if you¹re wrong? 
-I¹m not. 
-What if you¹re wrong?? 
-Then I¹ve been a very bad boy and you¹ll have to spank me.  Christ!  I¹m doing what I have to do to save the godforsaken human race!!
+And what if youÂ¹re wrong? 
+IÂ¹m not. 
+What if youÂ¹re wrong?? 
+Then IÂ¹ve been a very bad boy and youÂ¹ll have to spank me.  Christ!  IÂ¹m doing what I have to do to save the godforsaken human race!!
 You ruthless son of a bitch.  You really believe this mad-scientist bullshit is going to save the world? 
 We'd better hope so.  -- It's almost time.
 Yes.  I heard this morning.  Washington's asked me to attend the funeral as a matter of protocol.
@@ -22562,10 +22562,10 @@ I explained this.  I can't.  That's not the way it happens.
 Jon.  If you ever loved me -- if there's anything human left in you -- then do it. What -- am I -- 
 Cured, yes.
 Jon -- what?? 
-The south pole.  Time¹s flowing backwards.
-Veidt¹s complex.
+The south pole.  TimeÂ¹s flowing backwards.
+VeidtÂ¹s complex.
 Space and time.  I finally understand, Laurie.  I see it all now. 
-Jon -- for God¹s sake, what do you see? 
+Jon -- for GodÂ¹s sake, what do you see? 
 I see what the watchmaker made.  I see the universe!
 Hello, Adrian.
 We've lost a colleague.  The Comedian is dead.
