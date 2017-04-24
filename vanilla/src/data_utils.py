@@ -45,8 +45,8 @@ _WORD_SPLIT = re.compile(b"([.,!?\"':;)(])")
 _DIGIT_RE = re.compile(br"\d")
 
 # URLs for WMT data.
-# _WMT_ENFR_TRAIN_URL = "http://www.statmt.org/wmt10/training-giga-fren.tar"
-# _WMT_ENFR_DEV_URL = "http://www.statmt.org/wmt15/dev-v2.tgz"
+_WMT_ENFR_TRAIN_URL = "http://www.statmt.org/wmt10/training-giga-fren.tar"
+_WMT_ENFR_DEV_URL = "http://www.statmt.org/wmt15/dev-v2.tgz"
 
 
 def maybe_download(directory, filename, url):
@@ -177,7 +177,7 @@ def initialize_vocabulary(vocabulary_path):
     rev_vocab = []
     with gfile.GFile(vocabulary_path, mode="rb") as f:
       rev_vocab.extend(f.readlines())
-    rev_vocab = [line.strip() for line in rev_vocab]
+    rev_vocab = [tf.compat.as_bytes(line.strip()) for line in rev_vocab]
     vocab = dict([(x, y) for (y, x) in enumerate(rev_vocab)])
     return vocab, rev_vocab
   else:
@@ -244,49 +244,81 @@ def data_to_token_ids(data_path, target_path, vocabulary_path,
           tokens_file.write(" ".join([str(tok) for tok in token_ids]) + "\n")
 
 
-def prepare_wmt_data(data_dir, en_vocabulary_size, es_vocabulary_size, tokenizer=None):
-  """Get data into data_dir, create vocabularies and tokenize data.
+def prepare_wmt_data(data_dir, en_vocabulary_size, fr_vocabulary_size, tokenizer=None):
+  """Get WMT data into data_dir, create vocabularies and tokenize data.
 
   Args:
     data_dir: directory in which the data sets will be stored.
     en_vocabulary_size: size of the English vocabulary to create and use.
-    es_vocabulary_size: size of the Spanish vocabulary to create and use.
+    fr_vocabulary_size: size of the French vocabulary to create and use.
     tokenizer: a function to use to tokenize each data sentence;
       if None, basic_tokenizer will be used.
 
   Returns:
     A tuple of 6 elements:
       (1) path to the token-ids for English training data-set,
-      (2) path to the token-ids for Spanish training data-set,
+      (2) path to the token-ids for French training data-set,
       (3) path to the token-ids for English development data-set,
-      (4) path to the token-ids for Spanish development data-set,
+      (4) path to the token-ids for French development data-set,
       (5) path to the English vocabulary file,
-      (6) path to the Spanish vocabulary file.
+      (6) path to the French vocabulary file.
   """
-  # Get data to the specified directory.
+  # Get wmt data to the specified directory.
   # train_path = get_wmt_enfr_train_set(data_dir)
   # dev_path = get_wmt_enfr_dev_set(data_dir)
   train_path = os.path.join(data_dir, 'train')
   dev_path = os.path.join(data_dir, 'valid')
 
+  from_train_path = train_path + ".en"
+  to_train_path = train_path + ".es"
+  from_dev_path = dev_path + ".en"
+  to_dev_path = dev_path + ".es"
+  return prepare_data(data_dir, from_train_path, to_train_path, from_dev_path, to_dev_path, en_vocabulary_size,
+                      fr_vocabulary_size, tokenizer)
+
+
+def prepare_data(data_dir, from_train_path, to_train_path, from_dev_path, to_dev_path, from_vocabulary_size,
+                 to_vocabulary_size, tokenizer=None):
+  """Preapre all necessary files that are required for the training.
+
+    Args:
+      data_dir: directory in which the data sets will be stored.
+      from_train_path: path to the file that includes "from" training samples.
+      to_train_path: path to the file that includes "to" training samples.
+      from_dev_path: path to the file that includes "from" dev samples.
+      to_dev_path: path to the file that includes "to" dev samples.
+      from_vocabulary_size: size of the "from language" vocabulary to create and use.
+      to_vocabulary_size: size of the "to language" vocabulary to create and use.
+      tokenizer: a function to use to tokenize each data sentence;
+        if None, basic_tokenizer will be used.
+
+    Returns:
+      A tuple of 6 elements:
+        (1) path to the token-ids for "from language" training data-set,
+        (2) path to the token-ids for "to language" training data-set,
+        (3) path to the token-ids for "from language" development data-set,
+        (4) path to the token-ids for "to language" development data-set,
+        (5) path to the "from language" vocabulary file,
+        (6) path to the "to language" vocabulary file.
+    """
   # Create vocabularies of the appropriate sizes.
-  es_vocab_path = os.path.join(data_dir, "vocab%d.es" % es_vocabulary_size)
-  en_vocab_path = os.path.join(data_dir, "vocab%d.en" % en_vocabulary_size)
-  create_vocabulary(es_vocab_path, train_path + ".es", es_vocabulary_size, tokenizer)
-  create_vocabulary(en_vocab_path, train_path + ".en", en_vocabulary_size, tokenizer)
+  to_vocab_path = os.path.join(data_dir, "vocab%d.to" % to_vocabulary_size)
+  from_vocab_path = os.path.join(data_dir, "vocab%d.from" % from_vocabulary_size)
+  create_vocabulary(to_vocab_path, to_train_path , to_vocabulary_size, tokenizer)
+  create_vocabulary(from_vocab_path, from_train_path , from_vocabulary_size, tokenizer)
 
   # Create token ids for the training data.
-  es_train_ids_path = train_path + (".ids%d.es" % es_vocabulary_size)
-  en_train_ids_path = train_path + (".ids%d.en" % en_vocabulary_size)
-  data_to_token_ids(train_path + ".es", es_train_ids_path, es_vocab_path, tokenizer)
-  data_to_token_ids(train_path + ".en", en_train_ids_path, en_vocab_path, tokenizer)
+  to_train_ids_path = to_train_path + (".ids%d" % to_vocabulary_size)
+  from_train_ids_path = from_train_path + (".ids%d" % from_vocabulary_size)
+  data_to_token_ids(to_train_path, to_train_ids_path, to_vocab_path, tokenizer)
+  data_to_token_ids(from_train_path, from_train_ids_path, from_vocab_path, tokenizer)
 
   # Create token ids for the development data.
-  es_dev_ids_path = dev_path + (".ids%d.es" % es_vocabulary_size)
-  en_dev_ids_path = dev_path + (".ids%d.en" % en_vocabulary_size)
-  data_to_token_ids(dev_path + ".es", es_dev_ids_path, es_vocab_path, tokenizer)
-  data_to_token_ids(dev_path + ".en", en_dev_ids_path, en_vocab_path, tokenizer)
+  to_dev_ids_path = to_dev_path + (".ids%d" % to_vocabulary_size)
+  from_dev_ids_path = from_dev_path + (".ids%d" % from_vocabulary_size)
+  data_to_token_ids(to_dev_path, to_dev_ids_path, to_vocab_path, tokenizer)
+  data_to_token_ids(from_dev_path, from_dev_ids_path, from_vocab_path, tokenizer)
 
-  return (en_train_ids_path, es_train_ids_path,
-          en_dev_ids_path, es_dev_ids_path,
-          en_vocab_path, es_vocab_path)
+  return (from_train_ids_path, to_train_ids_path,
+          from_dev_ids_path, to_dev_ids_path,
+          from_vocab_path, to_vocab_path)

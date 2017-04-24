@@ -46,7 +46,6 @@ import data_utils
 import seq2seq_model
 
 
-tf.app.flags.DEFINE_string("output_file", 'answer.txt', "Output filename.")
 tf.app.flags.DEFINE_float("learning_rate", 0.5, "Learning rate.")
 tf.app.flags.DEFINE_float("learning_rate_decay_factor", 0.99,
                           "Learning rate decays by this much.")
@@ -56,10 +55,14 @@ tf.app.flags.DEFINE_integer("batch_size", 64,
                             "Batch size to use during training.")
 tf.app.flags.DEFINE_integer("size", 1024, "Size of each model layer.")
 tf.app.flags.DEFINE_integer("num_layers", 3, "Number of layers in the model.")
-tf.app.flags.DEFINE_integer("en_vocab_size", 40000, "English vocabulary size.")
-tf.app.flags.DEFINE_integer("es_vocab_size", 40000, "Spanish vocabulary size.")
+tf.app.flags.DEFINE_integer("from_vocab_size", 40000, "English vocabulary size.")
+tf.app.flags.DEFINE_integer("to_vocab_size", 40000, "French vocabulary size.")
 tf.app.flags.DEFINE_string("data_dir", "/tmp", "Data directory")
 tf.app.flags.DEFINE_string("train_dir", "/tmp", "Training directory.")
+tf.app.flags.DEFINE_string("from_train_data", None, "Training data.")
+tf.app.flags.DEFINE_string("to_train_data", None, "Training data.")
+tf.app.flags.DEFINE_string("from_dev_data", None, "Training data.")
+tf.app.flags.DEFINE_string("to_dev_data", None, "Training data.")
 tf.app.flags.DEFINE_integer("max_train_data_size", 0,
                             "Limit on the size of training data (0: no limit).")
 tf.app.flags.DEFINE_integer("steps_per_checkpoint", 200,
@@ -120,8 +123,8 @@ def create_model(session, forward_only):
   """Create translation model and initialize or load parameters in session."""
   dtype = tf.float16 if FLAGS.use_fp16 else tf.float32
   model = seq2seq_model.Seq2SeqModel(
-      FLAGS.en_vocab_size,
-      FLAGS.es_vocab_size,
+      FLAGS.from_vocab_size,
+      FLAGS.to_vocab_size,
       _buckets,
       FLAGS.size,
       FLAGS.num_layers,
@@ -132,27 +135,44 @@ def create_model(session, forward_only):
       forward_only=forward_only,
       dtype=dtype)
   ckpt = tf.train.get_checkpoint_state(FLAGS.train_dir)
-  if ckpt and tf.gfile.Exists(ckpt.model_checkpoint_path):
+  if ckpt and tf.train.checkpoint_exists(ckpt.model_checkpoint_path):
     print("Reading model parameters from %s" % ckpt.model_checkpoint_path)
     model.saver.restore(session, ckpt.model_checkpoint_path)
   else:
     print("Created model with fresh parameters.")
-    session.run(tf.initialize_all_variables())
+    session.run(tf.global_variables_initializer())
   return model
 
 
 def train():
-  """Train a en->es translation model using WMT data."""
-  # Prepare WMT data.
-  print("Preparing WMT data in %s" % FLAGS.data_dir)
-  en_train, es_train, en_dev, es_dev, _, _ = data_utils.prepare_wmt_data(
-      FLAGS.data_dir, FLAGS.en_vocab_size, FLAGS.es_vocab_size)
+  """Train a en->fr translation model using WMT data."""
+  from_train = None
+  to_train = None
+  from_dev = None
+  to_dev = None
+  if FLAGS.from_train_data and FLAGS.to_train_data:
+    from_train_data = FLAGS.from_train_data
+    to_train_data = FLAGS.to_train_data
+    from_dev_data = from_train_data
+    to_dev_data = to_train_data
+    if FLAGS.from_dev_data and FLAGS.to_dev_data:
+      from_dev_data = FLAGS.from_dev_data
+      to_dev_data = FLAGS.to_dev_data
+    from_train, to_train, from_dev, to_dev, _, _ = data_utils.prepare_data(
+        FLAGS.data_dir,
+        from_train_data,
+        to_train_data,
+        from_dev_data,
+        to_dev_data,
+        FLAGS.from_vocab_size,
+        FLAGS.to_vocab_size)
+  else:
+      # Prepare WMT data.
+      print("Preparing WMT data in %s" % FLAGS.data_dir)
+      from_train, to_train, from_dev, to_dev, _, _ = data_utils.prepare_wmt_data(
+          FLAGS.data_dir, FLAGS.from_vocab_size, FLAGS.to_vocab_size)
 
-  config = tf.ConfigProto()
-  # config.gpu_options.per_process_gpu_memory_fraction = 0.5
-  config.gpu_options.allow_growth = True
-
-  with tf.Session(config=config) as sess:
+  with tf.Session() as sess:
     # Create model.
     print("Creating %d layers of %d units." % (FLAGS.num_layers, FLAGS.size))
     model = create_model(sess, False)
@@ -160,11 +180,11 @@ def train():
     # Read data into buckets and compute their sizes.
     print ("Reading development and training data (limit: %d)."
            % FLAGS.max_train_data_size)
-    dev_set = read_data(en_dev, es_dev)
-    train_set = read_data(en_train, es_train, FLAGS.max_train_data_size)
+    dev_set = read_data(from_dev, to_dev)
+    train_set = read_data(from_train, to_train, FLAGS.max_train_data_size)
     train_bucket_sizes = [len(train_set[b]) for b in xrange(len(_buckets))]
     train_total_size = float(sum(train_bucket_sizes))
-
+# v.get_shape().as_list()
     # A bucket scale is a list of increasing numbers from 0 to 1 that we'll use
     # to select a bucket. Length of [scale[i], scale[i+1]] is proportional to
     # the size if i-th training bucket, as used later.
@@ -175,7 +195,7 @@ def train():
     step_time, loss = 0.0, 0.0
     current_step = 0
     previous_losses = []
-    while current_step < 60000:
+    while True:
       # Choose a bucket according to data distribution. We pick a random number
       # in [0, 1] and use the corresponding interval in train_buckets_scale.
       random_number_01 = np.random.random_sample()
@@ -188,6 +208,7 @@ def train():
           train_set, bucket_id)
       _, step_loss, _ = model.step(sess, encoder_inputs, decoder_inputs,
                                    target_weights, bucket_id, False)
+      # print(sess.run(model.decoder_inputs))
       step_time += (time.time() - start_time) / FLAGS.steps_per_checkpoint
       loss += step_loss / FLAGS.steps_per_checkpoint
       current_step += 1
@@ -223,22 +244,18 @@ def train():
 
 
 def decode():
-  config = tf.ConfigProto()
-  # config.gpu_options.per_process_gpu_memory_fraction = 0.5
-  config.gpu_options.allow_growth = True
-
-  with tf.Session(config=config) as sess:
+  with tf.Session() as sess:
     # Create model and load parameters.
     model = create_model(sess, True)
     model.batch_size = 1  # We decode one sentence at a time.
 
     # Load vocabularies.
     en_vocab_path = os.path.join(FLAGS.data_dir,
-                                 "vocab%d.en" % FLAGS.en_vocab_size)
-    es_vocab_path = os.path.join(FLAGS.data_dir,
-                                 "vocab%d.es" % FLAGS.es_vocab_size)
+                                 "vocab%d.from" % FLAGS.from_vocab_size)
+    fr_vocab_path = os.path.join(FLAGS.data_dir,
+                                 "vocab%d.to" % FLAGS.to_vocab_size)
     en_vocab, _ = data_utils.initialize_vocabulary(en_vocab_path)
-    _, rev_es_vocab = data_utils.initialize_vocabulary(es_vocab_path)
+    _, rev_fr_vocab = data_utils.initialize_vocabulary(fr_vocab_path)
 
     # Decode from standard input.
     sys.stdout.write("> ")
@@ -268,61 +285,15 @@ def decode():
       if data_utils.EOS_ID in outputs:
         outputs = outputs[:outputs.index(data_utils.EOS_ID)]
       # Print out French sentence corresponding to outputs.
-      print(" ".join([tf.compat.as_str(rev_es_vocab[output]) for output in outputs]))
+      print(" ".join([tf.compat.as_str(rev_fr_vocab[output]) for output in outputs]))
       print("> ", end="")
       sys.stdout.flush()
       sentence = sys.stdin.readline()
 
-    '''
-    sentences = [line.rstrip('\n') for line in open(os.path.join(FLAGS.data_dir, 'test.en'))]
-    answers = []
-    count = 0
-    for sentence in sentences:
-      if not count % 10:
-        print(count)
-      # Get token-ids for the input sentence.
-      token_ids = data_utils.sentence_to_token_ids(tf.compat.as_bytes(sentence), en_vocab)
-      # Which bucket does it belong to?
-      bucket_id = len(_buckets) - 1
-      for i, bucket in enumerate(_buckets):
-        if bucket[0] >= len(token_ids):
-          bucket_id = i
-          break
-      else:
-        logging.warning("Sentence truncated: %s", sentence) 
-
-      # Get a 1-element batch to feed the sentence to the model.
-      encoder_inputs, decoder_inputs, target_weights = model.get_batch(
-          {bucket_id: [(token_ids, [])]}, bucket_id)
-      # Get output logits for the sentence.
-      _, _, output_logits = model.step(sess, encoder_inputs, decoder_inputs,
-                                       target_weights, bucket_id, True)
-      # This is a greedy decoder - outputs are just argmaxes of output_logits.
-      outputs = [int(np.argmax(logit, axis=1)) for logit in output_logits]
-      # If there is an EOS symbol in outputs, cut them at that point.
-      if data_utils.EOS_ID in outputs:
-        outputs = outputs[:outputs.index(data_utils.EOS_ID)]
-      # Print out Spanish sentence corresponding to outputs.
-      # print(" ".join([tf.compat.as_str(rev_es_vocab[output]) for output in outputs]))
-      # print("> ", end="")
-      # sys.stdout.flush()
-      # sentence = sys.stdin.readline()
-      answers.append(" ".join([tf.compat.as_str(rev_es_vocab[output]) for output in outputs]))
-      count += 1
-    
-    with open(FLAGS.output_file, 'w') as f:
-      for ans in answers:
-        f.write(ans + '\n')
-    '''
-
 
 def self_test():
   """Test the translation model."""
-  config = tf.ConfigProto()
-  # config.gpu_options.per_process_gpu_memory_fraction = 0.5
-  config.gpu_options.allow_growth = True
-
-  with tf.Session(config=config) as sess:
+  with tf.Session() as sess:
     print("Self-test for neural translation model.")
     # Create model with vocabularies of 10, 2 small buckets, 2 layers of 32.
     model = seq2seq_model.Seq2SeqModel(10, 10, [(3, 3), (6, 6)], 32, 2,
