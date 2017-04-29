@@ -172,7 +172,7 @@ class Seq2SeqModel(object):
       self.outputs, self.losses = tf.contrib.legacy_seq2seq.model_with_buckets(
           self.encoder_inputs, self.word_inputs, self.person_inputs, targets,
           self.target_weights, buckets, lambda x1, x2, y: seq2seq_f(x1, x2, y, True),
-          softmax_loss_function=softmax_loss_function)
+          softmax_loss_function=softmax_loss_functioncd)
       # If we use output projection, we need to project outputs for decoding.
       if output_projection is not None:
         for b in xrange(len(buckets)):
@@ -184,7 +184,7 @@ class Seq2SeqModel(object):
       self.outputs, self.losses = tf.contrib.legacy_seq2seq.model_with_buckets(
           self.encoder_inputs, self.word_inputs, self.person_inputs, targets,
           self.target_weights, buckets,
-          lambda x, y: seq2seq_f(x, y, False),
+          lambda x1, x2, y: seq2seq_f(x1, x2, y, False),
           softmax_loss_function=softmax_loss_function)
 
     # Gradients and SGD update operation for training the model.

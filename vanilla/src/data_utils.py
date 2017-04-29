@@ -244,7 +244,7 @@ def data_to_token_ids(data_path, target_path, vocabulary_path,
           tokens_file.write(" ".join([str(tok) for tok in token_ids]) + "\n")
 
 
-def prepare_wmt_data(data_dir, en_vocabulary_size, fr_vocabulary_size, tokenizer=None):
+def prepare_wmt_data(data_dir, en_vocabulary_size, fr_vocabulary_size, en_speaker_size, fr_speaker_size, tokenizer=None):
   """Get WMT data into data_dir, create vocabularies and tokenize data.
 
   Args:
@@ -273,12 +273,19 @@ def prepare_wmt_data(data_dir, en_vocabulary_size, fr_vocabulary_size, tokenizer
   to_train_path = train_path + ".es"
   from_dev_path = dev_path + ".en"
   to_dev_path = dev_path + ".es"
-  return prepare_data(data_dir, from_train_path, to_train_path, from_dev_path, to_dev_path, en_vocabulary_size,
-                      fr_vocabulary_size, tokenizer)
+  """#################################################"""
+  from_train_path_speaker = train_path + ".speaker"
+  to_train_path_speaker = train_path + ".addressee"
+  from_dev_path_speaker = dev_path + ".speaker"
+  to_dev_path_speaker = dev_path + ".addressee"
+  """#################################################"""
+
+  return prepare_data(data_dir, from_train_path, to_train_path, from_dev_path, to_dev_path , from_train_path_speaker, to_train_path_speaker, from_dev_path_speaker, to_dev_path_speaker, en_vocabulary_size,
+                      fr_vocabulary_size, en_speaker_size, fr_speaker_size, tokenizer)
 
 
-def prepare_data(data_dir, from_train_path, to_train_path, from_dev_path, to_dev_path, from_vocabulary_size,
-                 to_vocabulary_size, tokenizer=None):
+def prepare_data(data_dir, from_train_path, to_train_path, from_dev_path, to_dev_path , from_train_path_speaker, to_train_path_speaker, from_dev_path_speaker, to_dev_path_speaker, from_vocabulary_size,
+                 to_vocabulary_size, from_speaker_size, to_speaker_size, tokenizer=None):
   """Preapre all necessary files that are required for the training.
 
     Args:
@@ -301,6 +308,25 @@ def prepare_data(data_dir, from_train_path, to_train_path, from_dev_path, to_dev
         (5) path to the "from language" vocabulary file,
         (6) path to the "to language" vocabulary file.
     """
+
+  # Frank : create speaker
+  to_speaker_path = os.path.join(data_dir, "speaker%d.to" % to_speaker_size)
+  from_speaker_path = os.path.join(data_dir, "speaker%d.to" % from_speaker_size)
+  create_vocabulary(to_speaker_path, to_train_path_speaker, to_speaker_size, tokenizer)
+  create_vocabulary(from_speaker_path, from_train_path_speaker, from_speaker_size, tokenizer)
+
+  # Frank : create token ids for train
+  to_train_speaker_ids_path = to_train_path_speaker + (".ids%d" % to_vocabulary_size)
+  from_train_speaker_ids_path = from_train_path_speaker + (".ids%d" % from_vocabulary_size)
+  data_to_token_ids(to_train_path_speaker, to_train_speaker_ids_path, to_speaker_path, tokenizer)
+  data_to_token_ids(from_train_path_speaker, from_train_speaker_ids_path, from_speaker_path, tokenizer)
+
+  # Frank : create tokens ids for dev
+  to_dev_speaker_ids_path = to_dev_path_speaker + (".ids%d" % to_vocabulary_size)
+  from_dev_speaker_ids_path = from_dev_path_speaker + (".ids%d" % from_vocabulary_size)
+  data_to_token_ids(to_dev_path_speaker, to_dev_speaker_ids_path, to_speaker_path, tokenizer)
+  data_to_token_ids(from_dev_path_speaker, from_dev_speaker_ids_path, from_speaker_path, tokenizer)
+
   # Create vocabularies of the appropriate sizes.
   to_vocab_path = os.path.join(data_dir, "vocab%d.to" % to_vocabulary_size)
   from_vocab_path = os.path.join(data_dir, "vocab%d.from" % from_vocabulary_size)
@@ -321,4 +347,7 @@ def prepare_data(data_dir, from_train_path, to_train_path, from_dev_path, to_dev
 
   return (from_train_ids_path, to_train_ids_path,
           from_dev_ids_path, to_dev_ids_path,
-          from_vocab_path, to_vocab_path)
+          from_vocab_path, to_vocab_path,
+          from_train_speaker_ids_path, to_train_speaker_ids_path,
+          from_dev_speaker_ids_path, to_dev_speaker_ids_path,
+          from_speaker_path, to_speaker_path)

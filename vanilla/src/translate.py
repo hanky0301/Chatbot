@@ -57,6 +57,10 @@ tf.app.flags.DEFINE_integer("size", 1024, "Size of each model layer.")
 tf.app.flags.DEFINE_integer("num_layers", 3, "Number of layers in the model.")
 tf.app.flags.DEFINE_integer("from_vocab_size", 40000, "English vocabulary size.")
 tf.app.flags.DEFINE_integer("to_vocab_size", 40000, "French vocabulary size.")
+#################
+tf.app.flags.DEFINE_integer("from_speaker_size", 40000, "from speaker size")
+tf.app.flags.DEFINE_integer("to_speaker_size", 40000, "to speaker size")
+#################
 tf.app.flags.DEFINE_string("data_dir", "/tmp", "Data directory")
 tf.app.flags.DEFINE_string("train_dir", "/tmp", "Training directory.")
 tf.app.flags.DEFINE_string("from_train_data", None, "Training data.")
@@ -125,6 +129,7 @@ def create_model(session, forward_only):
   model = seq2seq_model.Seq2SeqModel(
       FLAGS.from_vocab_size,
       FLAGS.to_vocab_size,
+      FLAGS.to_speaker_size,
       _buckets,
       FLAGS.size,
       FLAGS.num_layers,
@@ -158,19 +163,23 @@ def train():
     if FLAGS.from_dev_data and FLAGS.to_dev_data:
       from_dev_data = FLAGS.from_dev_data
       to_dev_data = FLAGS.to_dev_data
-    from_train, to_train, from_dev, to_dev, _, _ = data_utils.prepare_data(
+    from_train, to_train, from_dev, to_dev, _, _, from_train_speaker, to_train_speaker, from_dev_speaker, to_dev_speaker, _, _ = data_utils.prepare_data(
         FLAGS.data_dir,
         from_train_data,
         to_train_data,
         from_dev_data,
         to_dev_data,
         FLAGS.from_vocab_size,
-        FLAGS.to_vocab_size)
+        FLAGS.to_vocab_size,
+        FLAGS.from_speaker_size,
+        FLAGS.to_speaker_size)
+    print ("OK!!!")
   else:
-      # Prepare WMT data.
-      print("Preparing WMT data in %s" % FLAGS.data_dir)
-      from_train, to_train, from_dev, to_dev, _, _ = data_utils.prepare_wmt_data(
-          FLAGS.data_dir, FLAGS.from_vocab_size, FLAGS.to_vocab_size)
+    # Prepare WMT data.
+    print("Preparing WMT data in %s" % FLAGS.data_dir)
+    from_train, to_train, from_dev, to_dev, _, _, from_train_speaker, to_train_speaker, from_dev_speaker, to_dev_speaker, _, _ = data_utils.prepare_wmt_data(
+        FLAGS.data_dir, FLAGS.from_vocab_size, FLAGS.to_vocab_size, FLAGS.from_speaker_size, FLAGS.to_speaker_size)
+    print ("OK!!!")
 
   with tf.Session() as sess:
     # Create model.
