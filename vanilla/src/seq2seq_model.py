@@ -25,7 +25,7 @@ import random
 import numpy as np
 from six.moves import xrange  # pylint: disable=redefined-builtin
 import tensorflow as tf
-from seq2seq import embedding_attention_seq2seq
+import seq2seq
 
 import data_utils
 
@@ -134,7 +134,7 @@ class Seq2SeqModel(object):
 
     # The seq2seq function: we use embedding for the input and attention.
     def seq2seq_f(encoder_inputs, word_inputs, person_inputs, do_decode):
-      return embedding_attention_seq2seq(
+      return seq2seq.embedding_attention_seq2seq(
           encoder_inputs,
           word_inputs,
           person_inputs,
@@ -169,7 +169,7 @@ class Seq2SeqModel(object):
 
     # Training outputs and losses.
     if forward_only:
-      self.outputs, self.losses = tf.contrib.legacy_seq2seq.model_with_buckets(
+      self.outputs, self.losses = seq2seq.model_with_buckets(
           self.encoder_inputs, self.word_inputs, self.person_inputs, targets,
           self.target_weights, buckets, lambda x1, x2, y: seq2seq_f(x1, x2, y, True),
           softmax_loss_function=softmax_loss_functioncd)
@@ -181,7 +181,7 @@ class Seq2SeqModel(object):
               for output in self.outputs[b]
           ]
     else:
-      self.outputs, self.losses = tf.contrib.legacy_seq2seq.model_with_buckets(
+      self.outputs, self.losses = seq2seq.model_with_buckets(
           self.encoder_inputs, self.word_inputs, self.person_inputs, targets,
           self.target_weights, buckets,
           lambda x1, x2, y: seq2seq_f(x1, x2, y, False),
@@ -291,7 +291,7 @@ class Seq2SeqModel(object):
     # Get a random batch of encoder and decoder inputs from data,
     # pad them if needed, reverse encoder inputs and add GO to decoder.
     for _ in xrange(self.batch_size):
-      encoder_input, word_input, person_input  = random.choice(data[bucket_id])
+      encoder_input, word_input, person_input = random.choice(data[bucket_id])
 
       # Encoder inputs are padded and then reversed.
       encoder_pad = [data_utils.PAD_ID] * (encoder_size - len(encoder_input))

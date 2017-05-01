@@ -85,7 +85,7 @@ FLAGS = tf.app.flags.FLAGS
 _buckets = [(5, 10), (10, 15), (20, 25), (40, 50)]
 
 
-def read_data(source_path, target_path, max_size=None):
+def read_data(source_path, target_path, to_train_speaker, max_size=None):
   """Read data from source and target files and put into buckets.
 
   Args:
@@ -105,21 +105,24 @@ def read_data(source_path, target_path, max_size=None):
   data_set = [[] for _ in _buckets]
   with tf.gfile.GFile(source_path, mode="r") as source_file:
     with tf.gfile.GFile(target_path, mode="r") as target_file:
-      source, target = source_file.readline(), target_file.readline()
-      counter = 0
-      while source and target and (not max_size or counter < max_size):
-        counter += 1
-        if counter % 100000 == 0:
-          print("  reading data line %d" % counter)
-          sys.stdout.flush()
-        source_ids = [int(x) for x in source.split()]
-        target_ids = [int(x) for x in target.split()]
-        target_ids.append(data_utils.EOS_ID)
-        for bucket_id, (source_size, target_size) in enumerate(_buckets):
-          if len(source_ids) < source_size and len(target_ids) < target_size:
-            data_set[bucket_id].append([source_ids, target_ids])
-            break
-        source, target = source_file.readline(), target_file.readline()
+      with tf.gfile.GFile(to_train_speaker, mode="r") as person_file:
+          source, target, person = source_file.readline(), target_file.readline(), person_file.readline()
+          counter = 0
+          while source and target and (not max_size or counter < max_size):
+            counter += 1
+            if counter % 100000 == 0:
+              print("  reading data line %d" % counter)
+              sys.stdout.flush()
+            source_ids = [int(x) for x in source.split()]
+            target_ids = [int(x) for x in target.split()]
+            person_ids = [int(person.split()[0]) for _ in target.split()]
+            target_ids.append(data_utils.EOS_ID)
+            person_ids.append(data_utils.EOS_ID)
+            for bucket_id, (source_size, target_size) in enumerate(_buckets):
+              if len(source_ids) < source_size and len(target_ids) < target_size:
+                data_set[bucket_id].append([source_ids, target_ids, person_ids])
+                break
+            source, target, person = source_file.readline(), target_file.readline(), person_file.readline()
   return data_set
 
 
@@ -184,16 +187,19 @@ def train():
   with tf.Session() as sess:
     # Create model.
     print("Creating %d layers of %d units." % (FLAGS.num_layers, FLAGS.size))
-    model = create_model(sess, False)
+    # model = create_model(sess, False)
 
     # Read data into buckets and compute their sizes.
     print ("Reading development and training data (limit: %d)."
            % FLAGS.max_train_data_size)
-    dev_set = read_data(from_dev, to_dev)
-    train_set = read_data(from_train, to_train, FLAGS.max_train_data_size)
+    
+    dev_set = read_data(from_dev, to_dev, to_dev_speaker)
+    print(dev_set[0])
+    train_set = read_data(from_train, to_train, to_train_speaker, 
+                            max_size=FLAGS.max_train_data_size)
+    sys.exit()
     train_bucket_sizes = [len(train_set[b]) for b in xrange(len(_buckets))]
     train_total_size = float(sum(train_bucket_sizes))
-# v.get_shape().as_list()
     # A bucket scale is a list of increasing numbers from 0 to 1 that we'll use
     # to select a bucket. Length of [scale[i], scale[i+1]] is proportional to
     # the size if i-th training bucket, as used later.
@@ -213,6 +219,7 @@ def train():
 
       # Get a batch and make a step.
       start_time = time.time()
+      print(train_set)
       encoder_inputs, decoder_inputs, target_weights = model.get_batch(
           train_set, bucket_id)
       _, step_loss, _ = model.step(sess, encoder_inputs, decoder_inputs,
