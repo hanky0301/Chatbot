@@ -74,6 +74,7 @@ from tensorflow.python.ops import nn_ops
 from tensorflow.python.ops import variable_scope
 from tensorflow.python.util import nest
 import tensorflow as tf
+import sys
 
 # TODO(ebrevdo): Remove once _linear is fully deprecated.
 linear = core_rnn_cell_impl._linear  # pylint: disable=protected-access
@@ -343,7 +344,7 @@ def embedding_attention_decoder(word_inputs,
 
   with variable_scope.variable_scope(
       scope or "embedding_attention_decoder", dtype=dtype) as scope:
-
+    
     word_embedding = variable_scope.get_variable("embedding",
                                             [num_word_symbols, embedding_size])
     person_embedding = variable_scope.get_variable("embedding_p",
@@ -351,14 +352,9 @@ def embedding_attention_decoder(word_inputs,
     loop_function = _extract_argmax_and_embed(
         embedding, output_projection,
         update_embedding_for_previous) if feed_previous else None
-    # print(tf.shape(embedding_ops.embedding_lookup(embedding, decoder_inputs[0])))
-    # print(tf.shape(embedding_ops.embedding_lookup(embedding, tf.mod(decoder_inputs[0], tf.constant(100000)))))
-    # print(tf.shape(embedding_ops.embedding_lookup(embedding, tf.floordiv(decoder_inputs[0], tf.constant(100000)))))
-    # emb_inp = [
-        # tf.concat(embedding_ops.embedding_lookup(embedding, tf.mod(i, tf.constant(100000))), embedding_ops.embedding_lookup(embedding, tf.floordiv(i, tf.constant(100000)))) for i in decoder_inputs
-    # ]
+    
     emb_inp = [
-        embedding_ops.embedding_lookup(word_embedding, i) for i in word_inputs
+        tf.concat([embedding_ops.embedding_lookup(word_embedding, i), embedding_ops.embedding_lookup(person_embedding, i)], 1) for i in word_inputs
     ]
     emb_inp_person = [
         embedding_ops.embedding_lookup(person_embedding, i) for i in person_inputs

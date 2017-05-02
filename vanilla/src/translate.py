@@ -115,7 +115,8 @@ def read_data(source_path, target_path, to_train_speaker, max_size=None):
               sys.stdout.flush()
             source_ids = [int(x) for x in source.split()]
             target_ids = [int(x) for x in target.split()]
-            person_ids = [int(person.split()[0]) for _ in target.split()]
+            pid = int(person.split()[0]) if len(person.split()) > 0 else 2
+            person_ids = [pid for _ in target.split()]
             target_ids.append(data_utils.EOS_ID)
             person_ids.append(data_utils.EOS_ID)
             for bucket_id, (source_size, target_size) in enumerate(_buckets):
@@ -187,17 +188,15 @@ def train():
   with tf.Session() as sess:
     # Create model.
     print("Creating %d layers of %d units." % (FLAGS.num_layers, FLAGS.size))
-    # model = create_model(sess, False)
+    model = create_model(sess, False)
 
     # Read data into buckets and compute their sizes.
     print ("Reading development and training data (limit: %d)."
            % FLAGS.max_train_data_size)
     
     dev_set = read_data(from_dev, to_dev, to_dev_speaker)
-    print(dev_set[0])
     train_set = read_data(from_train, to_train, to_train_speaker, 
                             max_size=FLAGS.max_train_data_size)
-    sys.exit()
     train_bucket_sizes = [len(train_set[b]) for b in xrange(len(_buckets))]
     train_total_size = float(sum(train_bucket_sizes))
     # A bucket scale is a list of increasing numbers from 0 to 1 that we'll use
@@ -219,10 +218,9 @@ def train():
 
       # Get a batch and make a step.
       start_time = time.time()
-      print(train_set)
-      encoder_inputs, decoder_inputs, target_weights = model.get_batch(
-          train_set, bucket_id)
-      _, step_loss, _ = model.step(sess, encoder_inputs, decoder_inputs,
+      encoder_inputs, word_inputs, person_inputs, target_weights = model.get_batch(train_set, 
+                                                                                    bucket_id)
+      _, step_loss, _ = model.step(sess, encoder_inputs, word_inputs, person_inputs,
                                    target_weights, bucket_id, False)
       # print(sess.run(model.decoder_inputs))
       step_time += (time.time() - start_time) / FLAGS.steps_per_checkpoint
@@ -249,9 +247,9 @@ def train():
           if len(dev_set[bucket_id]) == 0:
             print("  eval: empty bucket %d" % (bucket_id))
             continue
-          encoder_inputs, decoder_inputs, target_weights = model.get_batch(
-              dev_set, bucket_id)
-          _, eval_loss, _ = model.step(sess, encoder_inputs, decoder_inputs,
+          encoder_inputs, word_inputs, person_inputs, target_weights = model.get_batch(dev_set, 
+                                                                                    bucket_id)
+          _, eval_loss, _ = model.step(sess, encoder_inputs, word_inputs, person_inputs,
                                        target_weights, bucket_id, True)
           eval_ppx = math.exp(float(eval_loss)) if eval_loss < 300 else float(
               "inf")

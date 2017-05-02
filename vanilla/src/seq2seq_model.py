@@ -26,6 +26,7 @@ import numpy as np
 from six.moves import xrange  # pylint: disable=redefined-builtin
 import tensorflow as tf
 import seq2seq
+import sys
 
 import data_utils
 
@@ -332,4 +333,5 @@ class Seq2SeqModel(object):
         if length_idx == decoder_size - 1 or target == data_utils.PAD_ID:
           batch_weight[batch_idx] = 0.0
       batch_weights.append(batch_weight)
+
     return batch_encoder_inputs, batch_word_inputs, batch_person_inputs, batch_weights
