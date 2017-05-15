@@ -80,7 +80,7 @@ import sys
 linear = core_rnn_cell_impl._linear  # pylint: disable=protected-access
 
 
-def _extract_argmax_and_embed(embedding,
+def _extract_argmax_and_embed(word_embedding, person_embedding, person_input,
                               output_projection=None,
                               update_embedding=True):
   """Get a loop_function that extracts the previous symbol and embeds it.
@@ -102,7 +102,8 @@ def _extract_argmax_and_embed(embedding,
     prev_symbol = math_ops.argmax(prev, 1)
     # Note that gradients will not propagate through the second parameter of
     # embedding_lookup.
-    emb_prev = embedding_ops.embedding_lookup(embedding, prev_symbol)
+    emb_prev = tf.concat([embedding_ops.embedding_lookup(word_embedding, prev_symbol), 
+                            embedding_ops.embedding_lookup(person_embedding, person_input)], 1)
     if not update_embedding:
       emb_prev = array_ops.stop_gradient(emb_prev)
     return emb_prev
@@ -350,14 +351,13 @@ def embedding_attention_decoder(word_inputs,
     person_embedding = variable_scope.get_variable("embedding_p",
                                             [num_person_symbols, embedding_size])
     loop_function = _extract_argmax_and_embed(
-        embedding, output_projection,
+        word_embedding, person_embedding, person_inputs[0], output_projection,
         update_embedding_for_previous) if feed_previous else None
     
     emb_inp = [
-        tf.concat([embedding_ops.embedding_lookup(word_embedding, i), embedding_ops.embedding_lookup(person_embedding, i)], 1) for i in word_inputs
-    ]
-    emb_inp_person = [
-        embedding_ops.embedding_lookup(person_embedding, i) for i in person_inputs
+        tf.concat([embedding_ops.embedding_lookup(word_embedding, i), 
+                   embedding_ops.embedding_lookup(person_embedding, j)], 1 
+        ) for i, j in zip(word_inputs, person_inputs)
     ]
 
     return attention_decoder(

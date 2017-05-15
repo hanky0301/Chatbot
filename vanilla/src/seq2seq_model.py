@@ -158,9 +158,9 @@ class Seq2SeqModel(object):
                                                 name="encoder{0}".format(i)))
     for i in xrange(buckets[-1][1] + 1):
       self.word_inputs.append(tf.placeholder(tf.int32, shape=[None],
-                                                name="decoder{0}".format(i)))
+                                                name="word{0}".format(i)))
       self.person_inputs.append(tf.placeholder(tf.int32, shape=[None],
-                                                name="decoder{0}".format(i)))
+                                                name="person{0}".format(i)))
       self.target_weights.append(tf.placeholder(dtype, shape=[None],
                                                 name="weight{0}".format(i)))
 
@@ -171,9 +171,10 @@ class Seq2SeqModel(object):
     # Training outputs and losses.
     if forward_only:
       self.outputs, self.losses = seq2seq.model_with_buckets(
-          self.encoder_inputs, self.word_inputs, self.person_inputs, targets,
-          self.target_weights, buckets, lambda x1, x2, y: seq2seq_f(x1, x2, y, True),
-          softmax_loss_function=softmax_loss_functioncd)
+          self.encoder_inputs, self.word_inputs, self.person_inputs, 
+          targets, self.target_weights, buckets, 
+          lambda x1, x2, y: seq2seq_f(x1, x2, y, True),
+          softmax_loss_function=softmax_loss_function)
       # If we use output projection, we need to project outputs for decoding.
       if output_projection is not None:
         for b in xrange(len(buckets)):
@@ -183,8 +184,8 @@ class Seq2SeqModel(object):
           ]
     else:
       self.outputs, self.losses = seq2seq.model_with_buckets(
-          self.encoder_inputs, self.word_inputs, self.person_inputs, targets,
-          self.target_weights, buckets,
+          self.encoder_inputs, self.word_inputs, self.person_inputs, 
+          targets, self.target_weights, buckets,
           lambda x1, x2, y: seq2seq_f(x1, x2, y, False),
           softmax_loss_function=softmax_loss_function)
 
