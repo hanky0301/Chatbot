@@ -80,7 +80,7 @@ import sys
 linear = core_rnn_cell_impl._linear  # pylint: disable=protected-access
 
 
-def _extract_argmax_and_embed(word_embedding,
+def _extract_argmax_and_embed(word_embedding, person_embedding, person_input,
                               output_projection=None,
                               update_embedding=True):
   """Get a loop_function that extracts the previous symbol and embeds it.
@@ -102,7 +102,8 @@ def _extract_argmax_and_embed(word_embedding,
     prev_symbol = math_ops.argmax(prev, 1)
     # Note that gradients will not propagate through the second parameter of
     # embedding_lookup.
-    emb_prev = embedding_ops.embedding_lookup(word_embedding, prev_symbol)
+    emb_prev = tf.concat([embedding_ops.embedding_lookup(word_embedding, prev_symbol), 
+                            embedding_ops.embedding_lookup(person_embedding, person_input)], 1)
     if not update_embedding:
       emb_prev = array_ops.stop_gradient(emb_prev)
     return emb_prev
@@ -277,10 +278,12 @@ def attention_decoder(decoder_inputs,
 ################################################################################################
 
 def embedding_attention_decoder(word_inputs,
+                                person_inputs,
                                 initial_state,
                                 attention_states,
                                 cell,
                                 num_word_symbols,
+                                num_person_symbols,
                                 embedding_size,
                                 num_heads=1,
                                 output_size=None,
@@ -345,12 +348,16 @@ def embedding_attention_decoder(word_inputs,
     
     word_embedding = variable_scope.get_variable("embedding",
                                             [num_word_symbols, embedding_size])
+    person_embedding = variable_scope.get_variable("embedding_p",
+                                            [num_person_symbols, embedding_size])
     loop_function = _extract_argmax_and_embed(
-        word_embedding, output_projection,
+        word_embedding, person_embedding, person_inputs[0], output_projection,
         update_embedding_for_previous) if feed_previous else None
     
     emb_inp = [
-        embedding_ops.embedding_lookup(word_embedding, i) for i in word_inputs
+        tf.concat([embedding_ops.embedding_lookup(word_embedding, i), 
+                   embedding_ops.embedding_lookup(person_embedding, j)], 1 
+        ) for i, j in zip(word_inputs, person_inputs)
     ]
 
     return attention_decoder(
@@ -366,9 +373,11 @@ def embedding_attention_decoder(word_inputs,
 
 def embedding_attention_seq2seq(encoder_inputs,
                                 word_inputs,
+                                person_inputs,
                                 cell,
                                 num_encoder_symbols,
                                 num_word_symbols,
+                                num_person_symbols,
                                 embedding_size,
                                 num_heads=1,
                                 output_projection=None,
@@ -446,10 +455,12 @@ def embedding_attention_seq2seq(encoder_inputs,
     if isinstance(feed_previous, bool):
       return embedding_attention_decoder(
           word_inputs,
+          person_inputs,
           encoder_state,
           attention_states,
           cell,
           num_word_symbols,
+          num_person_symbols,
           embedding_size,
           num_heads=num_heads,
           output_size=output_size,
@@ -587,6 +598,7 @@ def sequence_loss(logits,
 
 def model_with_buckets(encoder_inputs,
                        word_inputs,
+                       person_inputs,
                        targets,
                        weights,
                        buckets,
@@ -639,7 +651,7 @@ def model_with_buckets(encoder_inputs,
     raise ValueError("Length of weights (%d) must be at least that of last"
                      "bucket (%d)." % (len(weights), buckets[-1][1]))
 
-  all_inputs = encoder_inputs + word_inputs + targets + weights
+  all_inputs = encoder_inputs + word_inputs + person_inputs  + targets + weights
   losses = []
   outputs = []
   with ops.name_scope(name, "model_with_buckets", all_inputs):
@@ -647,7 +659,8 @@ def model_with_buckets(encoder_inputs,
       with variable_scope.variable_scope(
           variable_scope.get_variable_scope(), reuse=True if j > 0 else None):
         bucket_outputs, _ = seq2seq(encoder_inputs[:bucket[0]],
-                                    word_inputs[:bucket[1]])
+                                    word_inputs[:bucket[1]],
+                                    person_inputs[:bucket[1]])
         outputs.append(bucket_outputs)
         if per_example_loss:
           losses.append(

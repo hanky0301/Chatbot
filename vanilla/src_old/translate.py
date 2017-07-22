@@ -55,9 +55,11 @@ tf.app.flags.DEFINE_integer("batch_size", 64,
                             "Batch size to use during training.")
 tf.app.flags.DEFINE_integer("size", 1024, "Size of each model layer.")
 tf.app.flags.DEFINE_integer("num_layers", 3, "Number of layers in the model.")
-tf.app.flags.DEFINE_integer("from_vocab_size", 25001, "English vocabulary size.")
-tf.app.flags.DEFINE_integer("to_vocab_size", 25001, "French vocabulary size.")
+tf.app.flags.DEFINE_integer("from_vocab_size", 40000, "English vocabulary size.")
+tf.app.flags.DEFINE_integer("to_vocab_size", 40000, "French vocabulary size.")
 #################
+tf.app.flags.DEFINE_integer("from_speaker_size", 40000, "from speaker size")
+tf.app.flags.DEFINE_integer("to_speaker_size", 40000, "to speaker size")
 #################
 tf.app.flags.DEFINE_string("data_dir", "/tmp", "Data directory")
 tf.app.flags.DEFINE_string("train_dir", "/tmp", "Training directory.")
@@ -83,7 +85,7 @@ FLAGS = tf.app.flags.FLAGS
 _buckets = [(5, 10), (10, 15), (20, 25), (40, 50)]
 
 
-def read_data(source_path, target_path, max_size=None):
+def read_data(source_path, target_path, to_train_speaker, max_size=None):
   """Read data from source and target files and put into buckets.
 
   Args:
@@ -103,7 +105,8 @@ def read_data(source_path, target_path, max_size=None):
   data_set = [[] for _ in _buckets]
   with tf.gfile.GFile(source_path, mode="r") as source_file:
     with tf.gfile.GFile(target_path, mode="r") as target_file:
-          source, target = source_file.readline(), target_file.readline()
+      with tf.gfile.GFile(to_train_speaker, mode="r") as person_file:
+          source, target, person = source_file.readline(), target_file.readline(), person_file.readline()
           counter = 0
           while source and target and (not max_size or counter < max_size):
             counter += 1
@@ -112,14 +115,17 @@ def read_data(source_path, target_path, max_size=None):
               sys.stdout.flush()
             source_ids = [int(x) for x in source.split()]
             target_ids = [int(x) for x in target.split()]
+            pid = int(person.split()[0]) if len(person.split()) > 0 else 2
+            person_ids = [pid for _ in target.split()]
             target_ids.append(data_utils.EOS_ID)
+            person_ids.append(data_utils.EOS_ID)
             # print(person_ids, target_ids, source_ids)
             # sys.exit()
             for bucket_id, (source_size, target_size) in enumerate(_buckets):
               if len(source_ids) < source_size and len(target_ids) < target_size:
-                data_set[bucket_id].append([source_ids, target_ids])
+                data_set[bucket_id].append([source_ids, target_ids, person_ids])
                 break
-            source, target = source_file.readline(), target_file.readline()
+            source, target, person = source_file.readline(), target_file.readline(), person_file.readline()
   return data_set
 
 
@@ -129,6 +135,7 @@ def create_model(session, forward_only):
   model = seq2seq_model.Seq2SeqModel(
       FLAGS.from_vocab_size,
       FLAGS.to_vocab_size,
+      FLAGS.to_speaker_size,
       _buckets,
       FLAGS.size,
       FLAGS.num_layers,
@@ -162,20 +169,22 @@ def train():
     if FLAGS.from_dev_data and FLAGS.to_dev_data:
       from_dev_data = FLAGS.from_dev_data
       to_dev_data = FLAGS.to_dev_data
-    from_train, to_train, from_dev, to_dev, _, _, _, _ = data_utils.prepare_data(
+    from_train, to_train, from_dev, to_dev, _, _, from_train_speaker, to_train_speaker, from_dev_speaker, to_dev_speaker, _, _ = data_utils.prepare_data(
         FLAGS.data_dir,
         from_train_data,
         to_train_data,
         from_dev_data,
         to_dev_data,
         FLAGS.from_vocab_size,
-        FLAGS.to_vocab_size)
+        FLAGS.to_vocab_size,
+        FLAGS.from_speaker_size,
+        FLAGS.to_speaker_size)
     print ("OK!!!")
   else:
     # Prepare WMT data.
     print("Preparing WMT data in %s" % FLAGS.data_dir)
-    from_train, to_train, from_dev, to_dev, _, _ = data_utils.prepare_wmt_data(
-        FLAGS.data_dir, FLAGS.from_vocab_size, FLAGS.to_vocab_size)
+    from_train, to_train, from_dev, to_dev, _, _, from_train_speaker, to_train_speaker, from_dev_speaker, to_dev_speaker, _, _ = data_utils.prepare_wmt_data(
+        FLAGS.data_dir, FLAGS.from_vocab_size, FLAGS.to_vocab_size, FLAGS.from_speaker_size, FLAGS.to_speaker_size)
     print ("OK!!!")
 
   with tf.Session() as sess:
@@ -187,8 +196,8 @@ def train():
     print ("Reading development and training data (limit: %d)."
            % FLAGS.max_train_data_size)
     
-    dev_set = read_data(from_dev, to_dev)
-    train_set = read_data(from_train, to_train, 
+    dev_set = read_data(from_dev, to_dev, to_dev_speaker)
+    train_set = read_data(from_train, to_train, to_train_speaker, 
                             max_size=FLAGS.max_train_data_size)
     train_bucket_sizes = [len(train_set[b]) for b in xrange(len(_buckets))]
     train_total_size = float(sum(train_bucket_sizes))
@@ -211,7 +220,8 @@ def train():
 
       # Get a batch and make a step.
       start_time = time.time()
-      encoder_inputs, word_inputs, target_weights = model.get_batch(train_set, bucket_id)
+      encoder_inputs, word_inputs, person_inputs, target_weights = model.get_batch(train_set, 
+                                                                                    bucket_id)
 
       # print('encoder:', encoder_inputs[:10])
       # print('word:', word_inputs[:10])
@@ -219,7 +229,7 @@ def train():
       # sys.exit()
       # if (current_step == 5):
           # break
-      _, step_loss, _ = model.step(sess, encoder_inputs, word_inputs,
+      _, step_loss, _ = model.step(sess, encoder_inputs, word_inputs, person_inputs,
                                    target_weights, bucket_id, False)
       step_time += (time.time() - start_time) / FLAGS.steps_per_checkpoint
       loss += step_loss / FLAGS.steps_per_checkpoint
@@ -245,8 +255,9 @@ def train():
           if len(dev_set[bucket_id]) == 0:
             print("  eval: empty bucket %d" % (bucket_id))
             continue
-          encoder_inputs, word_inputs, target_weights = model.get_batch(dev_set, bucket_id)
-          _, eval_loss, _ = model.step(sess, encoder_inputs, word_inputs,
+          encoder_inputs, word_inputs, person_inputs, target_weights = model.get_batch(dev_set, 
+                                                                                    bucket_id)
+          _, eval_loss, _ = model.step(sess, encoder_inputs, word_inputs, person_inputs,
                                        target_weights, bucket_id, True)
           eval_ppx = math.exp(float(eval_loss)) if eval_loss < 300 else float(
               "inf")
@@ -275,6 +286,7 @@ def decode():
     while sentence:
       # Get token-ids for the input sentence.
       token_ids = data_utils.sentence_to_token_ids(tf.compat.as_bytes(sentence), en_vocab)
+      person_ids = [500000 for _ in range(50)]
       # Which bucket does it belong to?
       bucket_id = len(_buckets) - 1
       for i, bucket in enumerate(_buckets):
@@ -285,10 +297,16 @@ def decode():
         logging.warning("Sentence truncated: %s", sentence)
 
       # Get a 1-element batch to feed the sentence to the model.
-      encoder_inputs, word_inputs, target_weights = model.get_batch(
-          {bucket_id: [(token_ids, [])]}, bucket_id)
+      encoder_inputs, word_inputs, person_inputs, target_weights = model.get_batch(
+          {bucket_id: [(token_ids, [], person_ids)]}, bucket_id)
+      print('encoder_inputs:', encoder_inputs[:10])
+      print()
+      print('word_inputs:', word_inputs[:10])
+      print()
+      print('person_inputs:', person_inputs[:10])
+      print()
       # Get output logits for the sentence.
-      _, _, output_logits = model.step(sess, encoder_inputs, word_inputs,
+      _, _, output_logits = model.step(sess, encoder_inputs, word_inputs, person_inputs,
                                        target_weights, bucket_id, True)
       # This is a greedy decoder - outputs are just argmaxes of output_logits.
       outputs = [int(np.argmax(logit, axis=1)) for logit in output_logits]
